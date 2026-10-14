@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "purpose": "Independent diffuse surface assets, not a baked island or building platform",
+  "authoritative_geometry": "EstateView.PLOT_CELLS and native TileMapLayer.map_to_local/local_to_map, unchanged",
+  "assets": [
+    {
+      "id": "grass",
+      "kind": "original generated top-down diffuse texture",
+      "generator": "OpenAI image generation",
+      "prompt": "A truly seamless tileable SQUARE top-down diffuse ground texture for an elegant Chinese mythological 2D isometric building game. Soft hand-painted jade and sage meadow grass, restrained warm moss patches, extremely subtle broad color variation, tiny soft pale tufts sparse. Orthographic topdown, flat lighting, no visible direction, no object shadows. Low contrast suitable beneath ornate buildings, clean painterly fantasy quality. NO black grain dots, no border, no island, no platforms, no buildings, no trees, no flowers or prominent rocks, no horizon, no perspective, no text. Texture must continue naturally across all four edges.",
+      "original_source": "/workspace/scratch/b40c4a35ac94/generated_images/exec-2480f42d-b021-4a74-9447-53d2482ac1ec.png",
+      "runtime_path": "assets/terrain/meadow-diffuse.png",
+      "original_source_sha256": "f3f0841781c5d9d5b37df48fb69fe7150e59ddcf94638233e59a481ce6af0597",
+      "runtime_sha256": "f3f0841781c5d9d5b37df48fb69fe7150e59ddcf94638233e59a481ce6af0597",
+      "original_bytes_preserved": true,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "opaque": true
+      },
+      "repeat_lattice_cells": [
+        8,
+        8
+      ],
+      "native_tile_dimensions": [
+        64,
+        32
+      ],
+      "uv_mapping": "u=(world_y/32+world_x/64)/repeat; v=(world_y/32-world_x/64)/repeat",
+      "image_edits": "None. Original bytes copied unchanged; runtime shader applies surface to native geometry.",
+      "mipmaps": true,
+      "seam_measurement": {
+        "metric": "mean absolute RGB channel jump in 8-bit values",
+        "horizontal_wrap": 9.217437533227008,
+        "vertical_wrap": 9.589845826687933,
+        "adjacent_rows": 7.579329863510987
+      },
+      "verification": {
+        "source_pixels_inspected": true,
+        "native_repeated_surface": "Verified in actual Godot compatibility renderer through official CUA, baseline plus pan and wheel zoom. No visible tile joins or discontinuous texture seams at observed scales.",
+        "claim": "Visually continuous repeated surface at the verified estate scales; source edge values are not mathematically identical.",
+        "native_capture": "docs/estate-polish-after.png"
+      },
+      "packaged_original": "art-source/terrain/meadow-diffuse-original.png"
+    },
+    {
+      "id": "stone",
+      "kind": "original generated top-down diffuse texture",
+      "generator": "OpenAI image generation",
+      "prompt": "A truly seamless tileable SQUARE top-down diffuse ground texture for elegant Chinese mythological 2D isometric building game. Soft hand-painted grey-beige warm limestone path paving, medium rectangular irregularly sized old slabs with fine natural wear, subtle jade-grey moss in very narrow low-contrast joints. Flat orthographic topdown lighting, no strong shadows. Calm light neutral values, polished hand-painted fantasy game texture. NO border, no island, no platforms, no buildings, no objects, no text, no perspective, no black thick lines, no high contrast dark holes. Edge pattern must tile seamlessly in every direction.",
+      "original_source": "/workspace/scratch/b40c4a35ac94/generated_images/exec-4ffa4a53-eab8-42c9-b0a6-dc97b15666e1.png",
+      "runtime_path": "assets/terrain/stone-diffuse.png",
+      "original_source_sha256": "8f0796a5cc74cb1ff1f941e269c6dd62c60f16e7641a893bb95ec240f2b371d5",
+      "runtime_sha256": "8f0796a5cc74cb1ff1f941e269c6dd62c60f16e7641a893bb95ec240f2b371d5",
+      "original_bytes_preserved": true,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "opaque": true
+      },
+      "repeat_lattice_cells": [
+        3,
+        3
+      ],
+      "native_tile_dimensions": [
+        64,
+        32
+      ],
+      "uv_mapping": "u=(world_y/32+world_x/64)/repeat; v=(world_y/32-world_x/64)/repeat",
+      "image_edits": "None. Original bytes copied unchanged; runtime shader applies surface to native geometry.",
+      "mipmaps": true,
+      "seam_measurement": {
+        "metric": "mean absolute RGB channel jump in 8-bit values",
+        "horizontal_wrap": 9.109782030834662,
+        "vertical_wrap": 11.045454545454545,
+        "adjacent_rows": 8.474616157797575
+      },
+      "verification": {
+        "source_pixels_inspected": true,
+        "native_repeated_surface": "Verified in actual Godot compatibility renderer through official CUA, baseline plus pan and wheel zoom. No visible tile joins or discontinuous texture seams at observed scales.",
+        "claim": "Visually continuous repeated surface at the verified estate scales; source edge values are not mathematically identical.",
+        "native_capture": "docs/estate-polish-after.png"
+      },
+      "packaged_original": "art-source/terrain/stone-diffuse-original.png"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-15",
+  "captured_at": "2026-10-15T01:51:25+08:00",
+  "repository": "honghuang-rpg",
+  "source_version": "0.10.0",
+  "selected_source_files": 659,
+  "source_comparison": "All selected files matched current main working directory after ignoring only UTF-8 BOM and CRLF/LF differences.",
+  "added_source_files": 7,
+  "updated_source_files": 0,
+  "inventory_sha256": "3f60f3d17b05fed44a059c609d53a8a8edc0971e5a1fad237bd18de54107cd44",
+  "scope": "Independent project source and engineering documents; original private databases, credentials, model weights, caches and local delivery archives not published."
+}

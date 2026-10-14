@@ -1,7 +1,1880 @@
 {
-  "snapshot_date": "2026-10-14",
-  "scope": "Published source snapshot; Git may normalize text line endings",
+  "snapshot_date": "2026-10-15",
+  "captured_at": "2026-10-15T01:51:25+08:00",
+  "scope": "Selected current working source. bytes/sha256 describe published Git blobs; original_copy_sha256 describes source input bytes before Git text normalization. Private data and non-distributable resources excluded.",
   "files": [
+    {
+      "path": "assets/avatars/bigan-premium.webp",
+      "bytes": 38316,
+      "sha256": "390af9f4d8790fb2ece1aa940ab5f477e82699660f726e31af8c531538574f73",
+      "original_copy_sha256": "390af9f4d8790fb2ece1aa940ab5f477e82699660f726e31af8c531538574f73"
+    },
+    {
+      "path": "assets/avatars/bixiao-premium.webp",
+      "bytes": 44762,
+      "sha256": "25c7d1797161f41f1a25e857f98d63d1e5cb16cb93b000ce79e6a7b230b48397",
+      "original_copy_sha256": "25c7d1797161f41f1a25e857f98d63d1e5cb16cb93b000ce79e6a7b230b48397"
+    },
+    {
+      "path": "assets/avatars/chenqi-premium.webp",
+      "bytes": 51210,
+      "sha256": "6d3fbd8d1977d8cd222d3468720e6ea1f1eb72f6ca0a17e64ba2ddfebb928442",
+      "original_copy_sha256": "6d3fbd8d1977d8cd222d3468720e6ea1f1eb72f6ca0a17e64ba2ddfebb928442"
+    },
+    {
+      "path": "assets/avatars/chijingzi-premium.webp",
+      "bytes": 53778,
+      "sha256": "edaadb8883a7a348dc939051ab4092ddabb59cce104dfef4ba01d6b492e609c3",
+      "original_copy_sha256": "edaadb8883a7a348dc939051ab4092ddabb59cce104dfef4ba01d6b492e609c3"
+    },
+    {
+      "path": "assets/avatars/cihang-premium.webp",
+      "bytes": 49962,
+      "sha256": "fdb6f2caebef15f235e0e0207b959fc7ad439ee52e2eba09447bcd0a38c109c1",
+      "original_copy_sha256": "fdb6f2caebef15f235e0e0207b959fc7ad439ee52e2eba09447bcd0a38c109c1"
+    },
+    {
+      "path": "assets/avatars/daoxing-premium.webp",
+      "bytes": 49200,
+      "sha256": "592aea201606b0335b7ba5c3e5d11cdb8a52dff8895ae0428db4223f7064b06d",
+      "original_copy_sha256": "592aea201606b0335b7ba5c3e5d11cdb8a52dff8895ae0428db4223f7064b06d"
+    },
+    {
+      "path": "assets/avatars/dengchanyu-premium.webp",
+      "bytes": 50658,
+      "sha256": "59051591467547f91526fee58087b9fb839172daade0b96e8a4904391adfbbe0",
+      "original_copy_sha256": "59051591467547f91526fee58087b9fb839172daade0b96e8a4904391adfbbe0"
+    },
+    {
+      "path": "assets/avatars/duobao-premium.webp",
+      "bytes": 53860,
+      "sha256": "06bbba62687f0ec2cc055702a3b57da866b0c06a670a8a812a314d28bd2206bc",
+      "original_copy_sha256": "06bbba62687f0ec2cc055702a3b57da866b0c06a670a8a812a314d28bd2206bc"
+    },
+    {
+      "path": "assets/avatars/guangchengzi-premium.webp",
+      "bytes": 52928,
+      "sha256": "23ef34d1b65b6d0fe2df4396bdf7ca7e251b0bc2a48072f4b660f7fba713157a",
+      "original_copy_sha256": "23ef34d1b65b6d0fe2df4396bdf7ca7e251b0bc2a48072f4b660f7fba713157a"
+    },
+    {
+      "path": "assets/avatars/guiling-premium.webp",
+      "bytes": 57438,
+      "sha256": "5e6b6deeb584d15a0a64715509cee447e62f018501b75ef0edc75f1c818e7532",
+      "original_copy_sha256": "5e6b6deeb584d15a0a64715509cee447e62f018501b75ef0edc75f1c818e7532"
+    },
+    {
+      "path": "assets/avatars/huangfeihu-premium.webp",
+      "bytes": 38300,
+      "sha256": "317e0a0c3a25227b440e96de0871c05de6b87d044b482152d6a81af163c2c43d",
+      "original_copy_sha256": "317e0a0c3a25227b440e96de0871c05de6b87d044b482152d6a81af163c2c43d"
+    },
+    {
+      "path": "assets/avatars/huanglong-premium.webp",
+      "bytes": 54776,
+      "sha256": "8dd8b171f5c6abe0a3392eae15b59fb9cdb753bc37245d6f1f846f33c77de507",
+      "original_copy_sha256": "8dd8b171f5c6abe0a3392eae15b59fb9cdb753bc37245d6f1f846f33c77de507"
+    },
+    {
+      "path": "assets/avatars/huangtianhua-premium.webp",
+      "bytes": 54428,
+      "sha256": "2d51916a6ee476d0c1e8f956b1f65d44ec955cda96a1828fe9a34d885533faab",
+      "original_copy_sha256": "2d51916a6ee476d0c1e8f956b1f65d44ec955cda96a1828fe9a34d885533faab"
+    },
+    {
+      "path": "assets/avatars/jiangziya-premium.webp",
+      "bytes": 51196,
+      "sha256": "040ffbb96addc69f41b8753283ce54dffcb8a697665ef4f6ab4eada94b5199d5",
+      "original_copy_sha256": "040ffbb96addc69f41b8753283ce54dffcb8a697665ef4f6ab4eada94b5199d5"
+    },
+    {
+      "path": "assets/avatars/jieyin-premium.webp",
+      "bytes": 46846,
+      "sha256": "bad039643b0b438e3f31583095a067a65ddde08fb6c75cd0cce89b42d7fd0e32",
+      "original_copy_sha256": "bad039643b0b438e3f31583095a067a65ddde08fb6c75cd0cce89b42d7fd0e32"
+    },
+    {
+      "path": "assets/avatars/jifa-premium.webp",
+      "bytes": 43234,
+      "sha256": "96535455a6c6227be1ddf34e9ef409dd5c1757f1d3ebfd989edc3e2fca48b052",
+      "original_copy_sha256": "96535455a6c6227be1ddf34e9ef409dd5c1757f1d3ebfd989edc3e2fca48b052"
+    },
+    {
+      "path": "assets/avatars/jinling-premium.webp",
+      "bytes": 55648,
+      "sha256": "c28751a5680c432bcc34b6186aa6b3f8a148347aa619d96ce14ff56a86c53cd8",
+      "original_copy_sha256": "c28751a5680c432bcc34b6186aa6b3f8a148347aa619d96ce14ff56a86c53cd8"
+    },
+    {
+      "path": "assets/avatars/juliusun-premium.webp",
+      "bytes": 49956,
+      "sha256": "0f90c88fd8e88e3ed158f1d469766f2cc3599fb1e05ce7ff43fcc6970bd9b6ba",
+      "original_copy_sha256": "0f90c88fd8e88e3ed158f1d469766f2cc3599fb1e05ce7ff43fcc6970bd9b6ba"
+    },
+    {
+      "path": "assets/avatars/kongxuan-premium.webp",
+      "bytes": 57224,
+      "sha256": "dc07bfd9369cddcb646c279c13d41ff5cacf23acee166bef38c73c94bd820f2b",
+      "original_copy_sha256": "dc07bfd9369cddcb646c279c13d41ff5cacf23acee166bef38c73c94bd820f2b"
+    },
+    {
+      "path": "assets/avatars/leizhenzi-premium.webp",
+      "bytes": 50748,
+      "sha256": "80a7493a873c202dec55116c68ebbb167086bff7210ad4c6d943bef373852074",
+      "original_copy_sha256": "80a7493a873c202dec55116c68ebbb167086bff7210ad4c6d943bef373852074"
+    },
+    {
+      "path": "assets/avatars/longji-premium.webp",
+      "bytes": 53658,
+      "sha256": "a758c384c5dad5f47cb64f011f29be7c9e3ae1731bd89dc81bdc7e4ce5503b58",
+      "original_copy_sha256": "a758c384c5dad5f47cb64f011f29be7c9e3ae1731bd89dc81bdc7e4ce5503b58"
+    },
+    {
+      "path": "assets/avatars/luya-premium.webp",
+      "bytes": 55152,
+      "sha256": "7ce7ebaa9863f11bd303145eb744cf63ccaa7466510cdeba3a9b5b595cdcca3a",
+      "original_copy_sha256": "7ce7ebaa9863f11bd303145eb744cf63ccaa7466510cdeba3a9b5b595cdcca3a"
+    },
+    {
+      "path": "assets/avatars/nezha-premium.webp",
+      "bytes": 51678,
+      "sha256": "46717c6e90af8563a293cb1b3a4a775ee0e22bd2d900c3764695cef296611860",
+      "original_copy_sha256": "46717c6e90af8563a293cb1b3a4a775ee0e22bd2d900c3764695cef296611860"
+    },
+    {
+      "path": "assets/avatars/nvwa-premium.webp",
+      "bytes": 56928,
+      "sha256": "50d41d690e9ee769c23f712729094a9fac493a3b75fda7e762ccd44145c0b727",
+      "original_copy_sha256": "50d41d690e9ee769c23f712729094a9fac493a3b75fda7e762ccd44145c0b727"
+    },
+    {
+      "path": "assets/avatars/puxian-premium.webp",
+      "bytes": 51996,
+      "sha256": "3bc968afebf01e5e4341b31d1a8252fc22d8bcbdf98883d8719a77699fda3571",
+      "original_copy_sha256": "3bc968afebf01e5e4341b31d1a8252fc22d8bcbdf98883d8719a77699fda3571"
+    },
+    {
+      "path": "assets/avatars/qingxu-premium.webp",
+      "bytes": 56904,
+      "sha256": "0c55b54ec140f5be80b51220679a0e15278fe9d8840362f619523716e86ee4cd",
+      "original_copy_sha256": "0c55b54ec140f5be80b51220679a0e15278fe9d8840362f619523716e86ee4cd"
+    },
+    {
+      "path": "assets/avatars/qiongxiao-premium.webp",
+      "bytes": 49196,
+      "sha256": "47eb7509e9c3f4ea130c45734c5102d66b4907e4639c6a3183818f32c6736eca",
+      "original_copy_sha256": "47eb7509e9c3f4ea130c45734c5102d66b4907e4639c6a3183818f32c6736eca"
+    },
+    {
+      "path": "assets/avatars/randeng-premium.webp",
+      "bytes": 49132,
+      "sha256": "2027fe11a5c6785b934569bc53bb64db85f96a673c841a1fc37da97ad7632377",
+      "original_copy_sha256": "2027fe11a5c6785b934569bc53bb64db85f96a673c841a1fc37da97ad7632377"
+    },
+    {
+      "path": "assets/avatars/shengongbao-premium.webp",
+      "bytes": 52350,
+      "sha256": "a762e24f1094720713fbfa284de3e5d3e2485c6c5f6b3ce1673524cf9e71c07d",
+      "original_copy_sha256": "a762e24f1094720713fbfa284de3e5d3e2485c6c5f6b3ce1673524cf9e71c07d"
+    },
+    {
+      "path": "assets/avatars/shiji-premium.webp",
+      "bytes": 52722,
+      "sha256": "0e728ed57be7a13683b871fc5d337284953c15398a4243aa2a284c8892ec3959",
+      "original_copy_sha256": "0e728ed57be7a13683b871fc5d337284953c15398a4243aa2a284c8892ec3959"
+    },
+    {
+      "path": "assets/avatars/sudaji-premium.webp",
+      "bytes": 51064,
+      "sha256": "9cfcdce2a5530873d17bc23a30fdb12b1397078be570770addc0653189b5fff3",
+      "original_copy_sha256": "9cfcdce2a5530873d17bc23a30fdb12b1397078be570770addc0653189b5fff3"
+    },
+    {
+      "path": "assets/avatars/taishang-premium.webp",
+      "bytes": 53086,
+      "sha256": "453d314bcc1966319dac1fd43142e9b551fdf2481b4e1d98edcef07a778f2747",
+      "original_copy_sha256": "453d314bcc1966319dac1fd43142e9b551fdf2481b4e1d98edcef07a778f2747"
+    },
+    {
+      "path": "assets/avatars/taiyi-premium.webp",
+      "bytes": 42552,
+      "sha256": "e951f471b288c5c0e3eb7e569a58d173d4d5bcfdf71ba07759141b511134d833",
+      "original_copy_sha256": "e951f471b288c5c0e3eb7e569a58d173d4d5bcfdf71ba07759141b511134d833"
+    },
+    {
+      "path": "assets/avatars/tongtian-premium.webp",
+      "bytes": 49246,
+      "sha256": "d76bf0d3343fb7ef06ce41afbbe3fbbce28e99910bbf8f6647dbf53b61d57006",
+      "original_copy_sha256": "d76bf0d3343fb7ef06ce41afbbe3fbbce28e99910bbf8f6647dbf53b61d57006"
+    },
+    {
+      "path": "assets/avatars/tuxingsun-premium.webp",
+      "bytes": 47550,
+      "sha256": "6674a6bf90e202e3eb338f8860c89b3f495ae48a17702bfa882d2d36d0a6c4f1",
+      "original_copy_sha256": "6674a6bf90e202e3eb338f8860c89b3f495ae48a17702bfa882d2d36d0a6c4f1"
+    },
+    {
+      "path": "assets/avatars/weihu-premium.webp",
+      "bytes": 46138,
+      "sha256": "978c6b6964c8eb2ddce0a5d20b6d7fb548c2e334f6a7532759c31e7b00969699",
+      "original_copy_sha256": "978c6b6964c8eb2ddce0a5d20b6d7fb548c2e334f6a7532759c31e7b00969699"
+    },
+    {
+      "path": "assets/avatars/wenshu-premium.webp",
+      "bytes": 54156,
+      "sha256": "d7ccd9b60b135f592197b72900e29e01e4bcdd9dbbb1fa49c02a3ad2e164fcfa",
+      "original_copy_sha256": "d7ccd9b60b135f592197b72900e29e01e4bcdd9dbbb1fa49c02a3ad2e164fcfa"
+    },
+    {
+      "path": "assets/avatars/wenzhong-premium.webp",
+      "bytes": 57140,
+      "sha256": "1b8c4f670261d6d024295c61cbb7db8eb432a6c1144b4599e5eeb93a1817bf11",
+      "original_copy_sha256": "1b8c4f670261d6d024295c61cbb7db8eb432a6c1144b4599e5eeb93a1817bf11"
+    },
+    {
+      "path": "assets/avatars/wudang-premium.webp",
+      "bytes": 53598,
+      "sha256": "9b00abb28ba249581de7aa25fe6eb7bbfbe1efa6d78ce1daabd535359fa3c1fc",
+      "original_copy_sha256": "9b00abb28ba249581de7aa25fe6eb7bbfbe1efa6d78ce1daabd535359fa3c1fc"
+    },
+    {
+      "path": "assets/avatars/wuji-premium.webp",
+      "bytes": 44022,
+      "sha256": "3a595c1adbfb56a12d3b249906382bd0c3fe7d6c25d6e594794b09189a4a27dd",
+      "original_copy_sha256": "3a595c1adbfb56a12d3b249906382bd0c3fe7d6c25d6e594794b09189a4a27dd"
+    },
+    {
+      "path": "assets/avatars/xuandu-premium.webp",
+      "bytes": 39504,
+      "sha256": "3831e842f2939553879ccff94d651af41bb005ab8ab4455c5a178ec1604a96d9",
+      "original_copy_sha256": "3831e842f2939553879ccff94d651af41bb005ab8ab4455c5a178ec1604a96d9"
+    },
+    {
+      "path": "assets/avatars/yangjian-premium.webp",
+      "bytes": 53816,
+      "sha256": "7ccd2fc1826095601de066e6ce9278f694cd898c83a74a94fa12fc7719db93b9",
+      "original_copy_sha256": "7ccd2fc1826095601de066e6ce9278f694cd898c83a74a94fa12fc7719db93b9"
+    },
+    {
+      "path": "assets/avatars/yangren-premium.webp",
+      "bytes": 49660,
+      "sha256": "7ae8ea3f06b5f2bbcbbd8249e7497e80b3029c643e3289d91269b827b6026fb3",
+      "original_copy_sha256": "7ae8ea3f06b5f2bbcbbd8249e7497e80b3029c643e3289d91269b827b6026fb3"
+    },
+    {
+      "path": "assets/avatars/yuanshi-premium.webp",
+      "bytes": 45894,
+      "sha256": "b077b6f73af60768fccb8876656b29871f47e01eca67d38ca928f468e000219d",
+      "original_copy_sha256": "b077b6f73af60768fccb8876656b29871f47e01eca67d38ca928f468e000219d"
+    },
+    {
+      "path": "assets/avatars/yuding-premium.webp",
+      "bytes": 51146,
+      "sha256": "17a23a0864316ff02f8dafb83db0f05bfc148d0b63e3c3e33fe5596f6954c520",
+      "original_copy_sha256": "17a23a0864316ff02f8dafb83db0f05bfc148d0b63e3c3e33fe5596f6954c520"
+    },
+    {
+      "path": "assets/avatars/yunxiao-premium.webp",
+      "bytes": 43874,
+      "sha256": "c04c561077c7fff148e23dce49255d1d5ba6ded0c902f514aef39f0f58e66612",
+      "original_copy_sha256": "c04c561077c7fff148e23dce49255d1d5ba6ded0c902f514aef39f0f58e66612"
+    },
+    {
+      "path": "assets/avatars/zhaogongming-premium.webp",
+      "bytes": 45624,
+      "sha256": "9da6cc940ca908f2693ef7ec8518303d19ab5bfac668ce2e2b1795b498f8b732",
+      "original_copy_sha256": "9da6cc940ca908f2693ef7ec8518303d19ab5bfac668ce2e2b1795b498f8b732"
+    },
+    {
+      "path": "assets/avatars/zhenglun-premium.webp",
+      "bytes": 51272,
+      "sha256": "2b5393a7df98f0eb73fb892467513f402da087fed2b2e736912068ca228badb1",
+      "original_copy_sha256": "2b5393a7df98f0eb73fb892467513f402da087fed2b2e736912068ca228badb1"
+    },
+    {
+      "path": "assets/avatars/zhouwang-premium.webp",
+      "bytes": 48034,
+      "sha256": "21776bd430d5d1402641840524de2c8d67cf75101332c741883266cdce247f63",
+      "original_copy_sha256": "21776bd430d5d1402641840524de2c8d67cf75101332c741883266cdce247f63"
+    },
+    {
+      "path": "assets/avatars/zhunti-premium.webp",
+      "bytes": 54264,
+      "sha256": "6b5a8084b0bebb5ed00bccc18f51c8e7a318c622b65b859b021a6fbbb5f6f8ed",
+      "original_copy_sha256": "6b5a8084b0bebb5ed00bccc18f51c8e7a318c622b65b859b021a6fbbb5f6f8ed"
+    },
+    {
+      "path": "assets/battle/danfire-premium.webp",
+      "bytes": 443226,
+      "sha256": "8b8204d225c09434d43a90cae0463b0aa50ac2cd852cf67f24d5ea30fa2a88b7",
+      "original_copy_sha256": "8b8204d225c09434d43a90cae0463b0aa50ac2cd852cf67f24d5ea30fa2a88b7"
+    },
+    {
+      "path": "assets/battle/nezha/atlas.json",
+      "bytes": 1842,
+      "sha256": "760ba01532f673decf96ccf68adbe6fad01701730a780d9ec28ff885c05a544c",
+      "original_copy_sha256": "760ba01532f673decf96ccf68adbe6fad01701730a780d9ec28ff885c05a544c"
+    },
+    {
+      "path": "assets/battle/nezha/character-scale-profile.json",
+      "bytes": 705,
+      "sha256": "c857f0e5a915707fddc209a81d55b3a678094dfbfd7a18947e08de10e3c2073d",
+      "original_copy_sha256": "c857f0e5a915707fddc209a81d55b3a678094dfbfd7a18947e08de10e3c2073d"
+    },
+    {
+      "path": "assets/battle/nezha/idle-00.png",
+      "bytes": 162247,
+      "sha256": "796c568ca44bbcd8b8de417cee5d088e244036511b9e8799219388db876f0971",
+      "original_copy_sha256": "796c568ca44bbcd8b8de417cee5d088e244036511b9e8799219388db876f0971"
+    },
+    {
+      "path": "assets/battle/nezha/idle-01.png",
+      "bytes": 162719,
+      "sha256": "c4b41a1e2cdcef20e1c309a19012c4443ef8c76c2024687bf8447ea6db7af635",
+      "original_copy_sha256": "c4b41a1e2cdcef20e1c309a19012c4443ef8c76c2024687bf8447ea6db7af635"
+    },
+    {
+      "path": "assets/battle/nezha/idle-02.png",
+      "bytes": 161400,
+      "sha256": "07c1c5da980778a5729c8777c4a25e2949933489b7704e414e5f4d224e6b68b2",
+      "original_copy_sha256": "07c1c5da980778a5729c8777c4a25e2949933489b7704e414e5f4d224e6b68b2"
+    },
+    {
+      "path": "assets/battle/nezha/idle-03.png",
+      "bytes": 160632,
+      "sha256": "1781d52f29c8800b3797085c8d9c21d354dab65a9b6efe8e645a8bcc11444748",
+      "original_copy_sha256": "1781d52f29c8800b3797085c8d9c21d354dab65a9b6efe8e645a8bcc11444748"
+    },
+    {
+      "path": "assets/battle/nezha/idle-review.gif",
+      "bytes": 202498,
+      "sha256": "e5a2d941b1bea3f32d841d3fd728d7600e7fecf1a19044816006f185579b5176",
+      "original_copy_sha256": "e5a2d941b1bea3f32d841d3fd728d7600e7fecf1a19044816006f185579b5176"
+    },
+    {
+      "path": "assets/battle/nezha/idle.png",
+      "bytes": 641607,
+      "sha256": "dabdee24c98ebfde6dbd7c062f9ddb8ecf15a5b3fc8529692f703810d6c180df",
+      "original_copy_sha256": "dabdee24c98ebfde6dbd7c062f9ddb8ecf15a5b3fc8529692f703810d6c180df"
+    },
+    {
+      "path": "assets/battle/nezha/master.png",
+      "bytes": 162247,
+      "sha256": "796c568ca44bbcd8b8de417cee5d088e244036511b9e8799219388db876f0971",
+      "original_copy_sha256": "796c568ca44bbcd8b8de417cee5d088e244036511b9e8799219388db876f0971"
+    },
+    {
+      "path": "assets/battle/nezha/metadata.json",
+      "bytes": 2048,
+      "sha256": "9025e5614bc5324ebfd468671795ebe70e9573205e077ef31461b648a7d6bfb7",
+      "original_copy_sha256": "9025e5614bc5324ebfd468671795ebe70e9573205e077ef31461b648a7d6bfb7"
+    },
+    {
+      "path": "assets/battle/thundermarsh-premium.webp",
+      "bytes": 474790,
+      "sha256": "6110c24a89818cb8845ee5d15caef730e38c8ddd0ef27c261a18f1d86878d7d6",
+      "original_copy_sha256": "6110c24a89818cb8845ee5d15caef730e38c8ddd0ef27c261a18f1d86878d7d6"
+    },
+    {
+      "path": "assets/battle-background-premium.webp",
+      "bytes": 369394,
+      "sha256": "54f65f8f6bfa2905a91feadfe0c75076c8e8193105704e764ea3a4a5d5d90827",
+      "original_copy_sha256": "54f65f8f6bfa2905a91feadfe0c75076c8e8193105704e764ea3a4a5d5d90827"
+    },
+    {
+      "path": "assets/buildings/alchemy-idle-v02.webp",
+      "bytes": 77088,
+      "sha256": "131f34fe3fb1d4062fbff0bf5a7dd30faa0699222e9818bf07cb6aa824092dcd",
+      "original_copy_sha256": "131f34fe3fb1d4062fbff0bf5a7dd30faa0699222e9818bf07cb6aa824092dcd"
+    },
+    {
+      "path": "assets/buildings/alchemy-premium.webp",
+      "bytes": 91190,
+      "sha256": "f0ab67ce3f7231c181864c64b67209b175db858c0516bdef0501fb0bc202f0c3",
+      "original_copy_sha256": "f0ab67ce3f7231c181864c64b67209b175db858c0516bdef0501fb0bc202f0c3"
+    },
+    {
+      "path": "assets/buildings/alchemy-stage2-v02.webp",
+      "bytes": 90830,
+      "sha256": "dee4bbfb22748a27e2989eebbc5e44f9c0b3dc179b65b8c3eb315058778bd34c",
+      "original_copy_sha256": "dee4bbfb22748a27e2989eebbc5e44f9c0b3dc179b65b8c3eb315058778bd34c"
+    },
+    {
+      "path": "assets/buildings/alchemy-stage3-beta.webp",
+      "bytes": 117204,
+      "sha256": "0d1c61f1e3bbcc4d469c3b4cbfdee45f5b7dd2adcbbd4cceedb57af585e0c12e",
+      "original_copy_sha256": "0d1c61f1e3bbcc4d469c3b4cbfdee45f5b7dd2adcbbd4cceedb57af585e0c12e"
+    },
+    {
+      "path": "assets/buildings/arena-premium.webp",
+      "bytes": 88086,
+      "sha256": "7775d29f3a9d24a8cc682ec4e6bca2ac28236f009baee39bf32e968a48b08129",
+      "original_copy_sha256": "7775d29f3a9d24a8cc682ec4e6bca2ac28236f009baee39bf32e968a48b08129"
+    },
+    {
+      "path": "assets/buildings/engineering-forge-v02.webp",
+      "bytes": 82012,
+      "sha256": "bb70e3b9f3a3c9a5316f0544d34818f6b6950191c205777d2084368e66071e0c",
+      "original_copy_sha256": "bb70e3b9f3a3c9a5316f0544d34818f6b6950191c205777d2084368e66071e0c"
+    },
+    {
+      "path": "assets/buildings/engineering-teaching-v02.webp",
+      "bytes": 75862,
+      "sha256": "e3c6d088d1dd3e76b9a8251e28bf1adfa730af42caac811c394c5d72b3e1115b",
+      "original_copy_sha256": "e3c6d088d1dd3e76b9a8251e28bf1adfa730af42caac811c394c5d72b3e1115b"
+    },
+    {
+      "path": "assets/buildings/farm-premium.webp",
+      "bytes": 79146,
+      "sha256": "7fc3c78dec142694dc1d89cdd3a3ac7ec18abc9ba39f91064039f314db890f5c",
+      "original_copy_sha256": "7fc3c78dec142694dc1d89cdd3a3ac7ec18abc9ba39f91064039f314db890f5c"
+    },
+    {
+      "path": "assets/buildings/forge-idle-v02.webp",
+      "bytes": 75418,
+      "sha256": "22e167f6f99a5a3e664c6cfe701ab95417e9ad01ab4f95d2b0efb8bbe736a587",
+      "original_copy_sha256": "22e167f6f99a5a3e664c6cfe701ab95417e9ad01ab4f95d2b0efb8bbe736a587"
+    },
+    {
+      "path": "assets/buildings/forge-premium.webp",
+      "bytes": 81322,
+      "sha256": "44eaf699632d2ee079a3aeb327d24ecf7d19746d8e1fd56b2f6f847d41c11067",
+      "original_copy_sha256": "44eaf699632d2ee079a3aeb327d24ecf7d19746d8e1fd56b2f6f847d41c11067"
+    },
+    {
+      "path": "assets/buildings/hall-expanded-beta.webp",
+      "bytes": 108652,
+      "sha256": "5d768aee7497f7cda83d51f12c215809cf31eb8eb7fbafaebbcb13e049951841",
+      "original_copy_sha256": "5d768aee7497f7cda83d51f12c215809cf31eb8eb7fbafaebbcb13e049951841"
+    },
+    {
+      "path": "assets/buildings/library-premium.webp",
+      "bytes": 99618,
+      "sha256": "a601e9202d35a0bff66046b929bd5cadea0f2e032c3ac0bf7e4e4fb5f4c81d29",
+      "original_copy_sha256": "a601e9202d35a0bff66046b929bd5cadea0f2e032c3ac0bf7e4e4fb5f4c81d29"
+    },
+    {
+      "path": "assets/buildings/spring-premium.webp",
+      "bytes": 99042,
+      "sha256": "c93607ee7689624157d3cee51fb0d6efb8f6d2f85fe58fe8f11e089cf1100048",
+      "original_copy_sha256": "c93607ee7689624157d3cee51fb0d6efb8f6d2f85fe58fe8f11e089cf1100048"
+    },
+    {
+      "path": "assets/buildings/wanxian-premium.webp",
+      "bytes": 93376,
+      "sha256": "b8d194bc041e76aab5f8683bf29f1a7cfe795e15d9920159c68fa0b7f97e93f0",
+      "original_copy_sha256": "b8d194bc041e76aab5f8683bf29f1a7cfe795e15d9920159c68fa0b7f97e93f0"
+    },
+    {
+      "path": "assets/enemies/dragon-lord-beta.webp",
+      "bytes": 67122,
+      "sha256": "78499d460e73d023e0a54ff7bec2800346765abdf4807e1f5feaaf7dba118a40",
+      "original_copy_sha256": "78499d460e73d023e0a54ff7bec2800346765abdf4807e1f5feaaf7dba118a40"
+    },
+    {
+      "path": "assets/enemies/fire-spirit-beta.webp",
+      "bytes": 53450,
+      "sha256": "2ad047e3fd74dff0e76f7c11ad88b2427db238df463b91550a825f8be77ba17c",
+      "original_copy_sha256": "2ad047e3fd74dff0e76f7c11ad88b2427db238df463b91550a825f8be77ba17c"
+    },
+    {
+      "path": "assets/enemies/furnace-king-beta.webp",
+      "bytes": 65454,
+      "sha256": "9f000fdfd2cd3648d69da0bc18223f0156bb1edfd5f2ca69b6128513ffac1ed4",
+      "original_copy_sha256": "9f000fdfd2cd3648d69da0bc18223f0156bb1edfd5f2ca69b6128513ffac1ed4"
+    },
+    {
+      "path": "assets/enemies/stone-general-beta.webp",
+      "bytes": 73088,
+      "sha256": "c2d34b3aa8f8b6194ffe5f3fcdb2ead6af34a411020028076f5ef1cc6ad46594",
+      "original_copy_sha256": "c2d34b3aa8f8b6194ffe5f3fcdb2ead6af34a411020028076f5ef1cc6ad46594"
+    },
+    {
+      "path": "assets/enemies/stone-guard-beta.webp",
+      "bytes": 62538,
+      "sha256": "552ce68d184e34c268fade881ae70d429c068d0cdca00cb74d2f66c1906063d9",
+      "original_copy_sha256": "552ce68d184e34c268fade881ae70d429c068d0cdca00cb74d2f66c1906063d9"
+    },
+    {
+      "path": "assets/enemies/thunder-guard-beta.webp",
+      "bytes": 63328,
+      "sha256": "0027479a39b91f8ab6e601653d2737f56a10812b6f365daacac66e8a76cb125e",
+      "original_copy_sha256": "0027479a39b91f8ab6e601653d2737f56a10812b6f365daacac66e8a76cb125e"
+    },
+    {
+      "path": "assets/estate-v05/azalea.png",
+      "bytes": 73833,
+      "sha256": "f1de3a4a6962d08ea983e20d583d25d5f1709e4b0c6cbc3b235ef280bd2e2158",
+      "original_copy_sha256": "f1de3a4a6962d08ea983e20d583d25d5f1709e4b0c6cbc3b235ef280bd2e2158"
+    },
+    {
+      "path": "assets/estate-v05/cloud-sea.png",
+      "bytes": 2083228,
+      "sha256": "f2fda26ff85e883e66995b15e015a9557dd261d599ececab73e6b840ce10811b",
+      "original_copy_sha256": "f2fda26ff85e883e66995b15e015a9557dd261d599ececab73e6b840ce10811b"
+    },
+    {
+      "path": "assets/estate-v05/jade-blossom.png",
+      "bytes": 67744,
+      "sha256": "725418ba84b172cc415878fdc73e471b056aef57ac53326a88fb54632bcd4495",
+      "original_copy_sha256": "725418ba84b172cc415878fdc73e471b056aef57ac53326a88fb54632bcd4495"
+    },
+    {
+      "path": "assets/estate-v05/prop-pack.json",
+      "bytes": 2672,
+      "sha256": "082ba6532675915e4dd1d385b254d1c0d72242e1643845ebf392f2662d11fd91",
+      "original_copy_sha256": "082ba6532675915e4dd1d385b254d1c0d72242e1643845ebf392f2662d11fd91"
+    },
+    {
+      "path": "assets/estate-v05/scholar-rock.png",
+      "bytes": 76595,
+      "sha256": "65b77e9ddf008f74cdca1ec54b08b3c68b929ee28f6708fb7387a27e7aa35524",
+      "original_copy_sha256": "65b77e9ddf008f74cdca1ec54b08b3c68b929ee28f6708fb7387a27e7aa35524"
+    },
+    {
+      "path": "assets/estate-v05/vermilion-lantern.png",
+      "bytes": 45909,
+      "sha256": "35abfce4268216775207eb8311e1bdf8e2511795016d39ca821cf3a765e1d2ff",
+      "original_copy_sha256": "35abfce4268216775207eb8311e1bdf8e2511795016d39ca821cf3a765e1d2ff"
+    },
+    {
+      "path": "assets/fonts/LICENSE.txt",
+      "bytes": 15632,
+      "sha256": "4a28145f3e9023587f826ef11b312e98bd39db5f42009043f8af65c25aedb8be",
+      "original_copy_sha256": "4a28145f3e9023587f826ef11b312e98bd39db5f42009043f8af65c25aedb8be"
+    },
+    {
+      "path": "assets/fonts/mashanzheng/MaShanZheng-Regular.ttf",
+      "bytes": 5857936,
+      "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+      "original_copy_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb"
+    },
+    {
+      "path": "assets/fonts/mashanzheng/OFL.txt",
+      "bytes": 4397,
+      "sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08",
+      "original_copy_sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08"
+    },
+    {
+      "path": "assets/fonts/NotoSansSC-Regular.otf",
+      "bytes": 600832,
+      "sha256": "c58ce030fad70a85192abf2b0ddcab2373ca5a6b3fdb1584205327c72717953a",
+      "original_copy_sha256": "c58ce030fad70a85192abf2b0ddcab2373ca5a6b3fdb1584205327c72717953a"
+    },
+    {
+      "path": "assets/fonts/NotoSerifSC-Regular.otf",
+      "bytes": 815056,
+      "sha256": "c33c5bc31fffa7f471f9f485e9e7d21f04c8e4def01f77c3236f8a28fa97a4b3",
+      "original_copy_sha256": "c33c5bc31fffa7f471f9f485e9e7d21f04c8e4def01f77c3236f8a28fa97a4b3"
+    },
+    {
+      "path": "assets/fonts/subset-manifest.json",
+      "bytes": 4924,
+      "sha256": "a135ebcd23e3822091c9f608309dbf2fb4105e8a4dad7dea002cbe675783a3a6",
+      "original_copy_sha256": "a135ebcd23e3822091c9f608309dbf2fb4105e8a4dad7dea002cbe675783a3a6"
+    },
+    {
+      "path": "assets/home-v05/home-garden.png",
+      "bytes": 3288014,
+      "sha256": "31f0634a013fff7300cd77bcf3f5ee344230b8a16277d730d8d3c98dba31d731",
+      "original_copy_sha256": "31f0634a013fff7300cd77bcf3f5ee344230b8a16277d730d8d3c98dba31d731"
+    },
+    {
+      "path": "assets/home-v05/nezha.png",
+      "bytes": 576086,
+      "sha256": "6c813dae2d248027bc008aea1837bff11605c297d7d3599bcaab53b9083d153b",
+      "original_copy_sha256": "6c813dae2d248027bc008aea1837bff11605c297d7d3599bcaab53b9083d153b"
+    },
+    {
+      "path": "assets/portraits/bigan-premium.webp",
+      "bytes": 420098,
+      "sha256": "7f7cddc7c1f913cca2887c9098fa5156b5901567d7fbc2221646125ca52c7513",
+      "original_copy_sha256": "7f7cddc7c1f913cca2887c9098fa5156b5901567d7fbc2221646125ca52c7513"
+    },
+    {
+      "path": "assets/portraits/bixiao-premium.webp",
+      "bytes": 428736,
+      "sha256": "d4e0a0a81fb9b856988757b9b493f30c8391e1cf0501baa4a1a14774c8e24266",
+      "original_copy_sha256": "d4e0a0a81fb9b856988757b9b493f30c8391e1cf0501baa4a1a14774c8e24266"
+    },
+    {
+      "path": "assets/portraits/chenqi-premium.webp",
+      "bytes": 453952,
+      "sha256": "68666221e738b8a6187d787aa738444349b44e615d137c025f1ae8bbaf7548dd",
+      "original_copy_sha256": "68666221e738b8a6187d787aa738444349b44e615d137c025f1ae8bbaf7548dd"
+    },
+    {
+      "path": "assets/portraits/chijingzi-premium.webp",
+      "bytes": 451086,
+      "sha256": "d3199c2b98e03287bedf3f6f95c5aaa2fccac7ed0f577a4daf191ca05ff4065d",
+      "original_copy_sha256": "d3199c2b98e03287bedf3f6f95c5aaa2fccac7ed0f577a4daf191ca05ff4065d"
+    },
+    {
+      "path": "assets/portraits/cihang-premium.webp",
+      "bytes": 439884,
+      "sha256": "727f9792ae5310b0aeee27e8c1f9648cca27364476bfffc043824857fdb6c12a",
+      "original_copy_sha256": "727f9792ae5310b0aeee27e8c1f9648cca27364476bfffc043824857fdb6c12a"
+    },
+    {
+      "path": "assets/portraits/daoxing-premium.webp",
+      "bytes": 404698,
+      "sha256": "d9d1b3083a4b0909ae19a7bf546049397bed3cd48dab0f492e715901ed274fdb",
+      "original_copy_sha256": "d9d1b3083a4b0909ae19a7bf546049397bed3cd48dab0f492e715901ed274fdb"
+    },
+    {
+      "path": "assets/portraits/dengchanyu-premium.webp",
+      "bytes": 396884,
+      "sha256": "2943a0e46500238cf8839406410fec76a1acf0a8920eea96b57eaad6fb981b1a",
+      "original_copy_sha256": "2943a0e46500238cf8839406410fec76a1acf0a8920eea96b57eaad6fb981b1a"
+    },
+    {
+      "path": "assets/portraits/duobao-premium.webp",
+      "bytes": 477180,
+      "sha256": "001da2a472831f853a16a123ebda74b164edfb279d2c880b95d4b27912c69bec",
+      "original_copy_sha256": "001da2a472831f853a16a123ebda74b164edfb279d2c880b95d4b27912c69bec"
+    },
+    {
+      "path": "assets/portraits/guangchengzi-premium.webp",
+      "bytes": 460934,
+      "sha256": "4daea23bc62dd9c6d17162ddc7ddac68ef6999ed18e396507027181550ff7791",
+      "original_copy_sha256": "4daea23bc62dd9c6d17162ddc7ddac68ef6999ed18e396507027181550ff7791"
+    },
+    {
+      "path": "assets/portraits/guiling-premium.webp",
+      "bytes": 510672,
+      "sha256": "b07abfbe17f0173e45aa1bb07f23a838085bee2e108985deb62bd452a365774a",
+      "original_copy_sha256": "b07abfbe17f0173e45aa1bb07f23a838085bee2e108985deb62bd452a365774a"
+    },
+    {
+      "path": "assets/portraits/huangfeihu-premium.webp",
+      "bytes": 446788,
+      "sha256": "4bb602d40c9464b13144ebffe05e2554d84828aaddb7fedf67e708b859e893f2",
+      "original_copy_sha256": "4bb602d40c9464b13144ebffe05e2554d84828aaddb7fedf67e708b859e893f2"
+    },
+    {
+      "path": "assets/portraits/huanglong-premium.webp",
+      "bytes": 467780,
+      "sha256": "9d9dc1c8a9615c8cdc1a4801c2b7c5a6de15949ba52b15f35374cd63426ff5ef",
+      "original_copy_sha256": "9d9dc1c8a9615c8cdc1a4801c2b7c5a6de15949ba52b15f35374cd63426ff5ef"
+    },
+    {
+      "path": "assets/portraits/huangtianhua-premium.webp",
+      "bytes": 460110,
+      "sha256": "e855857241877df79870616f95ae3b23bb9a6f9eef8e17e2c8127413d42e6e56",
+      "original_copy_sha256": "e855857241877df79870616f95ae3b23bb9a6f9eef8e17e2c8127413d42e6e56"
+    },
+    {
+      "path": "assets/portraits/jiangziya-premium.webp",
+      "bytes": 462898,
+      "sha256": "3bb63169ea1cd494817f904620918fe56a4597613dbe579f592678d8a1ed670c",
+      "original_copy_sha256": "3bb63169ea1cd494817f904620918fe56a4597613dbe579f592678d8a1ed670c"
+    },
+    {
+      "path": "assets/portraits/jieyin-premium.webp",
+      "bytes": 480836,
+      "sha256": "38a50b9289473726a4cf6f6145f662ea27ce21c47e28f2c092620b443843cc6d",
+      "original_copy_sha256": "38a50b9289473726a4cf6f6145f662ea27ce21c47e28f2c092620b443843cc6d"
+    },
+    {
+      "path": "assets/portraits/jifa-premium.webp",
+      "bytes": 482474,
+      "sha256": "d4c59e0e59863721a9d54073185e3151182d0aaeb338b24250818e574a12b470",
+      "original_copy_sha256": "d4c59e0e59863721a9d54073185e3151182d0aaeb338b24250818e574a12b470"
+    },
+    {
+      "path": "assets/portraits/jinling-premium.webp",
+      "bytes": 505978,
+      "sha256": "1eaaaf16512c64fe9e8a334e2768d758cd5bfa005cd6edfcc9cf5401cb955eab",
+      "original_copy_sha256": "1eaaaf16512c64fe9e8a334e2768d758cd5bfa005cd6edfcc9cf5401cb955eab"
+    },
+    {
+      "path": "assets/portraits/juliusun-premium.webp",
+      "bytes": 424306,
+      "sha256": "dd49a8429ed683f7b9d90270a63b495acdc7b0ad937a0ac4c27c0416ae74bfcd",
+      "original_copy_sha256": "dd49a8429ed683f7b9d90270a63b495acdc7b0ad937a0ac4c27c0416ae74bfcd"
+    },
+    {
+      "path": "assets/portraits/kongxuan-premium.webp",
+      "bytes": 502492,
+      "sha256": "16dea4f4fe4b0d55a7dfc20b3f9d598e511b310c72bf3158f1b574a6eba9c916",
+      "original_copy_sha256": "16dea4f4fe4b0d55a7dfc20b3f9d598e511b310c72bf3158f1b574a6eba9c916"
+    },
+    {
+      "path": "assets/portraits/leizhenzi-premium.webp",
+      "bytes": 442338,
+      "sha256": "35856ad400b03ec8ad4cbbc0f3bfa561546a332a1143601faeaaa41032a9ffeb",
+      "original_copy_sha256": "35856ad400b03ec8ad4cbbc0f3bfa561546a332a1143601faeaaa41032a9ffeb"
+    },
+    {
+      "path": "assets/portraits/longji-premium.webp",
+      "bytes": 477568,
+      "sha256": "2a7a14248124e21bdc228f3566f26c566eef5578f31ce1542eb8cb107f4bd2a7",
+      "original_copy_sha256": "2a7a14248124e21bdc228f3566f26c566eef5578f31ce1542eb8cb107f4bd2a7"
+    },
+    {
+      "path": "assets/portraits/luya-premium.webp",
+      "bytes": 441352,
+      "sha256": "be64a8a2d353846f177dbc6e6651a256db28db5a4a45825ade96f69e6746700f",
+      "original_copy_sha256": "be64a8a2d353846f177dbc6e6651a256db28db5a4a45825ade96f69e6746700f"
+    },
+    {
+      "path": "assets/portraits/nezha-premium.webp",
+      "bytes": 436408,
+      "sha256": "8fe53c940c08c650af354a4a5fe1e3199a384bfb7c79043408f8eb91d46f2d1c",
+      "original_copy_sha256": "8fe53c940c08c650af354a4a5fe1e3199a384bfb7c79043408f8eb91d46f2d1c"
+    },
+    {
+      "path": "assets/portraits/nvwa-premium.webp",
+      "bytes": 509186,
+      "sha256": "31c842d366b22ac1100fbaa611e3e529252cd3558789b3775eb2bfe4aed62b12",
+      "original_copy_sha256": "31c842d366b22ac1100fbaa611e3e529252cd3558789b3775eb2bfe4aed62b12"
+    },
+    {
+      "path": "assets/portraits/puxian-premium.webp",
+      "bytes": 472210,
+      "sha256": "0fcc672371ffef9ea76964662b38c0501d19d56212546441dfd064d93e3b6c3d",
+      "original_copy_sha256": "0fcc672371ffef9ea76964662b38c0501d19d56212546441dfd064d93e3b6c3d"
+    },
+    {
+      "path": "assets/portraits/qingxu-premium.webp",
+      "bytes": 494706,
+      "sha256": "698d0a11527e4b3b8bc88a4dc91a844dd34d2c536cd034fa5198e6eabff86af5",
+      "original_copy_sha256": "698d0a11527e4b3b8bc88a4dc91a844dd34d2c536cd034fa5198e6eabff86af5"
+    },
+    {
+      "path": "assets/portraits/qiongxiao-premium.webp",
+      "bytes": 412420,
+      "sha256": "b6f8be5eb211223e17a7d5bacb3f7359f7a758119aedf7b5b30e3ef4d3321416",
+      "original_copy_sha256": "b6f8be5eb211223e17a7d5bacb3f7359f7a758119aedf7b5b30e3ef4d3321416"
+    },
+    {
+      "path": "assets/portraits/randeng-premium.webp",
+      "bytes": 408436,
+      "sha256": "5b9a796012eae5bcbaeac6c390f7963242f93dd40ca22b743977c8814e28c014",
+      "original_copy_sha256": "5b9a796012eae5bcbaeac6c390f7963242f93dd40ca22b743977c8814e28c014"
+    },
+    {
+      "path": "assets/portraits/shengongbao-premium.webp",
+      "bytes": 456320,
+      "sha256": "682e4b26ca1d9025620fc3e89fa6f609acfb0eb985f90daa969e28e3765ef900",
+      "original_copy_sha256": "682e4b26ca1d9025620fc3e89fa6f609acfb0eb985f90daa969e28e3765ef900"
+    },
+    {
+      "path": "assets/portraits/shiji-premium.webp",
+      "bytes": 450350,
+      "sha256": "c49ce9c6ea6dbdbaa9aac75b98c7705ecbf52a9cb5ed09ed0d479d5a50ae1049",
+      "original_copy_sha256": "c49ce9c6ea6dbdbaa9aac75b98c7705ecbf52a9cb5ed09ed0d479d5a50ae1049"
+    },
+    {
+      "path": "assets/portraits/sudaji-premium.webp",
+      "bytes": 457320,
+      "sha256": "436276e1720f624909da81fbed6f581fea8512da7db3873d9ba4be974f2087ae",
+      "original_copy_sha256": "436276e1720f624909da81fbed6f581fea8512da7db3873d9ba4be974f2087ae"
+    },
+    {
+      "path": "assets/portraits/taishang-premium.webp",
+      "bytes": 471338,
+      "sha256": "db9c0c3d04ea24aa122e49690d50beb86cac332845e3a693f2f392eb629e6f91",
+      "original_copy_sha256": "db9c0c3d04ea24aa122e49690d50beb86cac332845e3a693f2f392eb629e6f91"
+    },
+    {
+      "path": "assets/portraits/taiyi-premium.webp",
+      "bytes": 389852,
+      "sha256": "96821869fcaf9d4f2de0d80aca9dfaffbc71e33c9dc4609ed9b4a3d54b7f3463",
+      "original_copy_sha256": "96821869fcaf9d4f2de0d80aca9dfaffbc71e33c9dc4609ed9b4a3d54b7f3463"
+    },
+    {
+      "path": "assets/portraits/tongtian-premium.webp",
+      "bytes": 399860,
+      "sha256": "a696716aec79a5ff27c6fd9dde55d1cee89d2923a2e6645c9e915b659b6a8174",
+      "original_copy_sha256": "a696716aec79a5ff27c6fd9dde55d1cee89d2923a2e6645c9e915b659b6a8174"
+    },
+    {
+      "path": "assets/portraits/tuxingsun-premium.webp",
+      "bytes": 430528,
+      "sha256": "7f700bb082978bfd1e93357bee469818becc4d4afabfb4a870b70ea764de1e66",
+      "original_copy_sha256": "7f700bb082978bfd1e93357bee469818becc4d4afabfb4a870b70ea764de1e66"
+    },
+    {
+      "path": "assets/portraits/weihu-premium.webp",
+      "bytes": 416890,
+      "sha256": "599b21c95b761e64b27e7de6b945e255e07bed191a5b8c22618de78886d47704",
+      "original_copy_sha256": "599b21c95b761e64b27e7de6b945e255e07bed191a5b8c22618de78886d47704"
+    },
+    {
+      "path": "assets/portraits/wenshu-premium.webp",
+      "bytes": 534516,
+      "sha256": "820dca197a97fbd863f47b09d22c35ed0418b880a50ad23a3fa05f155b4aa02b",
+      "original_copy_sha256": "820dca197a97fbd863f47b09d22c35ed0418b880a50ad23a3fa05f155b4aa02b"
+    },
+    {
+      "path": "assets/portraits/wenzhong-premium.webp",
+      "bytes": 468040,
+      "sha256": "84a21efd9be81fd20f196e916f13d0a8f3a8cc3c838b82660109201566b1799c",
+      "original_copy_sha256": "84a21efd9be81fd20f196e916f13d0a8f3a8cc3c838b82660109201566b1799c"
+    },
+    {
+      "path": "assets/portraits/wudang-premium.webp",
+      "bytes": 457054,
+      "sha256": "1359bbbac65e323b6683aa1a9d3b70b6a106890b54d5464562a314bcbcc5997b",
+      "original_copy_sha256": "1359bbbac65e323b6683aa1a9d3b70b6a106890b54d5464562a314bcbcc5997b"
+    },
+    {
+      "path": "assets/portraits/wuji-premium.webp",
+      "bytes": 397806,
+      "sha256": "5a36808449d03b0d9e87543b5aa57c59d0de9ae8173986d82745300b9267a7a0",
+      "original_copy_sha256": "5a36808449d03b0d9e87543b5aa57c59d0de9ae8173986d82745300b9267a7a0"
+    },
+    {
+      "path": "assets/portraits/xuandu-premium.webp",
+      "bytes": 406968,
+      "sha256": "ba5d1b660869a496069aeb28dd7baff072ed2cf8124211985d914384986a4aee",
+      "original_copy_sha256": "ba5d1b660869a496069aeb28dd7baff072ed2cf8124211985d914384986a4aee"
+    },
+    {
+      "path": "assets/portraits/yangjian-premium.webp",
+      "bytes": 430508,
+      "sha256": "8829d6468b3e7092044a4a348e4c57acf5758362bf8f46dc5438aa7180144236",
+      "original_copy_sha256": "8829d6468b3e7092044a4a348e4c57acf5758362bf8f46dc5438aa7180144236"
+    },
+    {
+      "path": "assets/portraits/yangren-premium.webp",
+      "bytes": 412736,
+      "sha256": "2215384cd6a821ab0467f23db70b75d5781f368526980db68b4d00ccbeb365e5",
+      "original_copy_sha256": "2215384cd6a821ab0467f23db70b75d5781f368526980db68b4d00ccbeb365e5"
+    },
+    {
+      "path": "assets/portraits/yuanshi-premium.webp",
+      "bytes": 416596,
+      "sha256": "65f10e59b075d7cf1767bb77eac40f86189a243f2fe3f218d64aadf137c2c334",
+      "original_copy_sha256": "65f10e59b075d7cf1767bb77eac40f86189a243f2fe3f218d64aadf137c2c334"
+    },
+    {
+      "path": "assets/portraits/yuding-premium.webp",
+      "bytes": 456016,
+      "sha256": "08b734ce783893e654d2c5981b73a6e96c751d5ef6c24a6f2266ca8812baed3c",
+      "original_copy_sha256": "08b734ce783893e654d2c5981b73a6e96c751d5ef6c24a6f2266ca8812baed3c"
+    },
+    {
+      "path": "assets/portraits/yunxiao-premium.webp",
+      "bytes": 431512,
+      "sha256": "ce2b0d9955adea4f18162289aa507f726e5095f99ff3bea33bc227062a09b04e",
+      "original_copy_sha256": "ce2b0d9955adea4f18162289aa507f726e5095f99ff3bea33bc227062a09b04e"
+    },
+    {
+      "path": "assets/portraits/zhaogongming-premium.webp",
+      "bytes": 440474,
+      "sha256": "524eccd602a29ae960b5b194542940c3d3aed026f1abd3bf9f41c1a501b589d4",
+      "original_copy_sha256": "524eccd602a29ae960b5b194542940c3d3aed026f1abd3bf9f41c1a501b589d4"
+    },
+    {
+      "path": "assets/portraits/zhenglun-premium.webp",
+      "bytes": 435170,
+      "sha256": "c7d6b6d287910070d1ec4b826b70bbdcd94eb1c6460802dde40f96f847da2f32",
+      "original_copy_sha256": "c7d6b6d287910070d1ec4b826b70bbdcd94eb1c6460802dde40f96f847da2f32"
+    },
+    {
+      "path": "assets/portraits/zhouwang-premium.webp",
+      "bytes": 433112,
+      "sha256": "08b0e16af11d9fd4f7f7eda38e2194ee7d65beadfbc9922ca71f22bdd53273c7",
+      "original_copy_sha256": "08b0e16af11d9fd4f7f7eda38e2194ee7d65beadfbc9922ca71f22bdd53273c7"
+    },
+    {
+      "path": "assets/portraits/zhunti-premium.webp",
+      "bytes": 464588,
+      "sha256": "8407d9e255cbd0ef77b3989f10da078e9e146e0807bf670d79b891e53a662ad3",
+      "original_copy_sha256": "8407d9e255cbd0ef77b3989f10da078e9e146e0807bf670d79b891e53a662ad3"
+    },
+    {
+      "path": "assets/progression-v08/manifestations-lotus.svg",
+      "bytes": 660,
+      "sha256": "660a5cbec319f4192b581c8ef1213cab57cb46a1cb499a65dd1ac24b2d6dc87a",
+      "original_copy_sha256": "660a5cbec319f4192b581c8ef1213cab57cb46a1cb499a65dd1ac24b2d6dc87a"
+    },
+    {
+      "path": "assets/progression-v08/manifestations-mountain.svg",
+      "bytes": 558,
+      "sha256": "cf687592679490399b410c6267fa6c8928bfb804fa4c41e012d616bc1da47da0",
+      "original_copy_sha256": "cf687592679490399b410c6267fa6c8928bfb804fa4c41e012d616bc1da47da0"
+    },
+    {
+      "path": "assets/progression-v08/manifestations-sun.svg",
+      "bytes": 615,
+      "sha256": "712b77550819077cbc33b1d8c18543d866a4f2ba509b057a9ba5738358090fc7",
+      "original_copy_sha256": "712b77550819077cbc33b1d8c18543d866a4f2ba509b057a9ba5738358090fc7"
+    },
+    {
+      "path": "assets/progression-v08/mounts-boat.svg",
+      "bytes": 692,
+      "sha256": "31b0a6bc28e69a12cf7f2e73f0be5bfa67fe20e36561df89274ada932d924f6b",
+      "original_copy_sha256": "31b0a6bc28e69a12cf7f2e73f0be5bfa67fe20e36561df89274ada932d924f6b"
+    },
+    {
+      "path": "assets/progression-v08/mounts-cloud.svg",
+      "bytes": 642,
+      "sha256": "37d73aaa6d2a206a2c61a4dede90572ead3e2abfec462d8321d94fb3c83c2f7f",
+      "original_copy_sha256": "37d73aaa6d2a206a2c61a4dede90572ead3e2abfec462d8321d94fb3c83c2f7f"
+    },
+    {
+      "path": "assets/progression-v08/mounts-lotus.svg",
+      "bytes": 638,
+      "sha256": "3635d7c964891bd42e679e74db18a704a4908364cd5c25d1699daabe228c9b33",
+      "original_copy_sha256": "3635d7c964891bd42e679e74db18a704a4908364cd5c25d1699daabe228c9b33"
+    },
+    {
+      "path": "assets/summon-remotion/ambience.ogg",
+      "bytes": 113849,
+      "sha256": "5f0af6e1392be2505f1068d36a718fdae6fd707b5bea66d80c7639462bf5c832",
+      "original_copy_sha256": "5f0af6e1392be2505f1068d36a718fdae6fd707b5bea66d80c7639462bf5c832"
+    },
+    {
+      "path": "assets/summon-remotion/first.png",
+      "bytes": 1105513,
+      "sha256": "756c18b22883e48070c196aabbaf81e901b6945eed71f3b36011e452e518be77",
+      "original_copy_sha256": "756c18b22883e48070c196aabbaf81e901b6945eed71f3b36011e452e518be77"
+    },
+    {
+      "path": "assets/summon-remotion/last.png",
+      "bytes": 1092043,
+      "sha256": "7fb24ff321bc2387144c416e5d07b52a5e3a3a8129c0e9355a7d66de89cca3f0",
+      "original_copy_sha256": "7fb24ff321bc2387144c416e5d07b52a5e3a3a8129c0e9355a7d66de89cca3f0"
+    },
+    {
+      "path": "assets/summon-remotion/neutral.ogv",
+      "bytes": 9698846,
+      "sha256": "16274a3ca0dd371000545ebfc3102ac99534ce61fa68357dd600145854853e5c",
+      "original_copy_sha256": "16274a3ca0dd371000545ebfc3102ac99534ce61fa68357dd600145854853e5c"
+    },
+    {
+      "path": "assets/summon-remotion/neutral.ogv.uid",
+      "bytes": 19,
+      "sha256": "9567f4bc5b9e1a4c7296b85798813e879ed47bc7975af06fca242cf3e7dd2d40",
+      "original_copy_sha256": "9567f4bc5b9e1a4c7296b85798813e879ed47bc7975af06fca242cf3e7dd2d40"
+    },
+    {
+      "path": "assets/summon-remotion/portal.gdshader",
+      "bytes": 6701,
+      "sha256": "94dc1cdb30e52b92ebb30caef69b293e2bc2b4a6f6caf7c4df554c69cfab4c49",
+      "original_copy_sha256": "94dc1cdb30e52b92ebb30caef69b293e2bc2b4a6f6caf7c4df554c69cfab4c49"
+    },
+    {
+      "path": "assets/summon-remotion/portal.gdshader.uid",
+      "bytes": 19,
+      "sha256": "7a7a3a119c9987529f73b07a1ba80d977ae5367e61f261d766b2127e074b6a93",
+      "original_copy_sha256": "7a7a3a119c9987529f73b07a1ba80d977ae5367e61f261d766b2127e074b6a93"
+    },
+    {
+      "path": "assets/summon-remotion/portrait.gdshader",
+      "bytes": 315,
+      "sha256": "ddc1028e4b3b33999286672a1c081fef2511c0119a6b16deb8538101c1e0401d",
+      "original_copy_sha256": "ddc1028e4b3b33999286672a1c081fef2511c0119a6b16deb8538101c1e0401d"
+    },
+    {
+      "path": "assets/summon-remotion/portrait.gdshader.uid",
+      "bytes": 19,
+      "sha256": "2263dd649cd7c0eee2d1589cbd15646cfb0b76bbec94ea7b056caec9a05ce11c",
+      "original_copy_sha256": "2263dd649cd7c0eee2d1589cbd15646cfb0b76bbec94ea7b056caec9a05ce11c"
+    },
+    {
+      "path": "assets/summon-v05/summon-gate.png",
+      "bytes": 2817738,
+      "sha256": "ec11f7994c5f3f38e523af3f1d1be2eed7d15b5ac047ba0e4ce537b330a11c84",
+      "original_copy_sha256": "ec11f7994c5f3f38e523af3f1d1be2eed7d15b5ac047ba0e4ce537b330a11c84"
+    },
+    {
+      "path": "assets/summon-v06/celestial_sky.gdshader",
+      "bytes": 2373,
+      "sha256": "e78f55601564ed928b31f1984b069bbef07caf490509fa85fe082c0b4f0e27d9",
+      "original_copy_sha256": "e78f55601564ed928b31f1984b069bbef07caf490509fa85fe082c0b4f0e27d9"
+    },
+    {
+      "path": "assets/summon-v06/celestial_sky.gdshader.uid",
+      "bytes": 20,
+      "sha256": "98debfa0cdbb701115ab0d3804c5cf5d9970165349f915d15a82a2eac44c313a",
+      "original_copy_sha256": "98debfa0cdbb701115ab0d3804c5cf5d9970165349f915d15a82a2eac44c313a"
+    },
+    {
+      "path": "assets/summon-v09/courtyard.png",
+      "bytes": 2450982,
+      "sha256": "cf521226d7fb6b8599ac5a5fba1f643b741f7b48b55057ae49028ac96e0392f0",
+      "original_copy_sha256": "cf521226d7fb6b8599ac5a5fba1f643b741f7b48b55057ae49028ac96e0392f0"
+    },
+    {
+      "path": "assets/summon-video/ambience.ogg",
+      "bytes": 90362,
+      "sha256": "e8614d775d63e4a889eb46e228a2b12280bdf9dbb0a4f7f287a8d14ecfe6cba4",
+      "original_copy_sha256": "e8614d775d63e4a889eb46e228a2b12280bdf9dbb0a4f7f287a8d14ecfe6cba4"
+    },
+    {
+      "path": "assets/summon-video/first.png",
+      "bytes": 1517605,
+      "sha256": "6c7040982dcaf3441518507f4ddf92a65871e561ad7a1ef3ff5965da1f804721",
+      "original_copy_sha256": "6c7040982dcaf3441518507f4ddf92a65871e561ad7a1ef3ff5965da1f804721"
+    },
+    {
+      "path": "assets/summon-video/last.png",
+      "bytes": 1629638,
+      "sha256": "42a7200fe760a796e2f65db0475a17301f00025ae1a50e3b24be5db2183cb04a",
+      "original_copy_sha256": "42a7200fe760a796e2f65db0475a17301f00025ae1a50e3b24be5db2183cb04a"
+    },
+    {
+      "path": "assets/summon-video/neutral.ogv",
+      "bytes": 6265699,
+      "sha256": "9c79642e7cdc6815a90f22fe597225fce0c1c074cf307d292437da42e7153b2b",
+      "original_copy_sha256": "9c79642e7cdc6815a90f22fe597225fce0c1c074cf307d292437da42e7153b2b"
+    },
+    {
+      "path": "assets/summon-video/neutral.ogv.uid",
+      "bytes": 20,
+      "sha256": "3a7d0b71d650db1a9581981301d1aae15b1ed287453e507be0097b35deb4bc5f",
+      "original_copy_sha256": "3a7d0b71d650db1a9581981301d1aae15b1ed287453e507be0097b35deb4bc5f"
+    },
+    {
+      "path": "assets/summon-video/portal.gdshader",
+      "bytes": 1353,
+      "sha256": "e5c3e9751cfe61f47a78fb4e734e6943c1a8a080cf5ef51eaa5b84fbc4773a1f",
+      "original_copy_sha256": "e5c3e9751cfe61f47a78fb4e734e6943c1a8a080cf5ef51eaa5b84fbc4773a1f"
+    },
+    {
+      "path": "assets/summon-video/portal.gdshader.uid",
+      "bytes": 20,
+      "sha256": "044112c0ce3e5855ba7a4516201ac43bf3135f6f9c00a42e78e461c1838e7705",
+      "original_copy_sha256": "044112c0ce3e5855ba7a4516201ac43bf3135f6f9c00a42e78e461c1838e7705"
+    },
+    {
+      "path": "assets/terrain/distant-cloud-mountains.png",
+      "bytes": 1680816,
+      "sha256": "9eebc60e095634750eb4d2bbfc4b8b77f62f8cc05f70bad15e466657c440695e",
+      "original_copy_sha256": "9eebc60e095634750eb4d2bbfc4b8b77f62f8cc05f70bad15e466657c440695e"
+    },
+    {
+      "path": "assets/terrain/estate_tiles.svg",
+      "bytes": 1265,
+      "sha256": "408395716091411f53328ded050e62ea5793edffd8ace6956ce01fbb8e3f8474",
+      "original_copy_sha256": "408395716091411f53328ded050e62ea5793edffd8ace6956ce01fbb8e3f8474"
+    },
+    {
+      "path": "assets/terrain/extra-building-visuals.json",
+      "bytes": 2294,
+      "sha256": "ef2d245d5b75f1da240b5a2e9eb2e6bd72466ca35e9e7c4b82deb35d9f02acbb",
+      "original_copy_sha256": "ef2d245d5b75f1da240b5a2e9eb2e6bd72466ca35e9e7c4b82deb35d9f02acbb"
+    },
+    {
+      "path": "assets/terrain/generated-facilities/mine-premium-v04.webp",
+      "bytes": 374172,
+      "sha256": "c8a30401704da857f99712f17437c738626aedf84d42c317e0ac3adc6b516975",
+      "original_copy_sha256": "c8a30401704da857f99712f17437c738626aedf84d42c317e0ac3adc6b516975"
+    },
+    {
+      "path": "assets/terrain/generated-facilities/relicworkshop-premium-v04.webp",
+      "bytes": 409568,
+      "sha256": "7fc8797763da65cfe87755afb2f45f4357a5753cb3db4cd1f20253822ec9d695",
+      "original_copy_sha256": "7fc8797763da65cfe87755afb2f45f4357a5753cb3db4cd1f20253822ec9d695"
+    },
+    {
+      "path": "assets/terrain/generated-facilities/warehouse-premium-v04.webp",
+      "bytes": 341976,
+      "sha256": "ddffa947fd6ccae3b3e14504cd4999723394d6c4b49309fa0e9e224baf0a12bf",
+      "original_copy_sha256": "ddffa947fd6ccae3b3e14504cd4999723394d6c4b49309fa0e9e224baf0a12bf"
+    },
+    {
+      "path": "assets/terrain/meadow-diffuse.png",
+      "bytes": 3116581,
+      "sha256": "f3f0841781c5d9d5b37df48fb69fe7150e59ddcf94638233e59a481ce6af0597",
+      "original_copy_sha256": "f3f0841781c5d9d5b37df48fb69fe7150e59ddcf94638233e59a481ce6af0597"
+    },
+    {
+      "path": "assets/terrain/mine-native.svg",
+      "bytes": 3720,
+      "sha256": "d48a0662c5a9f9afff52189a217e2dc627dc6143eaaae108ef274ca9b55ce810",
+      "original_copy_sha256": "d48a0662c5a9f9afff52189a217e2dc627dc6143eaaae108ef274ca9b55ce810"
+    },
+    {
+      "path": "assets/terrain/relicworkshop-native.svg",
+      "bytes": 3707,
+      "sha256": "f7d913461c7653b232a0bb15c5c8a5135d2e632f99306aa3ff3a874bd961a4ff",
+      "original_copy_sha256": "f7d913461c7653b232a0bb15c5c8a5135d2e632f99306aa3ff3a874bd961a4ff"
+    },
+    {
+      "path": "assets/terrain/stone-diffuse.png",
+      "bytes": 3028767,
+      "sha256": "8f0796a5cc74cb1ff1f941e269c6dd62c60f16e7641a893bb95ec240f2b371d5",
+      "original_copy_sha256": "8f0796a5cc74cb1ff1f941e269c6dd62c60f16e7641a893bb95ec240f2b371d5"
+    },
+    {
+      "path": "assets/terrain/warehouse-native.svg",
+      "bytes": 4890,
+      "sha256": "b8f4587261ef3b17ac6833f7a5e70769d7b523da6ffb82b5b15d865053e9a00f",
+      "original_copy_sha256": "b8f4587261ef3b17ac6833f7a5e70769d7b523da6ffb82b5b15d865053e9a00f"
+    },
+    {
+      "path": "assets/ui/affairs.svg",
+      "bytes": 1183,
+      "sha256": "caad8f17bbd2310713865e17fee7353a059aed129dffb386ec6eff5a049cf1af",
+      "original_copy_sha256": "caad8f17bbd2310713865e17fee7353a059aed129dffb386ec6eff5a049cf1af"
+    },
+    {
+      "path": "assets/ui/checkin.svg",
+      "bytes": 1171,
+      "sha256": "18204f00ddd44bf6eda56ff9d2b25ad53a56e2c62b796fb30a92bda90acc2887",
+      "original_copy_sha256": "18204f00ddd44bf6eda56ff9d2b25ad53a56e2c62b796fb30a92bda90acc2887"
+    },
+    {
+      "path": "assets/ui/circlet.svg",
+      "bytes": 1218,
+      "sha256": "9a7025bf129355601c777903df42c5b8a6872344057a5ef391697ee8a58d1103",
+      "original_copy_sha256": "9a7025bf129355601c777903df42c5b8a6872344057a5ef391697ee8a58d1103"
+    },
+    {
+      "path": "assets/ui/cloud.svg",
+      "bytes": 1060,
+      "sha256": "e1ef29cfc8851d12ce8a106ed738c44b8a8f2829e78b6eb2b1a742b957839d5b",
+      "original_copy_sha256": "e1ef29cfc8851d12ce8a106ed738c44b8a8f2829e78b6eb2b1a742b957839d5b"
+    },
+    {
+      "path": "assets/ui/estate.svg",
+      "bytes": 1199,
+      "sha256": "2f280cbfb9f35ad0f362afe7507dabc560d2b73eab58f6d1f173da0fa553bc1a",
+      "original_copy_sha256": "2f280cbfb9f35ad0f362afe7507dabc560d2b73eab58f6d1f173da0fa553bc1a"
+    },
+    {
+      "path": "assets/ui/fate.svg",
+      "bytes": 1235,
+      "sha256": "bd4289d9559cca5b5365969b477740bc3e03db660b135225abb82ec883fe4812",
+      "original_copy_sha256": "bd4289d9559cca5b5365969b477740bc3e03db660b135225abb82ec883fe4812"
+    },
+    {
+      "path": "assets/ui/feather.svg",
+      "bytes": 1105,
+      "sha256": "fba702d03133f3838f5c59991c45a085346ad0c21db54d4fbeaf7eaf937cd3e7",
+      "original_copy_sha256": "fba702d03133f3838f5c59991c45a085346ad0c21db54d4fbeaf7eaf937cd3e7"
+    },
+    {
+      "path": "assets/ui/flower.svg",
+      "bytes": 1212,
+      "sha256": "208059946a2b2ec38293664eee171d4d1cdde27d75112228f9b6b7d5580c1b69",
+      "original_copy_sha256": "208059946a2b2ec38293664eee171d4d1cdde27d75112228f9b6b7d5580c1b69"
+    },
+    {
+      "path": "assets/ui/gear.svg",
+      "bytes": 1175,
+      "sha256": "3edfa11c92da39e6519d7cc77ed08f7ccc6cffaff6b84b36b5abdc29ff68a299",
+      "original_copy_sha256": "3edfa11c92da39e6519d7cc77ed08f7ccc6cffaff6b84b36b5abdc29ff68a299"
+    },
+    {
+      "path": "assets/ui/goblet.svg",
+      "bytes": 1143,
+      "sha256": "f61132743cfd3a2f8721fcd1c8ecaaba63ab9ca76143f2457dda11dffa9ed6df",
+      "original_copy_sha256": "f61132743cfd3a2f8721fcd1c8ecaaba63ab9ca76143f2457dda11dffa9ed6df"
+    },
+    {
+      "path": "assets/ui/guild.svg",
+      "bytes": 1111,
+      "sha256": "84be3052cfb76b453d4b6bfedf0159bb9adb80a878bc821d4b422e9e020d9595",
+      "original_copy_sha256": "84be3052cfb76b453d4b6bfedf0159bb9adb80a878bc821d4b422e9e020d9595"
+    },
+    {
+      "path": "assets/ui/herb.svg",
+      "bytes": 1190,
+      "sha256": "8f1f40c0d92051e5b4c18fba784f1c289f4004904c15cab77f3aeb53c6d997ab",
+      "original_copy_sha256": "8f1f40c0d92051e5b4c18fba784f1c289f4004904c15cab77f3aeb53c6d997ab"
+    },
+    {
+      "path": "assets/ui/mail.svg",
+      "bytes": 1085,
+      "sha256": "9c557c768afa1275b3cac577596144cb0488951bd7601f8e8cb827b199618941",
+      "original_copy_sha256": "9c557c768afa1275b3cac577596144cb0488951bd7601f8e8cb827b199618941"
+    },
+    {
+      "path": "assets/ui/material.svg",
+      "bytes": 1188,
+      "sha256": "b1495b5b932889fcc2ff1b84dd5811d33fcfd5f19bb4aa5409a8a85b15733b35",
+      "original_copy_sha256": "b1495b5b932889fcc2ff1b84dd5811d33fcfd5f19bb4aa5409a8a85b15733b35"
+    },
+    {
+      "path": "assets/ui/panel-frame.svg",
+      "bytes": 461,
+      "sha256": "a10e59333b2c3c679e52cc10543542b60e3928217cda58a1598fd13a9fdb49ab",
+      "original_copy_sha256": "a10e59333b2c3c679e52cc10543542b60e3928217cda58a1598fd13a9fdb49ab"
+    },
+    {
+      "path": "assets/ui/rank.svg",
+      "bytes": 1074,
+      "sha256": "c4057913641ca77f16629463496f02f475c3e89238716abc64487ecefc0249eb",
+      "original_copy_sha256": "c4057913641ca77f16629463496f02f475c3e89238716abc64487ecefc0249eb"
+    },
+    {
+      "path": "assets/ui/roster.svg",
+      "bytes": 1279,
+      "sha256": "0584e62b2a784af0048f914528e0f215f496bfe59163d12a3fbebcc226bcff06",
+      "original_copy_sha256": "0584e62b2a784af0048f914528e0f215f496bfe59163d12a3fbebcc226bcff06"
+    },
+    {
+      "path": "assets/ui/sands.svg",
+      "bytes": 1211,
+      "sha256": "0c668665760aff9755eafb7d934600ba87aec477bfe19d4f7c429212db4cbb0a",
+      "original_copy_sha256": "0c668665760aff9755eafb7d934600ba87aec477bfe19d4f7c429212db4cbb0a"
+    },
+    {
+      "path": "assets/ui/settings.svg",
+      "bytes": 1288,
+      "sha256": "22467de6bb00b039f9ba7209dbb391a4a7c36b9c66ea07f55875e7c267cb249d",
+      "original_copy_sha256": "22467de6bb00b039f9ba7209dbb391a4a7c36b9c66ea07f55875e7c267cb249d"
+    },
+    {
+      "path": "assets/ui/stages.svg",
+      "bytes": 1379,
+      "sha256": "49a2f087792c82237f1cd42ec56156b562b199d2e57d8ba51e123049d299b4c1",
+      "original_copy_sha256": "49a2f087792c82237f1cd42ec56156b562b199d2e57d8ba51e123049d299b4c1"
+    },
+    {
+      "path": "assets/ui/stone.svg",
+      "bytes": 1087,
+      "sha256": "fcd3944908a9c5c0b88c61e817b7096d75e6da1d5bc88a3ddc78f4282c4f2542",
+      "original_copy_sha256": "fcd3944908a9c5c0b88c61e817b7096d75e6da1d5bc88a3ddc78f4282c4f2542"
+    },
+    {
+      "path": "assets/ui/summon.svg",
+      "bytes": 1255,
+      "sha256": "1d7e5b72be7b1ec978a0a2c08d5fa81ebdbc82f0cee52930bf569ba9ee81698a",
+      "original_copy_sha256": "1d7e5b72be7b1ec978a0a2c08d5fa81ebdbc82f0cee52930bf569ba9ee81698a"
+    },
+    {
+      "path": "assets/ui/ticket.svg",
+      "bytes": 1255,
+      "sha256": "1d7e5b72be7b1ec978a0a2c08d5fa81ebdbc82f0cee52930bf569ba9ee81698a",
+      "original_copy_sha256": "1d7e5b72be7b1ec978a0a2c08d5fa81ebdbc82f0cee52930bf569ba9ee81698a"
+    },
+    {
+      "path": "assets/ui/xp.svg",
+      "bytes": 1152,
+      "sha256": "7cc5bc70aefc4211a9ebcc7d3664ceacedd12230f0ed752a0063ec049c825a8e",
+      "original_copy_sha256": "7cc5bc70aefc4211a9ebcc7d3664ceacedd12230f0ed752a0063ec049c825a8e"
+    },
+    {
+      "path": "assets/ui-foundation/background.png",
+      "bytes": 2460314,
+      "sha256": "a9148c74439618256fa481cc9384a2f14605f16ce29b223ccbfe3935bbc7d5ca",
+      "original_copy_sha256": "a9148c74439618256fa481cc9384a2f14605f16ce29b223ccbfe3935bbc7d5ca"
+    },
+    {
+      "path": "assets/ui-foundation/disabled.svg",
+      "bytes": 739,
+      "sha256": "c6c96d8b62486b71515d6a97bb4dbd920e3cbb8e97398adf066f1794f009802a",
+      "original_copy_sha256": "c6c96d8b62486b71515d6a97bb4dbd920e3cbb8e97398adf066f1794f009802a"
+    },
+    {
+      "path": "assets/ui-foundation/forge-subject.png",
+      "bytes": 1855979,
+      "sha256": "7909d36a7976e5a803a70d0a42016ca1133278138c1bec4c785715453e431a51",
+      "original_copy_sha256": "7909d36a7976e5a803a70d0a42016ca1133278138c1bec4c785715453e431a51"
+    },
+    {
+      "path": "assets/ui-foundation/foundation.tres",
+      "bytes": 6458,
+      "sha256": "3dbacdb7c3761f73b09a730c8e86c2fb726ec4da581583eeac0d4422a31aa60d",
+      "original_copy_sha256": "3dbacdb7c3761f73b09a730c8e86c2fb726ec4da581583eeac0d4422a31aa60d"
+    },
+    {
+      "path": "assets/ui-foundation/gold.svg",
+      "bytes": 739,
+      "sha256": "3afc6aa58afe498b1683b71f966a441b4e60e3818d4e55164c109140627a7bfc",
+      "original_copy_sha256": "3afc6aa58afe498b1683b71f966a441b4e60e3818d4e55164c109140627a7bfc"
+    },
+    {
+      "path": "assets/ui-foundation/icons.png",
+      "bytes": 1766864,
+      "sha256": "287aa21df98a73dd595f0dc4e89fbdd0e61ea02c38eee287e130c977ba6214ad",
+      "original_copy_sha256": "287aa21df98a73dd595f0dc4e89fbdd0e61ea02c38eee287e130c977ba6214ad"
+    },
+    {
+      "path": "assets/ui-foundation/iron-sword.png",
+      "bytes": 574753,
+      "sha256": "191e2d96e8e2070f4e46cdee312bd04155e14136cd51e76e7cd43836d4478701",
+      "original_copy_sha256": "191e2d96e8e2070f4e46cdee312bd04155e14136cd51e76e7cd43836d4478701"
+    },
+    {
+      "path": "assets/ui-foundation/jade-sword.png",
+      "bytes": 634090,
+      "sha256": "8e437830f985dc04fd30a1dbf548c59b93755a33ae03e840fa226146734c1328",
+      "original_copy_sha256": "8e437830f985dc04fd30a1dbf548c59b93755a33ae03e840fa226146734c1328"
+    },
+    {
+      "path": "assets/ui-foundation/jade.svg",
+      "bytes": 739,
+      "sha256": "2670f7fbfa15c7f329ee1727a872362e034d41797fea44016a8db1b7ef90f1c1",
+      "original_copy_sha256": "2670f7fbfa15c7f329ee1727a872362e034d41797fea44016a8db1b7ef90f1c1"
+    },
+    {
+      "path": "assets/ui-foundation/nav.svg",
+      "bytes": 739,
+      "sha256": "35451eab1e633e9e02925aa733ed79a67703547f7a0362bdeace25fa58b30c9b",
+      "original_copy_sha256": "35451eab1e633e9e02925aa733ed79a67703547f7a0362bdeace25fa58b30c9b"
+    },
+    {
+      "path": "assets/ui-foundation/new.svg",
+      "bytes": 739,
+      "sha256": "3dbee4d9868e46bb24c7d9705ced504d000989fc3a005042bd4e62f89520556f",
+      "original_copy_sha256": "3dbee4d9868e46bb24c7d9705ced504d000989fc3a005042bd4e62f89520556f"
+    },
+    {
+      "path": "assets/ui-foundation/old.svg",
+      "bytes": 739,
+      "sha256": "ae8779c498a8f49ba3a2557883d31a559156989458ca1ad6b27d1df28e0a0820",
+      "original_copy_sha256": "ae8779c498a8f49ba3a2557883d31a559156989458ca1ad6b27d1df28e0a0820"
+    },
+    {
+      "path": "assets/ui-foundation/paper.svg",
+      "bytes": 739,
+      "sha256": "39894e1fc0fffabc9133a5c7682d52af9d50c9d2ddefed87fdbf561cd3af16f4",
+      "original_copy_sha256": "39894e1fc0fffabc9133a5c7682d52af9d50c9d2ddefed87fdbf561cd3af16f4"
+    },
+    {
+      "path": "assets/ui-foundation/pressed.svg",
+      "bytes": 739,
+      "sha256": "91cc0f8bfc77807fc3e958f8c5b0fa9acefda6586f747e371892a809417eca81",
+      "original_copy_sha256": "91cc0f8bfc77807fc3e958f8c5b0fa9acefda6586f747e371892a809417eca81"
+    },
+    {
+      "path": "assets/ui-foundation/secondary.svg",
+      "bytes": 739,
+      "sha256": "4cc143ea594d03ed59dec684c205e4b5c39de9eff65138691f44b6d926f47ae3",
+      "original_copy_sha256": "4cc143ea594d03ed59dec684c205e4b5c39de9eff65138691f44b6d926f47ae3"
+    },
+    {
+      "path": "assets/ui-foundation/skins.png",
+      "bytes": 2221242,
+      "sha256": "3b831eef9ea4a718cb1b98aeea4edfdfdbf27e71d9c46dc442e0471990cdf4e9",
+      "original_copy_sha256": "3b831eef9ea4a718cb1b98aeea4edfdfdbf27e71d9c46dc442e0471990cdf4e9"
+    },
+    {
+      "path": "assets/ui-v06/button-gold.svg",
+      "bytes": 651,
+      "sha256": "31e873c746eff196e1369997b534f058024ce21942a51f01f95e9b8722596f6d",
+      "original_copy_sha256": "31e873c746eff196e1369997b534f058024ce21942a51f01f95e9b8722596f6d"
+    },
+    {
+      "path": "assets/ui-v06/button-jade.svg",
+      "bytes": 651,
+      "sha256": "667c3a7b426b760f996a1efeca494116c80524f84bbc837f224d06c41b287c90",
+      "original_copy_sha256": "667c3a7b426b760f996a1efeca494116c80524f84bbc837f224d06c41b287c90"
+    },
+    {
+      "path": "assets/ui-v06/button.svg",
+      "bytes": 651,
+      "sha256": "0ea742e3c80d5332b3208585fa4c93d2e38e65f8e7e7b11ad15e62d26ddcfcd4",
+      "original_copy_sha256": "0ea742e3c80d5332b3208585fa4c93d2e38e65f8e7e7b11ad15e62d26ddcfcd4"
+    },
+    {
+      "path": "assets/ui-v06/jade-panel.svg",
+      "bytes": 957,
+      "sha256": "cfe33e3118c3e8f11d85ee409e71b9146f19bc573608f70d2f03f3c15d29aa35",
+      "original_copy_sha256": "cfe33e3118c3e8f11d85ee409e71b9146f19bc573608f70d2f03f3c15d29aa35"
+    },
+    {
+      "path": "assets/ui-v06/nav-glow.svg",
+      "bytes": 438,
+      "sha256": "325cdbada6642ce71061567c43765ec6606aafe36fc1158838df52c27d421a04",
+      "original_copy_sha256": "325cdbada6642ce71061567c43765ec6606aafe36fc1158838df52c27d421a04"
+    },
+    {
+      "path": "assets/ui-v06/panel.svg",
+      "bytes": 957,
+      "sha256": "e4b3dd11adfb31021d96e68e36e8e08dc3f5f447fdaba76ff73ee28141e4cc8a",
+      "original_copy_sha256": "e4b3dd11adfb31021d96e68e36e8e08dc3f5f447fdaba76ff73ee28141e4cc8a"
+    },
+    {
+      "path": "assets/ui-v07/button-gold.png",
+      "bytes": 15738,
+      "sha256": "80279f3aab30079f344ef9524c54473d3cb6caf31d69d20cc3a6a51d97c0e14d",
+      "original_copy_sha256": "80279f3aab30079f344ef9524c54473d3cb6caf31d69d20cc3a6a51d97c0e14d"
+    },
+    {
+      "path": "assets/ui-v07/button-jade.png",
+      "bytes": 18391,
+      "sha256": "913b7ff787cf69b2881839918cc1ea72ba57b7d801a031b93fd1a4a551f57254",
+      "original_copy_sha256": "913b7ff787cf69b2881839918cc1ea72ba57b7d801a031b93fd1a4a551f57254"
+    },
+    {
+      "path": "assets/ui-v07/icon-affairs.png",
+      "bytes": 377288,
+      "sha256": "5dd6c7dd58196f2eae8c501ef877c2a25b7b144525a05d5bc2fff7cb0abc5a35",
+      "original_copy_sha256": "5dd6c7dd58196f2eae8c501ef877c2a25b7b144525a05d5bc2fff7cb0abc5a35"
+    },
+    {
+      "path": "assets/ui-v07/icon-checkin.png",
+      "bytes": 361518,
+      "sha256": "320c9dc9c21f82873b7fef63abb2081a41d306cb461416e27140ad66c9a80ef8",
+      "original_copy_sha256": "320c9dc9c21f82873b7fef63abb2081a41d306cb461416e27140ad66c9a80ef8"
+    },
+    {
+      "path": "assets/ui-v07/icon-circlet.png",
+      "bytes": 320484,
+      "sha256": "6cf22819b66eacbefec083432c0804931c10d5018169dbbefc870315b09681e4",
+      "original_copy_sha256": "6cf22819b66eacbefec083432c0804931c10d5018169dbbefc870315b09681e4"
+    },
+    {
+      "path": "assets/ui-v07/icon-cloud.png",
+      "bytes": 272937,
+      "sha256": "bcf54abdaa7e9bf31ac6689a0da7091d702c773c388915df4184b5e3d384f272",
+      "original_copy_sha256": "bcf54abdaa7e9bf31ac6689a0da7091d702c773c388915df4184b5e3d384f272"
+    },
+    {
+      "path": "assets/ui-v07/icon-fate.png",
+      "bytes": 170820,
+      "sha256": "b2e78e2c7d71324344fc0aadc09cfebbf6a6b8f45a26937ccc0d4f9cbd6a79f4",
+      "original_copy_sha256": "b2e78e2c7d71324344fc0aadc09cfebbf6a6b8f45a26937ccc0d4f9cbd6a79f4"
+    },
+    {
+      "path": "assets/ui-v07/icon-feather.png",
+      "bytes": 209051,
+      "sha256": "d86a115b90e0215cdd8c73b0256b18aaff8fc888773f6cafed729319a516983b",
+      "original_copy_sha256": "d86a115b90e0215cdd8c73b0256b18aaff8fc888773f6cafed729319a516983b"
+    },
+    {
+      "path": "assets/ui-v07/icon-flower.png",
+      "bytes": 281000,
+      "sha256": "c40a71ff32caf8d50e0f03d79a6cf4ed7ed2ec8d3614253a06f558bb03dbec61",
+      "original_copy_sha256": "c40a71ff32caf8d50e0f03d79a6cf4ed7ed2ec8d3614253a06f558bb03dbec61"
+    },
+    {
+      "path": "assets/ui-v07/icon-goblet.png",
+      "bytes": 362377,
+      "sha256": "7664313e362cca5e11ba778f4285cf2548a8040e2f60660d16189e1c665026cb",
+      "original_copy_sha256": "7664313e362cca5e11ba778f4285cf2548a8040e2f60660d16189e1c665026cb"
+    },
+    {
+      "path": "assets/ui-v07/icon-guild.png",
+      "bytes": 309677,
+      "sha256": "616ec5a116f2bcaef37aaa9c84212e486b4522dc23e433a2b1bc4530697f6fa2",
+      "original_copy_sha256": "616ec5a116f2bcaef37aaa9c84212e486b4522dc23e433a2b1bc4530697f6fa2"
+    },
+    {
+      "path": "assets/ui-v07/icon-rank.png",
+      "bytes": 273564,
+      "sha256": "c778970f135bb9c912154cf096ebec3e104d9fdae457ba4fbf28792187459e08",
+      "original_copy_sha256": "c778970f135bb9c912154cf096ebec3e104d9fdae457ba4fbf28792187459e08"
+    },
+    {
+      "path": "assets/ui-v07/icon-roster.png",
+      "bytes": 264461,
+      "sha256": "032f245fe1d2e6c5596eacf1b156fc4840cf8fbc7dfad21b48c5f2373b777490",
+      "original_copy_sha256": "032f245fe1d2e6c5596eacf1b156fc4840cf8fbc7dfad21b48c5f2373b777490"
+    },
+    {
+      "path": "assets/ui-v07/icon-sands.png",
+      "bytes": 304886,
+      "sha256": "60bd71f3ce2ecf07aab15743ad3ba1d7f24f066ab9f7931d3d281ace05a2c67c",
+      "original_copy_sha256": "60bd71f3ce2ecf07aab15743ad3ba1d7f24f066ab9f7931d3d281ace05a2c67c"
+    },
+    {
+      "path": "assets/ui-v07/icon-stages.png",
+      "bytes": 235950,
+      "sha256": "cba8e4a1ccc070bbbb16d6aaf2893c30d8bea4a93ca24a5c6167362fd64bb34f",
+      "original_copy_sha256": "cba8e4a1ccc070bbbb16d6aaf2893c30d8bea4a93ca24a5c6167362fd64bb34f"
+    },
+    {
+      "path": "assets/ui-v07/icon-stone.png",
+      "bytes": 344429,
+      "sha256": "34573e3f857bf897bc32ae569fb7ffa7fb7976bc0792d8703b29f2f704ec2046",
+      "original_copy_sha256": "34573e3f857bf897bc32ae569fb7ffa7fb7976bc0792d8703b29f2f704ec2046"
+    },
+    {
+      "path": "assets/ui-v07/icon-summon.png",
+      "bytes": 390414,
+      "sha256": "89babc4f67719e4e6076caec857e3268bb539be68cf0704680f4814745baff45",
+      "original_copy_sha256": "89babc4f67719e4e6076caec857e3268bb539be68cf0704680f4814745baff45"
+    },
+    {
+      "path": "assets/ui-v07/icon-xp.png",
+      "bytes": 347654,
+      "sha256": "ef581431ce032cb602131000baa929383efbaeccc9bc3bc4e4c96b6ed76976fd",
+      "original_copy_sha256": "ef581431ce032cb602131000baa929383efbaeccc9bc3bc4e4c96b6ed76976fd"
+    },
+    {
+      "path": "assets/ui-v07/panel-jade.png",
+      "bytes": 115322,
+      "sha256": "e88530561d039336a30be895b04ca4e8c3dfc108436ae35783760c3cc2d28133",
+      "original_copy_sha256": "e88530561d039336a30be895b04ca4e8c3dfc108436ae35783760c3cc2d28133"
+    },
+    {
+      "path": "assets/ui-v07/panel-paper.png",
+      "bytes": 122525,
+      "sha256": "3daf2499fddd13fb9c62c35af8ab72d266a0e3ab76206f2013b45952770c6245",
+      "original_copy_sha256": "3daf2499fddd13fb9c62c35af8ab72d266a0e3ab76206f2013b45952770c6245"
+    },
+    {
+      "path": "assets/ui-v07/prompts.json",
+      "bytes": 4381,
+      "sha256": "2c187ffcce2f4004960cfb877f5d979c8856956d43e4457925c9e7d87c4a5270",
+      "original_copy_sha256": "2c187ffcce2f4004960cfb877f5d979c8856956d43e4457925c9e7d87c4a5270"
+    },
+    {
+      "path": "assets/ui-v07/source-manifest.json",
+      "bytes": 3313,
+      "sha256": "0262e2ce17e50f75ac6f1007e79e4c71ed5e7eaf2dd6da3750ccd4b2411cb7c7",
+      "original_copy_sha256": "0262e2ce17e50f75ac6f1007e79e4c71ed5e7eaf2dd6da3750ccd4b2411cb7c7"
+    },
+    {
+      "path": "assets/ui-v08/button-gold.svg",
+      "bytes": 487,
+      "sha256": "e778b3414e1ee42f624ee8597ddc8e9b7700b7d51d23aa43dcf993ecb6d933e1",
+      "original_copy_sha256": "e778b3414e1ee42f624ee8597ddc8e9b7700b7d51d23aa43dcf993ecb6d933e1"
+    },
+    {
+      "path": "assets/ui-v08/button-jade.svg",
+      "bytes": 447,
+      "sha256": "2872bdcf7eab864b0e69819c99220a62e6490eb5e828f0b1c9640835697a107f",
+      "original_copy_sha256": "2872bdcf7eab864b0e69819c99220a62e6490eb5e828f0b1c9640835697a107f"
+    },
+    {
+      "path": "assets/ui-v08/home-immortal.png",
+      "bytes": 3143251,
+      "sha256": "9ae42e22db239cb3454c598d15ba719fd3806b6d9eed2bfc55d93a079ff909d9",
+      "original_copy_sha256": "9ae42e22db239cb3454c598d15ba719fd3806b6d9eed2bfc55d93a079ff909d9"
+    },
+    {
+      "path": "assets/ui-v08/icon-bounds.json",
+      "bytes": 2023,
+      "sha256": "a9f8edd10a864e58e489009b828115da280d3df99d8902e6a7bab727b17cc081",
+      "original_copy_sha256": "a9f8edd10a864e58e489009b828115da280d3df99d8902e6a7bab727b17cc081"
+    },
+    {
+      "path": "assets/ui-v08/illustrated-icons.png",
+      "bytes": 3101575,
+      "sha256": "8b91b89592192875309344dc43b88a5fb9d9d5c14086c1ed1eb9b8453d3edf1d",
+      "original_copy_sha256": "8b91b89592192875309344dc43b88a5fb9d9d5c14086c1ed1eb9b8453d3edf1d"
+    },
+    {
+      "path": "assets/ui-v08/panel-jade.svg",
+      "bytes": 662,
+      "sha256": "a88d4a4ba0adf36e4a21dc228e92a11cc9687dba4c5c0cac82341cf944df8ae5",
+      "original_copy_sha256": "a88d4a4ba0adf36e4a21dc228e92a11cc9687dba4c5c0cac82341cf944df8ae5"
+    },
+    {
+      "path": "assets/ui-v08/panel-paper.svg",
+      "bytes": 657,
+      "sha256": "9cb22432447c447d2f08da9f381a7d97e637eb41419c020d608a8694528de2a6",
+      "original_copy_sha256": "9cb22432447c447d2f08da9f381a7d97e637eb41419c020d608a8694528de2a6"
+    },
+    {
+      "path": "assets/ui-v08/README.md",
+      "bytes": 2044,
+      "sha256": "3b21f42ae455182f6522ae1e951c91a74e48e7b544885ecca2b230c7f260bf8d",
+      "original_copy_sha256": "3b21f42ae455182f6522ae1e951c91a74e48e7b544885ecca2b230c7f260bf8d"
+    },
+    {
+      "path": "assets/xianfu-background-premium.webp",
+      "bytes": 652426,
+      "sha256": "ce6ee8d8cce43f2bb5f5580eae5017c7a6b15ffe3143ca9529b02582de2f2659",
+      "original_copy_sha256": "ce6ee8d8cce43f2bb5f5580eae5017c7a6b15ffe3143ca9529b02582de2f2659"
+    },
+    {
+      "path": "assets/xianfu-background-v02.webp",
+      "bytes": 661234,
+      "sha256": "6a186fdab638456648b7227b23aa0e4a9f739add8467015296b92c7ec8abc180",
+      "original_copy_sha256": "6a186fdab638456648b7227b23aa0e4a9f739add8467015296b92c7ec8abc180"
+    },
+    {
+      "path": "assets/xianfu-terrain-beta.webp",
+      "bytes": 658982,
+      "sha256": "11adeba513546a253b6036d4e3b35ce254a5819cdc8f82f856f50e6423865eda",
+      "original_copy_sha256": "11adeba513546a253b6036d4e3b35ce254a5819cdc8f82f856f50e6423865eda"
+    },
+    {
+      "path": "data/activities-rules.json",
+      "bytes": 22644,
+      "sha256": "f21f3ad22aebb10a77ecc07ac613c0c5ecd627c73987f7845e84d26705846c8c",
+      "original_copy_sha256": "f21f3ad22aebb10a77ecc07ac613c0c5ecd627c73987f7845e84d26705846c8c"
+    },
+    {
+      "path": "data/activity-implementation-matrix.json",
+      "bytes": 29367,
+      "sha256": "78b407ddacd89c7375d38cc14f82c9872d3b10102e2980bf61529dc0de27db3a",
+      "original_copy_sha256": "78b407ddacd89c7375d38cc14f82c9872d3b10102e2980bf61529dc0de27db3a"
+    },
+    {
+      "path": "data/equipment-rules.json",
+      "bytes": 19348,
+      "sha256": "98e5a7e49969950abe8c5f4ac86547eca86331f8e31f0f34613af4c0eaab8867",
+      "original_copy_sha256": "98e5a7e49969950abe8c5f4ac86547eca86331f8e31f0f34613af4c0eaab8867"
+    },
+    {
+      "path": "data/framework-rules.json",
+      "bytes": 1637,
+      "sha256": "7585706d4c1b5a750d22d62f529bb614cd705ed8907267b569c77b564ed20902",
+      "original_copy_sha256": "7585706d4c1b5a750d22d62f529bb614cd705ed8907267b569c77b564ed20902"
+    },
+    {
+      "path": "data/game-data.json",
+      "bytes": 159228,
+      "sha256": "63e221f2a9073bd41b56ceb1a34677440aa8783019aa6ba478c09586c14cb53d",
+      "original_copy_sha256": "63e221f2a9073bd41b56ceb1a34677440aa8783019aa6ba478c09586c14cb53d"
+    },
+    {
+      "path": "data/godot-rules.json",
+      "bytes": 260804,
+      "sha256": "c3ad9528474be6008ea0500c876829b9971f7a02ca48971b91408a62170b73ba",
+      "original_copy_sha256": "c3ad9528474be6008ea0500c876829b9971f7a02ca48971b91408a62170b73ba"
+    },
+    {
+      "path": "data/progression-rules.json",
+      "bytes": 19879,
+      "sha256": "3cdec12467f2f307f0b1b9bdb1d8770a411deae3a3e23480eaf8283e9c39c3bf",
+      "original_copy_sha256": "3cdec12467f2f307f0b1b9bdb1d8770a411deae3a3e23480eaf8283e9c39c3bf"
+    },
+    {
+      "path": "data/progression-stories.json",
+      "bytes": 35245,
+      "sha256": "0a4ce850f5e2501e5de2d967cf072f9bc340da1bef78eb7db20f794ac5d957c1",
+      "original_copy_sha256": "0a4ce850f5e2501e5de2d967cf072f9bc340da1bef78eb7db20f794ac5d957c1"
+    },
+    {
+      "path": "data/progression-systems.json",
+      "bytes": 11779,
+      "sha256": "0d5d0faf1bbcabb6e3d19a2669c48815081158998ee264af57cf11bd3edd8e49",
+      "original_copy_sha256": "0d5d0faf1bbcabb6e3d19a2669c48815081158998ee264af57cf11bd3edd8e49"
+    },
+    {
+      "path": "data/roster-expansion.json",
+      "bytes": 105090,
+      "sha256": "dd2d242eb74bab34dc09f6cf9ee50073f0d57be97636c0c13a75eec2d5d638dd",
+      "original_copy_sha256": "dd2d242eb74bab34dc09f6cf9ee50073f0d57be97636c0c13a75eec2d5d638dd"
+    },
+    {
+      "path": "data/roster-guides.json",
+      "bytes": 14209,
+      "sha256": "4c87c83ea9de8091fb2f5b6b1ea35a2de7e0a553d3159b4ae987cf976a6e0494",
+      "original_copy_sha256": "4c87c83ea9de8091fb2f5b6b1ea35a2de7e0a553d3159b4ae987cf976a6e0494"
+    },
+    {
+      "path": "data/system-catalog.json",
+      "bytes": 22053,
+      "sha256": "0ad32a7db8aed935a5bdc70069d0be5e09c277f58410f5423bc32b856e64ba52",
+      "original_copy_sha256": "0ad32a7db8aed935a5bdc70069d0be5e09c277f58410f5423bc32b856e64ba52"
+    },
+    {
+      "path": "docs/asset-provenance.json",
+      "bytes": 210542,
+      "sha256": "6d2623674d7bb44b6d7729512c50420a561f2eadff336684d72d8ba49ee6dc9d",
+      "original_copy_sha256": "6d2623674d7bb44b6d7729512c50420a561f2eadff336684d72d8ba49ee6dc9d"
+    },
+    {
+      "path": "docs/chapter-art-manifest.json",
+      "bytes": 1618,
+      "sha256": "e2ba45587fc103ea71e357de11714d4fd1b4fc8741bd9e59677ebc9b3eb91601",
+      "original_copy_sha256": "e2ba45587fc103ea71e357de11714d4fd1b4fc8741bd9e59677ebc9b3eb91601"
+    },
+    {
+      "path": "docs/ESTATE_NATIVE_GRID.md",
+      "bytes": 6309,
+      "sha256": "3ebae618943bc6f7f830850949010c0658d938a848de986e37e93d28efd667f4",
+      "original_copy_sha256": "3ebae618943bc6f7f830850949010c0658d938a848de986e37e93d28efd667f4"
+    },
+    {
+      "path": "docs/facility-art-manifest.json",
+      "bytes": 12569,
+      "sha256": "741e7ffa7818a723dc25b8205b011b0e0e38574ec8ae78b389703274cb48c89c",
+      "original_copy_sha256": "741e7ffa7818a723dc25b8205b011b0e0e38574ec8ae78b389703274cb48c89c"
+    },
+    {
+      "path": "docs/Godot-economy.md",
+      "bytes": 7403,
+      "sha256": "96c05aa000dba7b2eec289065eee4632451bd68e7636320990e476410eaf42ef",
+      "original_copy_sha256": "96c05aa000dba7b2eec289065eee4632451bd68e7636320990e476410eaf42ef"
+    },
+    {
+      "path": "docs/Godot-equipment.md",
+      "bytes": 9370,
+      "sha256": "304d1148ef19bbe39cecd42ba9cbc6136ed5902c7ec357c48c5f886b3d14a2d5",
+      "original_copy_sha256": "304d1148ef19bbe39cecd42ba9cbc6136ed5902c7ec357c48c5f886b3d14a2d5"
+    },
+    {
+      "path": "docs/Godot-expeditions.md",
+      "bytes": 6866,
+      "sha256": "2ddace8c29239ffd74b6dd1482a767f45b909d58231e5e82693083d05515b436",
+      "original_copy_sha256": "2ddace8c29239ffd74b6dd1482a767f45b909d58231e5e82693083d05515b436"
+    },
+    {
+      "path": "docs/Godot-native-UI.md",
+      "bytes": 9242,
+      "sha256": "1e13a55b4faaf8a3654c15bdf12af521cb405ace3be610e0818cb3ec77fa189b",
+      "original_copy_sha256": "1e13a55b4faaf8a3654c15bdf12af521cb405ace3be610e0818cb3ec77fa189b"
+    },
+    {
+      "path": "docs/Godot存档与恢复.md",
+      "bytes": 5974,
+      "sha256": "d6cb9a2b759fa05ea610fd680fd774ea1b59fe51ec409b8d1998a55b502addf4",
+      "original_copy_sha256": "d6cb9a2b759fa05ea610fd680fd774ea1b59fe51ec409b8d1998a55b502addf4"
+    },
+    {
+      "path": "docs/LOCAL_MOCK_SERVICES.md",
+      "bytes": 4447,
+      "sha256": "54d5f83f24a8d2bc8fab2ed7bbae5044d5a7130e8b5fc996187e82b1f3d2bab7",
+      "original_copy_sha256": "54d5f83f24a8d2bc8fab2ed7bbae5044d5a7130e8b5fc996187e82b1f3d2bab7"
+    },
+    {
+      "path": "docs/roster-art-manifest.json",
+      "bytes": 68437,
+      "sha256": "d4b93f4f552311bd3bead899f48cd5d842d3d1d15fa0cb29ffb4c3fcfe9caf51",
+      "original_copy_sha256": "d4b93f4f552311bd3bead899f48cd5d842d3d1d15fa0cb29ffb4c3fcfe9caf51"
+    },
+    {
+      "path": "docs/terrain-texture-manifest.json",
+      "bytes": 5263,
+      "sha256": "ca53157d4e6ea1dbbec193a3439cf89b45895478e6c43df87e23c8b526952800",
+      "original_copy_sha256": "ca53157d4e6ea1dbbec193a3439cf89b45895478e6c43df87e23c8b526952800"
+    },
+    {
+      "path": "docs/Test_Free_Currency.md",
+      "bytes": 3139,
+      "sha256": "4d58226edb2379b2304c82f7a67bfff34e9a8a3b308906fc69c9f3da6760efcc",
+      "original_copy_sha256": "4d58226edb2379b2304c82f7a67bfff34e9a8a3b308906fc69c9f3da6760efcc"
+    },
+    {
+      "path": "docs/V0.10-框架重制与验收.md",
+      "bytes": 7534,
+      "sha256": "1a655853bdd97faf341297f957971ba7962f289c94b6bf6f00a28b63b712fd00",
+      "original_copy_sha256": "1a655853bdd97faf341297f957971ba7962f289c94b6bf6f00a28b63b712fd00"
+    },
+    {
+      "path": "docs/V0.10-试玩指南.md",
+      "bytes": 3922,
+      "sha256": "691969d073924c80142258141491852540bf8ed0ad5e66efb58b8a1bffd7f343",
+      "original_copy_sha256": "691969d073924c80142258141491852540bf8ed0ad5e66efb58b8a1bffd7f343"
+    },
+    {
+      "path": "docs/框架执行矩阵-20261008.md",
+      "bytes": 13015,
+      "sha256": "58f45043a5a9e4c33c5cf96aa9d39b013e147d06c6b63a8fadbd484c770b0a7c",
+      "original_copy_sha256": "58f45043a5a9e4c33c5cf96aa9d39b013e147d06c6b63a8fadbd484c770b0a7c"
+    },
+    {
+      "path": "export_presets.cfg",
+      "bytes": 2300,
+      "sha256": "f5e808a7ba92342027548e95551eafcacbd585794b4545ab8f0f37f27cfcab5c",
+      "original_copy_sha256": "f5e808a7ba92342027548e95551eafcacbd585794b4545ab8f0f37f27cfcab5c"
+    },
+    {
+      "path": "project.godot",
+      "bytes": 686,
+      "sha256": "640d5f56ea1abe5e9294c59cee9d352a049691278d9c1ec8433509bb459ad421",
+      "original_copy_sha256": "640d5f56ea1abe5e9294c59cee9d352a049691278d9c1ec8433509bb459ad421"
+    },
+    {
+      "path": "scenes/battle.tscn",
+      "bytes": 284,
+      "sha256": "03ab985590d745327822b5a1f6b020ebfca0a9896fbf1c29283d2997afae4dc0",
+      "original_copy_sha256": "03ab985590d745327822b5a1f6b020ebfca0a9896fbf1c29283d2997afae4dc0"
+    },
+    {
+      "path": "scenes/building.tscn",
+      "bytes": 170,
+      "sha256": "984234c3758d787ce6bf0ae0168bb17dad4e331f2d929ef83864a2310517be2c",
+      "original_copy_sha256": "984234c3758d787ce6bf0ae0168bb17dad4e331f2d929ef83864a2310517be2c"
+    },
+    {
+      "path": "scenes/estate.tscn",
+      "bytes": 324,
+      "sha256": "9c802dabc1cec21bc7c1a546190677cca9bc5ece817d73f7fdc68f51962d5372",
+      "original_copy_sha256": "9c802dabc1cec21bc7c1a546190677cca9bc5ece817d73f7fdc68f51962d5372"
+    },
+    {
+      "path": "scenes/main.tscn",
+      "bytes": 282,
+      "sha256": "ef1de7b44f44e1febf414308fa9fa5d80e3285b48671b7dcc2f4164142888097",
+      "original_copy_sha256": "ef1de7b44f44e1febf414308fa9fa5d80e3285b48671b7dcc2f4164142888097"
+    },
+    {
+      "path": "scenes/ui/component_preview.tscn",
+      "bytes": 3935,
+      "sha256": "e4ca2ccf68adccb86512329c2417e22f8896415d96f9d4617e3bf5f9a78b7431",
+      "original_copy_sha256": "e4ca2ccf68adccb86512329c2417e22f8896415d96f9d4617e3bf5f9a78b7431"
+    },
+    {
+      "path": "scenes/ui/components/bottom_navigation.tscn",
+      "bytes": 1533,
+      "sha256": "8163e7e728c7c21a672f668bc006dbeddee5dec5101bbcc214c5b2902545259d",
+      "original_copy_sha256": "8163e7e728c7c21a672f668bc006dbeddee5dec5101bbcc214c5b2902545259d"
+    },
+    {
+      "path": "scenes/ui/components/equipment_card.tscn",
+      "bytes": 1829,
+      "sha256": "00aa0dd7b04ddee2addb5d76ed18987e3b4e3553ab1659bd79729217aaafea3b",
+      "original_copy_sha256": "00aa0dd7b04ddee2addb5d76ed18987e3b4e3553ab1659bd79729217aaafea3b"
+    },
+    {
+      "path": "scenes/ui/components/function_entry.tscn",
+      "bytes": 1537,
+      "sha256": "9fd8f768970e70c9d82a5ffb93836faaae6314c5989d5d0b9c19f453ab047dcb",
+      "original_copy_sha256": "9fd8f768970e70c9d82a5ffb93836faaae6314c5989d5d0b9c19f453ab047dcb"
+    },
+    {
+      "path": "scenes/ui/components/icon_button.tscn",
+      "bytes": 317,
+      "sha256": "c8398471ebd9c8147964a58b1e3dedf1f1414e389ab5aa75f4f02fd6fa8c243f",
+      "original_copy_sha256": "c8398471ebd9c8147964a58b1e3dedf1f1414e389ab5aa75f4f02fd6fa8c243f"
+    },
+    {
+      "path": "scenes/ui/components/modal.tscn",
+      "bytes": 1813,
+      "sha256": "3aa51f4ad00e1ea2e7db9ebf1382153844cbfd7448934da50bf793f9aaa95a59",
+      "original_copy_sha256": "3aa51f4ad00e1ea2e7db9ebf1382153844cbfd7448934da50bf793f9aaa95a59"
+    },
+    {
+      "path": "scenes/ui/components/panel.tscn",
+      "bytes": 488,
+      "sha256": "773fda187eb2ffa5a52b258b4de1012dd65659960d4ea3077779ebc24331ab09",
+      "original_copy_sha256": "773fda187eb2ffa5a52b258b4de1012dd65659960d4ea3077779ebc24331ab09"
+    },
+    {
+      "path": "scenes/ui/components/primary_button.tscn",
+      "bytes": 318,
+      "sha256": "15164db517be0b527fa72772e3fb808b59247428dae09cf325d9df808d90f1ac",
+      "original_copy_sha256": "15164db517be0b527fa72772e3fb808b59247428dae09cf325d9df808d90f1ac"
+    },
+    {
+      "path": "scenes/ui/components/product_card.tscn",
+      "bytes": 934,
+      "sha256": "f130dfdc945e15ad09db43e39f94cd407b68dcfffa89165c8d43d4b35018414d",
+      "original_copy_sha256": "f130dfdc945e15ad09db43e39f94cd407b68dcfffa89165c8d43d4b35018414d"
+    },
+    {
+      "path": "scenes/ui/components/resource_bar.tscn",
+      "bytes": 1136,
+      "sha256": "54842eac61a1a7655ea5b2d5cc96a3f0f2c0a76287331e6008608362b28040ae",
+      "original_copy_sha256": "54842eac61a1a7655ea5b2d5cc96a3f0f2c0a76287331e6008608362b28040ae"
+    },
+    {
+      "path": "scenes/ui/components/secondary_button.tscn",
+      "bytes": 311,
+      "sha256": "7e4f352da5be56a7cef3d850c7bbab2e59c9d4fff9d12a5363171c6c9cc883aa",
+      "original_copy_sha256": "7e4f352da5be56a7cef3d850c7bbab2e59c9d4fff9d12a5363171c6c9cc883aa"
+    },
+    {
+      "path": "scenes/ui/components/status.tscn",
+      "bytes": 848,
+      "sha256": "dd2dc962edecf78ead18bc31011a1401a96870f609b7bedb199697488119dfe9",
+      "original_copy_sha256": "dd2dc962edecf78ead18bc31011a1401a96870f609b7bedb199697488119dfe9"
+    },
+    {
+      "path": "scenes/ui/components/tab.tscn",
+      "bytes": 334,
+      "sha256": "045da82dd6a5def1fd574d3782c7d330184ed4db51fb822bc373957db8e6b5b0",
+      "original_copy_sha256": "045da82dd6a5def1fd574d3782c7d330184ed4db51fb822bc373957db8e6b5b0"
+    },
+    {
+      "path": "scenes/ui/equipment_result.tscn",
+      "bytes": 3206,
+      "sha256": "20aab40dc5f75fcc5cca7b0dfbb31dab4a409e1cd06677c112f09e072db880b3",
+      "original_copy_sha256": "20aab40dc5f75fcc5cca7b0dfbb31dab4a409e1cd06677c112f09e072db880b3"
+    },
+    {
+      "path": "scenes/ui/forge_home.tscn",
+      "bytes": 9047,
+      "sha256": "121b00f64530ebb79075f8c4c5890bb6a47e544e075154e72313beaa44e81350",
+      "original_copy_sha256": "121b00f64530ebb79075f8c4c5890bb6a47e544e075154e72313beaa44e81350"
+    },
     {
       "path": "scripts/activities_screen.gd",
       "bytes": 30243,
@@ -687,1770 +2560,6 @@
       "original_copy_sha256": "e02348b99a384a213d73787cd420f4a6fd0cc8a3da9fede4b56117e9d0fb7d99"
     },
     {
-      "path": "scenes/battle.tscn",
-      "bytes": 284,
-      "sha256": "03ab985590d745327822b5a1f6b020ebfca0a9896fbf1c29283d2997afae4dc0",
-      "original_copy_sha256": "03ab985590d745327822b5a1f6b020ebfca0a9896fbf1c29283d2997afae4dc0"
-    },
-    {
-      "path": "scenes/building.tscn",
-      "bytes": 170,
-      "sha256": "984234c3758d787ce6bf0ae0168bb17dad4e331f2d929ef83864a2310517be2c",
-      "original_copy_sha256": "984234c3758d787ce6bf0ae0168bb17dad4e331f2d929ef83864a2310517be2c"
-    },
-    {
-      "path": "scenes/estate.tscn",
-      "bytes": 324,
-      "sha256": "9c802dabc1cec21bc7c1a546190677cca9bc5ece817d73f7fdc68f51962d5372",
-      "original_copy_sha256": "9c802dabc1cec21bc7c1a546190677cca9bc5ece817d73f7fdc68f51962d5372"
-    },
-    {
-      "path": "scenes/main.tscn",
-      "bytes": 282,
-      "sha256": "ef1de7b44f44e1febf414308fa9fa5d80e3285b48671b7dcc2f4164142888097",
-      "original_copy_sha256": "ef1de7b44f44e1febf414308fa9fa5d80e3285b48671b7dcc2f4164142888097"
-    },
-    {
-      "path": "scenes/ui/component_preview.tscn",
-      "bytes": 3935,
-      "sha256": "e4ca2ccf68adccb86512329c2417e22f8896415d96f9d4617e3bf5f9a78b7431",
-      "original_copy_sha256": "e4ca2ccf68adccb86512329c2417e22f8896415d96f9d4617e3bf5f9a78b7431"
-    },
-    {
-      "path": "scenes/ui/equipment_result.tscn",
-      "bytes": 3206,
-      "sha256": "20aab40dc5f75fcc5cca7b0dfbb31dab4a409e1cd06677c112f09e072db880b3",
-      "original_copy_sha256": "20aab40dc5f75fcc5cca7b0dfbb31dab4a409e1cd06677c112f09e072db880b3"
-    },
-    {
-      "path": "scenes/ui/forge_home.tscn",
-      "bytes": 9047,
-      "sha256": "121b00f64530ebb79075f8c4c5890bb6a47e544e075154e72313beaa44e81350",
-      "original_copy_sha256": "121b00f64530ebb79075f8c4c5890bb6a47e544e075154e72313beaa44e81350"
-    },
-    {
-      "path": "scenes/ui/components/bottom_navigation.tscn",
-      "bytes": 1533,
-      "sha256": "8163e7e728c7c21a672f668bc006dbeddee5dec5101bbcc214c5b2902545259d",
-      "original_copy_sha256": "8163e7e728c7c21a672f668bc006dbeddee5dec5101bbcc214c5b2902545259d"
-    },
-    {
-      "path": "scenes/ui/components/equipment_card.tscn",
-      "bytes": 1829,
-      "sha256": "00aa0dd7b04ddee2addb5d76ed18987e3b4e3553ab1659bd79729217aaafea3b",
-      "original_copy_sha256": "00aa0dd7b04ddee2addb5d76ed18987e3b4e3553ab1659bd79729217aaafea3b"
-    },
-    {
-      "path": "scenes/ui/components/function_entry.tscn",
-      "bytes": 1537,
-      "sha256": "9fd8f768970e70c9d82a5ffb93836faaae6314c5989d5d0b9c19f453ab047dcb",
-      "original_copy_sha256": "9fd8f768970e70c9d82a5ffb93836faaae6314c5989d5d0b9c19f453ab047dcb"
-    },
-    {
-      "path": "scenes/ui/components/icon_button.tscn",
-      "bytes": 317,
-      "sha256": "c8398471ebd9c8147964a58b1e3dedf1f1414e389ab5aa75f4f02fd6fa8c243f",
-      "original_copy_sha256": "c8398471ebd9c8147964a58b1e3dedf1f1414e389ab5aa75f4f02fd6fa8c243f"
-    },
-    {
-      "path": "scenes/ui/components/modal.tscn",
-      "bytes": 1813,
-      "sha256": "3aa51f4ad00e1ea2e7db9ebf1382153844cbfd7448934da50bf793f9aaa95a59",
-      "original_copy_sha256": "3aa51f4ad00e1ea2e7db9ebf1382153844cbfd7448934da50bf793f9aaa95a59"
-    },
-    {
-      "path": "scenes/ui/components/panel.tscn",
-      "bytes": 488,
-      "sha256": "773fda187eb2ffa5a52b258b4de1012dd65659960d4ea3077779ebc24331ab09",
-      "original_copy_sha256": "773fda187eb2ffa5a52b258b4de1012dd65659960d4ea3077779ebc24331ab09"
-    },
-    {
-      "path": "scenes/ui/components/primary_button.tscn",
-      "bytes": 318,
-      "sha256": "15164db517be0b527fa72772e3fb808b59247428dae09cf325d9df808d90f1ac",
-      "original_copy_sha256": "15164db517be0b527fa72772e3fb808b59247428dae09cf325d9df808d90f1ac"
-    },
-    {
-      "path": "scenes/ui/components/product_card.tscn",
-      "bytes": 934,
-      "sha256": "f130dfdc945e15ad09db43e39f94cd407b68dcfffa89165c8d43d4b35018414d",
-      "original_copy_sha256": "f130dfdc945e15ad09db43e39f94cd407b68dcfffa89165c8d43d4b35018414d"
-    },
-    {
-      "path": "scenes/ui/components/resource_bar.tscn",
-      "bytes": 1136,
-      "sha256": "54842eac61a1a7655ea5b2d5cc96a3f0f2c0a76287331e6008608362b28040ae",
-      "original_copy_sha256": "54842eac61a1a7655ea5b2d5cc96a3f0f2c0a76287331e6008608362b28040ae"
-    },
-    {
-      "path": "scenes/ui/components/secondary_button.tscn",
-      "bytes": 311,
-      "sha256": "7e4f352da5be56a7cef3d850c7bbab2e59c9d4fff9d12a5363171c6c9cc883aa",
-      "original_copy_sha256": "7e4f352da5be56a7cef3d850c7bbab2e59c9d4fff9d12a5363171c6c9cc883aa"
-    },
-    {
-      "path": "scenes/ui/components/status.tscn",
-      "bytes": 848,
-      "sha256": "dd2dc962edecf78ead18bc31011a1401a96870f609b7bedb199697488119dfe9",
-      "original_copy_sha256": "dd2dc962edecf78ead18bc31011a1401a96870f609b7bedb199697488119dfe9"
-    },
-    {
-      "path": "scenes/ui/components/tab.tscn",
-      "bytes": 334,
-      "sha256": "045da82dd6a5def1fd574d3782c7d330184ed4db51fb822bc373957db8e6b5b0",
-      "original_copy_sha256": "045da82dd6a5def1fd574d3782c7d330184ed4db51fb822bc373957db8e6b5b0"
-    },
-    {
-      "path": "data/activities-rules.json",
-      "bytes": 22644,
-      "sha256": "f21f3ad22aebb10a77ecc07ac613c0c5ecd627c73987f7845e84d26705846c8c",
-      "original_copy_sha256": "f21f3ad22aebb10a77ecc07ac613c0c5ecd627c73987f7845e84d26705846c8c"
-    },
-    {
-      "path": "data/activity-implementation-matrix.json",
-      "bytes": 29367,
-      "sha256": "78b407ddacd89c7375d38cc14f82c9872d3b10102e2980bf61529dc0de27db3a",
-      "original_copy_sha256": "78b407ddacd89c7375d38cc14f82c9872d3b10102e2980bf61529dc0de27db3a"
-    },
-    {
-      "path": "data/equipment-rules.json",
-      "bytes": 19348,
-      "sha256": "98e5a7e49969950abe8c5f4ac86547eca86331f8e31f0f34613af4c0eaab8867",
-      "original_copy_sha256": "98e5a7e49969950abe8c5f4ac86547eca86331f8e31f0f34613af4c0eaab8867"
-    },
-    {
-      "path": "data/framework-rules.json",
-      "bytes": 1637,
-      "sha256": "7585706d4c1b5a750d22d62f529bb614cd705ed8907267b569c77b564ed20902",
-      "original_copy_sha256": "7585706d4c1b5a750d22d62f529bb614cd705ed8907267b569c77b564ed20902"
-    },
-    {
-      "path": "data/game-data.json",
-      "bytes": 159228,
-      "sha256": "63e221f2a9073bd41b56ceb1a34677440aa8783019aa6ba478c09586c14cb53d",
-      "original_copy_sha256": "63e221f2a9073bd41b56ceb1a34677440aa8783019aa6ba478c09586c14cb53d"
-    },
-    {
-      "path": "data/godot-rules.json",
-      "bytes": 260804,
-      "sha256": "c3ad9528474be6008ea0500c876829b9971f7a02ca48971b91408a62170b73ba",
-      "original_copy_sha256": "c3ad9528474be6008ea0500c876829b9971f7a02ca48971b91408a62170b73ba"
-    },
-    {
-      "path": "data/progression-rules.json",
-      "bytes": 19879,
-      "sha256": "3cdec12467f2f307f0b1b9bdb1d8770a411deae3a3e23480eaf8283e9c39c3bf",
-      "original_copy_sha256": "3cdec12467f2f307f0b1b9bdb1d8770a411deae3a3e23480eaf8283e9c39c3bf"
-    },
-    {
-      "path": "data/progression-stories.json",
-      "bytes": 35245,
-      "sha256": "0a4ce850f5e2501e5de2d967cf072f9bc340da1bef78eb7db20f794ac5d957c1",
-      "original_copy_sha256": "0a4ce850f5e2501e5de2d967cf072f9bc340da1bef78eb7db20f794ac5d957c1"
-    },
-    {
-      "path": "data/progression-systems.json",
-      "bytes": 11779,
-      "sha256": "0d5d0faf1bbcabb6e3d19a2669c48815081158998ee264af57cf11bd3edd8e49",
-      "original_copy_sha256": "0d5d0faf1bbcabb6e3d19a2669c48815081158998ee264af57cf11bd3edd8e49"
-    },
-    {
-      "path": "data/roster-expansion.json",
-      "bytes": 105090,
-      "sha256": "dd2d242eb74bab34dc09f6cf9ee50073f0d57be97636c0c13a75eec2d5d638dd",
-      "original_copy_sha256": "dd2d242eb74bab34dc09f6cf9ee50073f0d57be97636c0c13a75eec2d5d638dd"
-    },
-    {
-      "path": "data/roster-guides.json",
-      "bytes": 14209,
-      "sha256": "4c87c83ea9de8091fb2f5b6b1ea35a2de7e0a553d3159b4ae987cf976a6e0494",
-      "original_copy_sha256": "4c87c83ea9de8091fb2f5b6b1ea35a2de7e0a553d3159b4ae987cf976a6e0494"
-    },
-    {
-      "path": "data/system-catalog.json",
-      "bytes": 22053,
-      "sha256": "0ad32a7db8aed935a5bdc70069d0be5e09c277f58410f5423bc32b856e64ba52",
-      "original_copy_sha256": "0ad32a7db8aed935a5bdc70069d0be5e09c277f58410f5423bc32b856e64ba52"
-    },
-    {
-      "path": "assets/battle-background-premium.webp",
-      "bytes": 369394,
-      "sha256": "54f65f8f6bfa2905a91feadfe0c75076c8e8193105704e764ea3a4a5d5d90827",
-      "original_copy_sha256": "54f65f8f6bfa2905a91feadfe0c75076c8e8193105704e764ea3a4a5d5d90827"
-    },
-    {
-      "path": "assets/xianfu-background-premium.webp",
-      "bytes": 652426,
-      "sha256": "ce6ee8d8cce43f2bb5f5580eae5017c7a6b15ffe3143ca9529b02582de2f2659",
-      "original_copy_sha256": "ce6ee8d8cce43f2bb5f5580eae5017c7a6b15ffe3143ca9529b02582de2f2659"
-    },
-    {
-      "path": "assets/xianfu-background-v02.webp",
-      "bytes": 661234,
-      "sha256": "6a186fdab638456648b7227b23aa0e4a9f739add8467015296b92c7ec8abc180",
-      "original_copy_sha256": "6a186fdab638456648b7227b23aa0e4a9f739add8467015296b92c7ec8abc180"
-    },
-    {
-      "path": "assets/xianfu-terrain-beta.webp",
-      "bytes": 658982,
-      "sha256": "11adeba513546a253b6036d4e3b35ce254a5819cdc8f82f856f50e6423865eda",
-      "original_copy_sha256": "11adeba513546a253b6036d4e3b35ce254a5819cdc8f82f856f50e6423865eda"
-    },
-    {
-      "path": "assets/avatars/bigan-premium.webp",
-      "bytes": 38316,
-      "sha256": "390af9f4d8790fb2ece1aa940ab5f477e82699660f726e31af8c531538574f73",
-      "original_copy_sha256": "390af9f4d8790fb2ece1aa940ab5f477e82699660f726e31af8c531538574f73"
-    },
-    {
-      "path": "assets/avatars/bixiao-premium.webp",
-      "bytes": 44762,
-      "sha256": "25c7d1797161f41f1a25e857f98d63d1e5cb16cb93b000ce79e6a7b230b48397",
-      "original_copy_sha256": "25c7d1797161f41f1a25e857f98d63d1e5cb16cb93b000ce79e6a7b230b48397"
-    },
-    {
-      "path": "assets/avatars/chenqi-premium.webp",
-      "bytes": 51210,
-      "sha256": "6d3fbd8d1977d8cd222d3468720e6ea1f1eb72f6ca0a17e64ba2ddfebb928442",
-      "original_copy_sha256": "6d3fbd8d1977d8cd222d3468720e6ea1f1eb72f6ca0a17e64ba2ddfebb928442"
-    },
-    {
-      "path": "assets/avatars/chijingzi-premium.webp",
-      "bytes": 53778,
-      "sha256": "edaadb8883a7a348dc939051ab4092ddabb59cce104dfef4ba01d6b492e609c3",
-      "original_copy_sha256": "edaadb8883a7a348dc939051ab4092ddabb59cce104dfef4ba01d6b492e609c3"
-    },
-    {
-      "path": "assets/avatars/cihang-premium.webp",
-      "bytes": 49962,
-      "sha256": "fdb6f2caebef15f235e0e0207b959fc7ad439ee52e2eba09447bcd0a38c109c1",
-      "original_copy_sha256": "fdb6f2caebef15f235e0e0207b959fc7ad439ee52e2eba09447bcd0a38c109c1"
-    },
-    {
-      "path": "assets/avatars/daoxing-premium.webp",
-      "bytes": 49200,
-      "sha256": "592aea201606b0335b7ba5c3e5d11cdb8a52dff8895ae0428db4223f7064b06d",
-      "original_copy_sha256": "592aea201606b0335b7ba5c3e5d11cdb8a52dff8895ae0428db4223f7064b06d"
-    },
-    {
-      "path": "assets/avatars/dengchanyu-premium.webp",
-      "bytes": 50658,
-      "sha256": "59051591467547f91526fee58087b9fb839172daade0b96e8a4904391adfbbe0",
-      "original_copy_sha256": "59051591467547f91526fee58087b9fb839172daade0b96e8a4904391adfbbe0"
-    },
-    {
-      "path": "assets/avatars/duobao-premium.webp",
-      "bytes": 53860,
-      "sha256": "06bbba62687f0ec2cc055702a3b57da866b0c06a670a8a812a314d28bd2206bc",
-      "original_copy_sha256": "06bbba62687f0ec2cc055702a3b57da866b0c06a670a8a812a314d28bd2206bc"
-    },
-    {
-      "path": "assets/avatars/guangchengzi-premium.webp",
-      "bytes": 52928,
-      "sha256": "23ef34d1b65b6d0fe2df4396bdf7ca7e251b0bc2a48072f4b660f7fba713157a",
-      "original_copy_sha256": "23ef34d1b65b6d0fe2df4396bdf7ca7e251b0bc2a48072f4b660f7fba713157a"
-    },
-    {
-      "path": "assets/avatars/guiling-premium.webp",
-      "bytes": 57438,
-      "sha256": "5e6b6deeb584d15a0a64715509cee447e62f018501b75ef0edc75f1c818e7532",
-      "original_copy_sha256": "5e6b6deeb584d15a0a64715509cee447e62f018501b75ef0edc75f1c818e7532"
-    },
-    {
-      "path": "assets/avatars/huangfeihu-premium.webp",
-      "bytes": 38300,
-      "sha256": "317e0a0c3a25227b440e96de0871c05de6b87d044b482152d6a81af163c2c43d",
-      "original_copy_sha256": "317e0a0c3a25227b440e96de0871c05de6b87d044b482152d6a81af163c2c43d"
-    },
-    {
-      "path": "assets/avatars/huanglong-premium.webp",
-      "bytes": 54776,
-      "sha256": "8dd8b171f5c6abe0a3392eae15b59fb9cdb753bc37245d6f1f846f33c77de507",
-      "original_copy_sha256": "8dd8b171f5c6abe0a3392eae15b59fb9cdb753bc37245d6f1f846f33c77de507"
-    },
-    {
-      "path": "assets/avatars/huangtianhua-premium.webp",
-      "bytes": 54428,
-      "sha256": "2d51916a6ee476d0c1e8f956b1f65d44ec955cda96a1828fe9a34d885533faab",
-      "original_copy_sha256": "2d51916a6ee476d0c1e8f956b1f65d44ec955cda96a1828fe9a34d885533faab"
-    },
-    {
-      "path": "assets/avatars/jiangziya-premium.webp",
-      "bytes": 51196,
-      "sha256": "040ffbb96addc69f41b8753283ce54dffcb8a697665ef4f6ab4eada94b5199d5",
-      "original_copy_sha256": "040ffbb96addc69f41b8753283ce54dffcb8a697665ef4f6ab4eada94b5199d5"
-    },
-    {
-      "path": "assets/avatars/jieyin-premium.webp",
-      "bytes": 46846,
-      "sha256": "bad039643b0b438e3f31583095a067a65ddde08fb6c75cd0cce89b42d7fd0e32",
-      "original_copy_sha256": "bad039643b0b438e3f31583095a067a65ddde08fb6c75cd0cce89b42d7fd0e32"
-    },
-    {
-      "path": "assets/avatars/jifa-premium.webp",
-      "bytes": 43234,
-      "sha256": "96535455a6c6227be1ddf34e9ef409dd5c1757f1d3ebfd989edc3e2fca48b052",
-      "original_copy_sha256": "96535455a6c6227be1ddf34e9ef409dd5c1757f1d3ebfd989edc3e2fca48b052"
-    },
-    {
-      "path": "assets/avatars/jinling-premium.webp",
-      "bytes": 55648,
-      "sha256": "c28751a5680c432bcc34b6186aa6b3f8a148347aa619d96ce14ff56a86c53cd8",
-      "original_copy_sha256": "c28751a5680c432bcc34b6186aa6b3f8a148347aa619d96ce14ff56a86c53cd8"
-    },
-    {
-      "path": "assets/avatars/juliusun-premium.webp",
-      "bytes": 49956,
-      "sha256": "0f90c88fd8e88e3ed158f1d469766f2cc3599fb1e05ce7ff43fcc6970bd9b6ba",
-      "original_copy_sha256": "0f90c88fd8e88e3ed158f1d469766f2cc3599fb1e05ce7ff43fcc6970bd9b6ba"
-    },
-    {
-      "path": "assets/avatars/kongxuan-premium.webp",
-      "bytes": 57224,
-      "sha256": "dc07bfd9369cddcb646c279c13d41ff5cacf23acee166bef38c73c94bd820f2b",
-      "original_copy_sha256": "dc07bfd9369cddcb646c279c13d41ff5cacf23acee166bef38c73c94bd820f2b"
-    },
-    {
-      "path": "assets/avatars/leizhenzi-premium.webp",
-      "bytes": 50748,
-      "sha256": "80a7493a873c202dec55116c68ebbb167086bff7210ad4c6d943bef373852074",
-      "original_copy_sha256": "80a7493a873c202dec55116c68ebbb167086bff7210ad4c6d943bef373852074"
-    },
-    {
-      "path": "assets/avatars/longji-premium.webp",
-      "bytes": 53658,
-      "sha256": "a758c384c5dad5f47cb64f011f29be7c9e3ae1731bd89dc81bdc7e4ce5503b58",
-      "original_copy_sha256": "a758c384c5dad5f47cb64f011f29be7c9e3ae1731bd89dc81bdc7e4ce5503b58"
-    },
-    {
-      "path": "assets/avatars/luya-premium.webp",
-      "bytes": 55152,
-      "sha256": "7ce7ebaa9863f11bd303145eb744cf63ccaa7466510cdeba3a9b5b595cdcca3a",
-      "original_copy_sha256": "7ce7ebaa9863f11bd303145eb744cf63ccaa7466510cdeba3a9b5b595cdcca3a"
-    },
-    {
-      "path": "assets/avatars/nezha-premium.webp",
-      "bytes": 51678,
-      "sha256": "46717c6e90af8563a293cb1b3a4a775ee0e22bd2d900c3764695cef296611860",
-      "original_copy_sha256": "46717c6e90af8563a293cb1b3a4a775ee0e22bd2d900c3764695cef296611860"
-    },
-    {
-      "path": "assets/avatars/nvwa-premium.webp",
-      "bytes": 56928,
-      "sha256": "50d41d690e9ee769c23f712729094a9fac493a3b75fda7e762ccd44145c0b727",
-      "original_copy_sha256": "50d41d690e9ee769c23f712729094a9fac493a3b75fda7e762ccd44145c0b727"
-    },
-    {
-      "path": "assets/avatars/puxian-premium.webp",
-      "bytes": 51996,
-      "sha256": "3bc968afebf01e5e4341b31d1a8252fc22d8bcbdf98883d8719a77699fda3571",
-      "original_copy_sha256": "3bc968afebf01e5e4341b31d1a8252fc22d8bcbdf98883d8719a77699fda3571"
-    },
-    {
-      "path": "assets/avatars/qingxu-premium.webp",
-      "bytes": 56904,
-      "sha256": "0c55b54ec140f5be80b51220679a0e15278fe9d8840362f619523716e86ee4cd",
-      "original_copy_sha256": "0c55b54ec140f5be80b51220679a0e15278fe9d8840362f619523716e86ee4cd"
-    },
-    {
-      "path": "assets/avatars/qiongxiao-premium.webp",
-      "bytes": 49196,
-      "sha256": "47eb7509e9c3f4ea130c45734c5102d66b4907e4639c6a3183818f32c6736eca",
-      "original_copy_sha256": "47eb7509e9c3f4ea130c45734c5102d66b4907e4639c6a3183818f32c6736eca"
-    },
-    {
-      "path": "assets/avatars/randeng-premium.webp",
-      "bytes": 49132,
-      "sha256": "2027fe11a5c6785b934569bc53bb64db85f96a673c841a1fc37da97ad7632377",
-      "original_copy_sha256": "2027fe11a5c6785b934569bc53bb64db85f96a673c841a1fc37da97ad7632377"
-    },
-    {
-      "path": "assets/avatars/shengongbao-premium.webp",
-      "bytes": 52350,
-      "sha256": "a762e24f1094720713fbfa284de3e5d3e2485c6c5f6b3ce1673524cf9e71c07d",
-      "original_copy_sha256": "a762e24f1094720713fbfa284de3e5d3e2485c6c5f6b3ce1673524cf9e71c07d"
-    },
-    {
-      "path": "assets/avatars/shiji-premium.webp",
-      "bytes": 52722,
-      "sha256": "0e728ed57be7a13683b871fc5d337284953c15398a4243aa2a284c8892ec3959",
-      "original_copy_sha256": "0e728ed57be7a13683b871fc5d337284953c15398a4243aa2a284c8892ec3959"
-    },
-    {
-      "path": "assets/avatars/sudaji-premium.webp",
-      "bytes": 51064,
-      "sha256": "9cfcdce2a5530873d17bc23a30fdb12b1397078be570770addc0653189b5fff3",
-      "original_copy_sha256": "9cfcdce2a5530873d17bc23a30fdb12b1397078be570770addc0653189b5fff3"
-    },
-    {
-      "path": "assets/avatars/taishang-premium.webp",
-      "bytes": 53086,
-      "sha256": "453d314bcc1966319dac1fd43142e9b551fdf2481b4e1d98edcef07a778f2747",
-      "original_copy_sha256": "453d314bcc1966319dac1fd43142e9b551fdf2481b4e1d98edcef07a778f2747"
-    },
-    {
-      "path": "assets/avatars/taiyi-premium.webp",
-      "bytes": 42552,
-      "sha256": "e951f471b288c5c0e3eb7e569a58d173d4d5bcfdf71ba07759141b511134d833",
-      "original_copy_sha256": "e951f471b288c5c0e3eb7e569a58d173d4d5bcfdf71ba07759141b511134d833"
-    },
-    {
-      "path": "assets/avatars/tongtian-premium.webp",
-      "bytes": 49246,
-      "sha256": "d76bf0d3343fb7ef06ce41afbbe3fbbce28e99910bbf8f6647dbf53b61d57006",
-      "original_copy_sha256": "d76bf0d3343fb7ef06ce41afbbe3fbbce28e99910bbf8f6647dbf53b61d57006"
-    },
-    {
-      "path": "assets/avatars/tuxingsun-premium.webp",
-      "bytes": 47550,
-      "sha256": "6674a6bf90e202e3eb338f8860c89b3f495ae48a17702bfa882d2d36d0a6c4f1",
-      "original_copy_sha256": "6674a6bf90e202e3eb338f8860c89b3f495ae48a17702bfa882d2d36d0a6c4f1"
-    },
-    {
-      "path": "assets/avatars/weihu-premium.webp",
-      "bytes": 46138,
-      "sha256": "978c6b6964c8eb2ddce0a5d20b6d7fb548c2e334f6a7532759c31e7b00969699",
-      "original_copy_sha256": "978c6b6964c8eb2ddce0a5d20b6d7fb548c2e334f6a7532759c31e7b00969699"
-    },
-    {
-      "path": "assets/avatars/wenshu-premium.webp",
-      "bytes": 54156,
-      "sha256": "d7ccd9b60b135f592197b72900e29e01e4bcdd9dbbb1fa49c02a3ad2e164fcfa",
-      "original_copy_sha256": "d7ccd9b60b135f592197b72900e29e01e4bcdd9dbbb1fa49c02a3ad2e164fcfa"
-    },
-    {
-      "path": "assets/avatars/wenzhong-premium.webp",
-      "bytes": 57140,
-      "sha256": "1b8c4f670261d6d024295c61cbb7db8eb432a6c1144b4599e5eeb93a1817bf11",
-      "original_copy_sha256": "1b8c4f670261d6d024295c61cbb7db8eb432a6c1144b4599e5eeb93a1817bf11"
-    },
-    {
-      "path": "assets/avatars/wudang-premium.webp",
-      "bytes": 53598,
-      "sha256": "9b00abb28ba249581de7aa25fe6eb7bbfbe1efa6d78ce1daabd535359fa3c1fc",
-      "original_copy_sha256": "9b00abb28ba249581de7aa25fe6eb7bbfbe1efa6d78ce1daabd535359fa3c1fc"
-    },
-    {
-      "path": "assets/avatars/wuji-premium.webp",
-      "bytes": 44022,
-      "sha256": "3a595c1adbfb56a12d3b249906382bd0c3fe7d6c25d6e594794b09189a4a27dd",
-      "original_copy_sha256": "3a595c1adbfb56a12d3b249906382bd0c3fe7d6c25d6e594794b09189a4a27dd"
-    },
-    {
-      "path": "assets/avatars/xuandu-premium.webp",
-      "bytes": 39504,
-      "sha256": "3831e842f2939553879ccff94d651af41bb005ab8ab4455c5a178ec1604a96d9",
-      "original_copy_sha256": "3831e842f2939553879ccff94d651af41bb005ab8ab4455c5a178ec1604a96d9"
-    },
-    {
-      "path": "assets/avatars/yangjian-premium.webp",
-      "bytes": 53816,
-      "sha256": "7ccd2fc1826095601de066e6ce9278f694cd898c83a74a94fa12fc7719db93b9",
-      "original_copy_sha256": "7ccd2fc1826095601de066e6ce9278f694cd898c83a74a94fa12fc7719db93b9"
-    },
-    {
-      "path": "assets/avatars/yangren-premium.webp",
-      "bytes": 49660,
-      "sha256": "7ae8ea3f06b5f2bbcbbd8249e7497e80b3029c643e3289d91269b827b6026fb3",
-      "original_copy_sha256": "7ae8ea3f06b5f2bbcbbd8249e7497e80b3029c643e3289d91269b827b6026fb3"
-    },
-    {
-      "path": "assets/avatars/yuanshi-premium.webp",
-      "bytes": 45894,
-      "sha256": "b077b6f73af60768fccb8876656b29871f47e01eca67d38ca928f468e000219d",
-      "original_copy_sha256": "b077b6f73af60768fccb8876656b29871f47e01eca67d38ca928f468e000219d"
-    },
-    {
-      "path": "assets/avatars/yuding-premium.webp",
-      "bytes": 51146,
-      "sha256": "17a23a0864316ff02f8dafb83db0f05bfc148d0b63e3c3e33fe5596f6954c520",
-      "original_copy_sha256": "17a23a0864316ff02f8dafb83db0f05bfc148d0b63e3c3e33fe5596f6954c520"
-    },
-    {
-      "path": "assets/avatars/yunxiao-premium.webp",
-      "bytes": 43874,
-      "sha256": "c04c561077c7fff148e23dce49255d1d5ba6ded0c902f514aef39f0f58e66612",
-      "original_copy_sha256": "c04c561077c7fff148e23dce49255d1d5ba6ded0c902f514aef39f0f58e66612"
-    },
-    {
-      "path": "assets/avatars/zhaogongming-premium.webp",
-      "bytes": 45624,
-      "sha256": "9da6cc940ca908f2693ef7ec8518303d19ab5bfac668ce2e2b1795b498f8b732",
-      "original_copy_sha256": "9da6cc940ca908f2693ef7ec8518303d19ab5bfac668ce2e2b1795b498f8b732"
-    },
-    {
-      "path": "assets/avatars/zhenglun-premium.webp",
-      "bytes": 51272,
-      "sha256": "2b5393a7df98f0eb73fb892467513f402da087fed2b2e736912068ca228badb1",
-      "original_copy_sha256": "2b5393a7df98f0eb73fb892467513f402da087fed2b2e736912068ca228badb1"
-    },
-    {
-      "path": "assets/avatars/zhouwang-premium.webp",
-      "bytes": 48034,
-      "sha256": "21776bd430d5d1402641840524de2c8d67cf75101332c741883266cdce247f63",
-      "original_copy_sha256": "21776bd430d5d1402641840524de2c8d67cf75101332c741883266cdce247f63"
-    },
-    {
-      "path": "assets/avatars/zhunti-premium.webp",
-      "bytes": 54264,
-      "sha256": "6b5a8084b0bebb5ed00bccc18f51c8e7a318c622b65b859b021a6fbbb5f6f8ed",
-      "original_copy_sha256": "6b5a8084b0bebb5ed00bccc18f51c8e7a318c622b65b859b021a6fbbb5f6f8ed"
-    },
-    {
-      "path": "assets/battle/danfire-premium.webp",
-      "bytes": 443226,
-      "sha256": "8b8204d225c09434d43a90cae0463b0aa50ac2cd852cf67f24d5ea30fa2a88b7",
-      "original_copy_sha256": "8b8204d225c09434d43a90cae0463b0aa50ac2cd852cf67f24d5ea30fa2a88b7"
-    },
-    {
-      "path": "assets/battle/thundermarsh-premium.webp",
-      "bytes": 474790,
-      "sha256": "6110c24a89818cb8845ee5d15caef730e38c8ddd0ef27c261a18f1d86878d7d6",
-      "original_copy_sha256": "6110c24a89818cb8845ee5d15caef730e38c8ddd0ef27c261a18f1d86878d7d6"
-    },
-    {
-      "path": "assets/battle/nezha/atlas.json",
-      "bytes": 1842,
-      "sha256": "760ba01532f673decf96ccf68adbe6fad01701730a780d9ec28ff885c05a544c",
-      "original_copy_sha256": "760ba01532f673decf96ccf68adbe6fad01701730a780d9ec28ff885c05a544c"
-    },
-    {
-      "path": "assets/battle/nezha/character-scale-profile.json",
-      "bytes": 705,
-      "sha256": "c857f0e5a915707fddc209a81d55b3a678094dfbfd7a18947e08de10e3c2073d",
-      "original_copy_sha256": "c857f0e5a915707fddc209a81d55b3a678094dfbfd7a18947e08de10e3c2073d"
-    },
-    {
-      "path": "assets/battle/nezha/idle-00.png",
-      "bytes": 162247,
-      "sha256": "796c568ca44bbcd8b8de417cee5d088e244036511b9e8799219388db876f0971",
-      "original_copy_sha256": "796c568ca44bbcd8b8de417cee5d088e244036511b9e8799219388db876f0971"
-    },
-    {
-      "path": "assets/battle/nezha/idle-01.png",
-      "bytes": 162719,
-      "sha256": "c4b41a1e2cdcef20e1c309a19012c4443ef8c76c2024687bf8447ea6db7af635",
-      "original_copy_sha256": "c4b41a1e2cdcef20e1c309a19012c4443ef8c76c2024687bf8447ea6db7af635"
-    },
-    {
-      "path": "assets/battle/nezha/idle-02.png",
-      "bytes": 161400,
-      "sha256": "07c1c5da980778a5729c8777c4a25e2949933489b7704e414e5f4d224e6b68b2",
-      "original_copy_sha256": "07c1c5da980778a5729c8777c4a25e2949933489b7704e414e5f4d224e6b68b2"
-    },
-    {
-      "path": "assets/battle/nezha/idle-03.png",
-      "bytes": 160632,
-      "sha256": "1781d52f29c8800b3797085c8d9c21d354dab65a9b6efe8e645a8bcc11444748",
-      "original_copy_sha256": "1781d52f29c8800b3797085c8d9c21d354dab65a9b6efe8e645a8bcc11444748"
-    },
-    {
-      "path": "assets/battle/nezha/idle-review.gif",
-      "bytes": 202498,
-      "sha256": "e5a2d941b1bea3f32d841d3fd728d7600e7fecf1a19044816006f185579b5176",
-      "original_copy_sha256": "e5a2d941b1bea3f32d841d3fd728d7600e7fecf1a19044816006f185579b5176"
-    },
-    {
-      "path": "assets/battle/nezha/idle.png",
-      "bytes": 641607,
-      "sha256": "dabdee24c98ebfde6dbd7c062f9ddb8ecf15a5b3fc8529692f703810d6c180df",
-      "original_copy_sha256": "dabdee24c98ebfde6dbd7c062f9ddb8ecf15a5b3fc8529692f703810d6c180df"
-    },
-    {
-      "path": "assets/battle/nezha/master.png",
-      "bytes": 162247,
-      "sha256": "796c568ca44bbcd8b8de417cee5d088e244036511b9e8799219388db876f0971",
-      "original_copy_sha256": "796c568ca44bbcd8b8de417cee5d088e244036511b9e8799219388db876f0971"
-    },
-    {
-      "path": "assets/battle/nezha/metadata.json",
-      "bytes": 2048,
-      "sha256": "9025e5614bc5324ebfd468671795ebe70e9573205e077ef31461b648a7d6bfb7",
-      "original_copy_sha256": "9025e5614bc5324ebfd468671795ebe70e9573205e077ef31461b648a7d6bfb7"
-    },
-    {
-      "path": "assets/buildings/alchemy-idle-v02.webp",
-      "bytes": 77088,
-      "sha256": "131f34fe3fb1d4062fbff0bf5a7dd30faa0699222e9818bf07cb6aa824092dcd",
-      "original_copy_sha256": "131f34fe3fb1d4062fbff0bf5a7dd30faa0699222e9818bf07cb6aa824092dcd"
-    },
-    {
-      "path": "assets/buildings/alchemy-premium.webp",
-      "bytes": 91190,
-      "sha256": "f0ab67ce3f7231c181864c64b67209b175db858c0516bdef0501fb0bc202f0c3",
-      "original_copy_sha256": "f0ab67ce3f7231c181864c64b67209b175db858c0516bdef0501fb0bc202f0c3"
-    },
-    {
-      "path": "assets/buildings/alchemy-stage2-v02.webp",
-      "bytes": 90830,
-      "sha256": "dee4bbfb22748a27e2989eebbc5e44f9c0b3dc179b65b8c3eb315058778bd34c",
-      "original_copy_sha256": "dee4bbfb22748a27e2989eebbc5e44f9c0b3dc179b65b8c3eb315058778bd34c"
-    },
-    {
-      "path": "assets/buildings/alchemy-stage3-beta.webp",
-      "bytes": 117204,
-      "sha256": "0d1c61f1e3bbcc4d469c3b4cbfdee45f5b7dd2adcbbd4cceedb57af585e0c12e",
-      "original_copy_sha256": "0d1c61f1e3bbcc4d469c3b4cbfdee45f5b7dd2adcbbd4cceedb57af585e0c12e"
-    },
-    {
-      "path": "assets/buildings/arena-premium.webp",
-      "bytes": 88086,
-      "sha256": "7775d29f3a9d24a8cc682ec4e6bca2ac28236f009baee39bf32e968a48b08129",
-      "original_copy_sha256": "7775d29f3a9d24a8cc682ec4e6bca2ac28236f009baee39bf32e968a48b08129"
-    },
-    {
-      "path": "assets/buildings/engineering-forge-v02.webp",
-      "bytes": 82012,
-      "sha256": "bb70e3b9f3a3c9a5316f0544d34818f6b6950191c205777d2084368e66071e0c",
-      "original_copy_sha256": "bb70e3b9f3a3c9a5316f0544d34818f6b6950191c205777d2084368e66071e0c"
-    },
-    {
-      "path": "assets/buildings/engineering-teaching-v02.webp",
-      "bytes": 75862,
-      "sha256": "e3c6d088d1dd3e76b9a8251e28bf1adfa730af42caac811c394c5d72b3e1115b",
-      "original_copy_sha256": "e3c6d088d1dd3e76b9a8251e28bf1adfa730af42caac811c394c5d72b3e1115b"
-    },
-    {
-      "path": "assets/buildings/farm-premium.webp",
-      "bytes": 79146,
-      "sha256": "7fc3c78dec142694dc1d89cdd3a3ac7ec18abc9ba39f91064039f314db890f5c",
-      "original_copy_sha256": "7fc3c78dec142694dc1d89cdd3a3ac7ec18abc9ba39f91064039f314db890f5c"
-    },
-    {
-      "path": "assets/buildings/forge-idle-v02.webp",
-      "bytes": 75418,
-      "sha256": "22e167f6f99a5a3e664c6cfe701ab95417e9ad01ab4f95d2b0efb8bbe736a587",
-      "original_copy_sha256": "22e167f6f99a5a3e664c6cfe701ab95417e9ad01ab4f95d2b0efb8bbe736a587"
-    },
-    {
-      "path": "assets/buildings/forge-premium.webp",
-      "bytes": 81322,
-      "sha256": "44eaf699632d2ee079a3aeb327d24ecf7d19746d8e1fd56b2f6f847d41c11067",
-      "original_copy_sha256": "44eaf699632d2ee079a3aeb327d24ecf7d19746d8e1fd56b2f6f847d41c11067"
-    },
-    {
-      "path": "assets/buildings/hall-expanded-beta.webp",
-      "bytes": 108652,
-      "sha256": "5d768aee7497f7cda83d51f12c215809cf31eb8eb7fbafaebbcb13e049951841",
-      "original_copy_sha256": "5d768aee7497f7cda83d51f12c215809cf31eb8eb7fbafaebbcb13e049951841"
-    },
-    {
-      "path": "assets/buildings/library-premium.webp",
-      "bytes": 99618,
-      "sha256": "a601e9202d35a0bff66046b929bd5cadea0f2e032c3ac0bf7e4e4fb5f4c81d29",
-      "original_copy_sha256": "a601e9202d35a0bff66046b929bd5cadea0f2e032c3ac0bf7e4e4fb5f4c81d29"
-    },
-    {
-      "path": "assets/buildings/spring-premium.webp",
-      "bytes": 99042,
-      "sha256": "c93607ee7689624157d3cee51fb0d6efb8f6d2f85fe58fe8f11e089cf1100048",
-      "original_copy_sha256": "c93607ee7689624157d3cee51fb0d6efb8f6d2f85fe58fe8f11e089cf1100048"
-    },
-    {
-      "path": "assets/buildings/wanxian-premium.webp",
-      "bytes": 93376,
-      "sha256": "b8d194bc041e76aab5f8683bf29f1a7cfe795e15d9920159c68fa0b7f97e93f0",
-      "original_copy_sha256": "b8d194bc041e76aab5f8683bf29f1a7cfe795e15d9920159c68fa0b7f97e93f0"
-    },
-    {
-      "path": "assets/enemies/dragon-lord-beta.webp",
-      "bytes": 67122,
-      "sha256": "78499d460e73d023e0a54ff7bec2800346765abdf4807e1f5feaaf7dba118a40",
-      "original_copy_sha256": "78499d460e73d023e0a54ff7bec2800346765abdf4807e1f5feaaf7dba118a40"
-    },
-    {
-      "path": "assets/enemies/fire-spirit-beta.webp",
-      "bytes": 53450,
-      "sha256": "2ad047e3fd74dff0e76f7c11ad88b2427db238df463b91550a825f8be77ba17c",
-      "original_copy_sha256": "2ad047e3fd74dff0e76f7c11ad88b2427db238df463b91550a825f8be77ba17c"
-    },
-    {
-      "path": "assets/enemies/furnace-king-beta.webp",
-      "bytes": 65454,
-      "sha256": "9f000fdfd2cd3648d69da0bc18223f0156bb1edfd5f2ca69b6128513ffac1ed4",
-      "original_copy_sha256": "9f000fdfd2cd3648d69da0bc18223f0156bb1edfd5f2ca69b6128513ffac1ed4"
-    },
-    {
-      "path": "assets/enemies/stone-general-beta.webp",
-      "bytes": 73088,
-      "sha256": "c2d34b3aa8f8b6194ffe5f3fcdb2ead6af34a411020028076f5ef1cc6ad46594",
-      "original_copy_sha256": "c2d34b3aa8f8b6194ffe5f3fcdb2ead6af34a411020028076f5ef1cc6ad46594"
-    },
-    {
-      "path": "assets/enemies/stone-guard-beta.webp",
-      "bytes": 62538,
-      "sha256": "552ce68d184e34c268fade881ae70d429c068d0cdca00cb74d2f66c1906063d9",
-      "original_copy_sha256": "552ce68d184e34c268fade881ae70d429c068d0cdca00cb74d2f66c1906063d9"
-    },
-    {
-      "path": "assets/enemies/thunder-guard-beta.webp",
-      "bytes": 63328,
-      "sha256": "0027479a39b91f8ab6e601653d2737f56a10812b6f365daacac66e8a76cb125e",
-      "original_copy_sha256": "0027479a39b91f8ab6e601653d2737f56a10812b6f365daacac66e8a76cb125e"
-    },
-    {
-      "path": "assets/estate-v05/azalea.png",
-      "bytes": 73833,
-      "sha256": "f1de3a4a6962d08ea983e20d583d25d5f1709e4b0c6cbc3b235ef280bd2e2158",
-      "original_copy_sha256": "f1de3a4a6962d08ea983e20d583d25d5f1709e4b0c6cbc3b235ef280bd2e2158"
-    },
-    {
-      "path": "assets/estate-v05/cloud-sea.png",
-      "bytes": 2083228,
-      "sha256": "f2fda26ff85e883e66995b15e015a9557dd261d599ececab73e6b840ce10811b",
-      "original_copy_sha256": "f2fda26ff85e883e66995b15e015a9557dd261d599ececab73e6b840ce10811b"
-    },
-    {
-      "path": "assets/estate-v05/jade-blossom.png",
-      "bytes": 67744,
-      "sha256": "725418ba84b172cc415878fdc73e471b056aef57ac53326a88fb54632bcd4495",
-      "original_copy_sha256": "725418ba84b172cc415878fdc73e471b056aef57ac53326a88fb54632bcd4495"
-    },
-    {
-      "path": "assets/estate-v05/prop-pack.json",
-      "bytes": 2672,
-      "sha256": "082ba6532675915e4dd1d385b254d1c0d72242e1643845ebf392f2662d11fd91",
-      "original_copy_sha256": "082ba6532675915e4dd1d385b254d1c0d72242e1643845ebf392f2662d11fd91"
-    },
-    {
-      "path": "assets/estate-v05/scholar-rock.png",
-      "bytes": 76595,
-      "sha256": "65b77e9ddf008f74cdca1ec54b08b3c68b929ee28f6708fb7387a27e7aa35524",
-      "original_copy_sha256": "65b77e9ddf008f74cdca1ec54b08b3c68b929ee28f6708fb7387a27e7aa35524"
-    },
-    {
-      "path": "assets/estate-v05/vermilion-lantern.png",
-      "bytes": 45909,
-      "sha256": "35abfce4268216775207eb8311e1bdf8e2511795016d39ca821cf3a765e1d2ff",
-      "original_copy_sha256": "35abfce4268216775207eb8311e1bdf8e2511795016d39ca821cf3a765e1d2ff"
-    },
-    {
-      "path": "assets/fonts/LICENSE.txt",
-      "bytes": 15632,
-      "sha256": "4a28145f3e9023587f826ef11b312e98bd39db5f42009043f8af65c25aedb8be",
-      "original_copy_sha256": "4a28145f3e9023587f826ef11b312e98bd39db5f42009043f8af65c25aedb8be"
-    },
-    {
-      "path": "assets/fonts/NotoSansSC-Regular.otf",
-      "bytes": 600832,
-      "sha256": "c58ce030fad70a85192abf2b0ddcab2373ca5a6b3fdb1584205327c72717953a",
-      "original_copy_sha256": "c58ce030fad70a85192abf2b0ddcab2373ca5a6b3fdb1584205327c72717953a"
-    },
-    {
-      "path": "assets/fonts/NotoSerifSC-Regular.otf",
-      "bytes": 815056,
-      "sha256": "c33c5bc31fffa7f471f9f485e9e7d21f04c8e4def01f77c3236f8a28fa97a4b3",
-      "original_copy_sha256": "c33c5bc31fffa7f471f9f485e9e7d21f04c8e4def01f77c3236f8a28fa97a4b3"
-    },
-    {
-      "path": "assets/fonts/subset-manifest.json",
-      "bytes": 4924,
-      "sha256": "a135ebcd23e3822091c9f608309dbf2fb4105e8a4dad7dea002cbe675783a3a6",
-      "original_copy_sha256": "a135ebcd23e3822091c9f608309dbf2fb4105e8a4dad7dea002cbe675783a3a6"
-    },
-    {
-      "path": "assets/fonts/mashanzheng/MaShanZheng-Regular.ttf",
-      "bytes": 5857936,
-      "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
-      "original_copy_sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb"
-    },
-    {
-      "path": "assets/fonts/mashanzheng/OFL.txt",
-      "bytes": 4397,
-      "sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08",
-      "original_copy_sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08"
-    },
-    {
-      "path": "assets/home-v05/home-garden.png",
-      "bytes": 3288014,
-      "sha256": "31f0634a013fff7300cd77bcf3f5ee344230b8a16277d730d8d3c98dba31d731",
-      "original_copy_sha256": "31f0634a013fff7300cd77bcf3f5ee344230b8a16277d730d8d3c98dba31d731"
-    },
-    {
-      "path": "assets/home-v05/nezha.png",
-      "bytes": 576086,
-      "sha256": "6c813dae2d248027bc008aea1837bff11605c297d7d3599bcaab53b9083d153b",
-      "original_copy_sha256": "6c813dae2d248027bc008aea1837bff11605c297d7d3599bcaab53b9083d153b"
-    },
-    {
-      "path": "assets/portraits/bigan-premium.webp",
-      "bytes": 420098,
-      "sha256": "7f7cddc7c1f913cca2887c9098fa5156b5901567d7fbc2221646125ca52c7513",
-      "original_copy_sha256": "7f7cddc7c1f913cca2887c9098fa5156b5901567d7fbc2221646125ca52c7513"
-    },
-    {
-      "path": "assets/portraits/bixiao-premium.webp",
-      "bytes": 428736,
-      "sha256": "d4e0a0a81fb9b856988757b9b493f30c8391e1cf0501baa4a1a14774c8e24266",
-      "original_copy_sha256": "d4e0a0a81fb9b856988757b9b493f30c8391e1cf0501baa4a1a14774c8e24266"
-    },
-    {
-      "path": "assets/portraits/chenqi-premium.webp",
-      "bytes": 453952,
-      "sha256": "68666221e738b8a6187d787aa738444349b44e615d137c025f1ae8bbaf7548dd",
-      "original_copy_sha256": "68666221e738b8a6187d787aa738444349b44e615d137c025f1ae8bbaf7548dd"
-    },
-    {
-      "path": "assets/portraits/chijingzi-premium.webp",
-      "bytes": 451086,
-      "sha256": "d3199c2b98e03287bedf3f6f95c5aaa2fccac7ed0f577a4daf191ca05ff4065d",
-      "original_copy_sha256": "d3199c2b98e03287bedf3f6f95c5aaa2fccac7ed0f577a4daf191ca05ff4065d"
-    },
-    {
-      "path": "assets/portraits/cihang-premium.webp",
-      "bytes": 439884,
-      "sha256": "727f9792ae5310b0aeee27e8c1f9648cca27364476bfffc043824857fdb6c12a",
-      "original_copy_sha256": "727f9792ae5310b0aeee27e8c1f9648cca27364476bfffc043824857fdb6c12a"
-    },
-    {
-      "path": "assets/portraits/daoxing-premium.webp",
-      "bytes": 404698,
-      "sha256": "d9d1b3083a4b0909ae19a7bf546049397bed3cd48dab0f492e715901ed274fdb",
-      "original_copy_sha256": "d9d1b3083a4b0909ae19a7bf546049397bed3cd48dab0f492e715901ed274fdb"
-    },
-    {
-      "path": "assets/portraits/dengchanyu-premium.webp",
-      "bytes": 396884,
-      "sha256": "2943a0e46500238cf8839406410fec76a1acf0a8920eea96b57eaad6fb981b1a",
-      "original_copy_sha256": "2943a0e46500238cf8839406410fec76a1acf0a8920eea96b57eaad6fb981b1a"
-    },
-    {
-      "path": "assets/portraits/duobao-premium.webp",
-      "bytes": 477180,
-      "sha256": "001da2a472831f853a16a123ebda74b164edfb279d2c880b95d4b27912c69bec",
-      "original_copy_sha256": "001da2a472831f853a16a123ebda74b164edfb279d2c880b95d4b27912c69bec"
-    },
-    {
-      "path": "assets/portraits/guangchengzi-premium.webp",
-      "bytes": 460934,
-      "sha256": "4daea23bc62dd9c6d17162ddc7ddac68ef6999ed18e396507027181550ff7791",
-      "original_copy_sha256": "4daea23bc62dd9c6d17162ddc7ddac68ef6999ed18e396507027181550ff7791"
-    },
-    {
-      "path": "assets/portraits/guiling-premium.webp",
-      "bytes": 510672,
-      "sha256": "b07abfbe17f0173e45aa1bb07f23a838085bee2e108985deb62bd452a365774a",
-      "original_copy_sha256": "b07abfbe17f0173e45aa1bb07f23a838085bee2e108985deb62bd452a365774a"
-    },
-    {
-      "path": "assets/portraits/huangfeihu-premium.webp",
-      "bytes": 446788,
-      "sha256": "4bb602d40c9464b13144ebffe05e2554d84828aaddb7fedf67e708b859e893f2",
-      "original_copy_sha256": "4bb602d40c9464b13144ebffe05e2554d84828aaddb7fedf67e708b859e893f2"
-    },
-    {
-      "path": "assets/portraits/huanglong-premium.webp",
-      "bytes": 467780,
-      "sha256": "9d9dc1c8a9615c8cdc1a4801c2b7c5a6de15949ba52b15f35374cd63426ff5ef",
-      "original_copy_sha256": "9d9dc1c8a9615c8cdc1a4801c2b7c5a6de15949ba52b15f35374cd63426ff5ef"
-    },
-    {
-      "path": "assets/portraits/huangtianhua-premium.webp",
-      "bytes": 460110,
-      "sha256": "e855857241877df79870616f95ae3b23bb9a6f9eef8e17e2c8127413d42e6e56",
-      "original_copy_sha256": "e855857241877df79870616f95ae3b23bb9a6f9eef8e17e2c8127413d42e6e56"
-    },
-    {
-      "path": "assets/portraits/jiangziya-premium.webp",
-      "bytes": 462898,
-      "sha256": "3bb63169ea1cd494817f904620918fe56a4597613dbe579f592678d8a1ed670c",
-      "original_copy_sha256": "3bb63169ea1cd494817f904620918fe56a4597613dbe579f592678d8a1ed670c"
-    },
-    {
-      "path": "assets/portraits/jieyin-premium.webp",
-      "bytes": 480836,
-      "sha256": "38a50b9289473726a4cf6f6145f662ea27ce21c47e28f2c092620b443843cc6d",
-      "original_copy_sha256": "38a50b9289473726a4cf6f6145f662ea27ce21c47e28f2c092620b443843cc6d"
-    },
-    {
-      "path": "assets/portraits/jifa-premium.webp",
-      "bytes": 482474,
-      "sha256": "d4c59e0e59863721a9d54073185e3151182d0aaeb338b24250818e574a12b470",
-      "original_copy_sha256": "d4c59e0e59863721a9d54073185e3151182d0aaeb338b24250818e574a12b470"
-    },
-    {
-      "path": "assets/portraits/jinling-premium.webp",
-      "bytes": 505978,
-      "sha256": "1eaaaf16512c64fe9e8a334e2768d758cd5bfa005cd6edfcc9cf5401cb955eab",
-      "original_copy_sha256": "1eaaaf16512c64fe9e8a334e2768d758cd5bfa005cd6edfcc9cf5401cb955eab"
-    },
-    {
-      "path": "assets/portraits/juliusun-premium.webp",
-      "bytes": 424306,
-      "sha256": "dd49a8429ed683f7b9d90270a63b495acdc7b0ad937a0ac4c27c0416ae74bfcd",
-      "original_copy_sha256": "dd49a8429ed683f7b9d90270a63b495acdc7b0ad937a0ac4c27c0416ae74bfcd"
-    },
-    {
-      "path": "assets/portraits/kongxuan-premium.webp",
-      "bytes": 502492,
-      "sha256": "16dea4f4fe4b0d55a7dfc20b3f9d598e511b310c72bf3158f1b574a6eba9c916",
-      "original_copy_sha256": "16dea4f4fe4b0d55a7dfc20b3f9d598e511b310c72bf3158f1b574a6eba9c916"
-    },
-    {
-      "path": "assets/portraits/leizhenzi-premium.webp",
-      "bytes": 442338,
-      "sha256": "35856ad400b03ec8ad4cbbc0f3bfa561546a332a1143601faeaaa41032a9ffeb",
-      "original_copy_sha256": "35856ad400b03ec8ad4cbbc0f3bfa561546a332a1143601faeaaa41032a9ffeb"
-    },
-    {
-      "path": "assets/portraits/longji-premium.webp",
-      "bytes": 477568,
-      "sha256": "2a7a14248124e21bdc228f3566f26c566eef5578f31ce1542eb8cb107f4bd2a7",
-      "original_copy_sha256": "2a7a14248124e21bdc228f3566f26c566eef5578f31ce1542eb8cb107f4bd2a7"
-    },
-    {
-      "path": "assets/portraits/luya-premium.webp",
-      "bytes": 441352,
-      "sha256": "be64a8a2d353846f177dbc6e6651a256db28db5a4a45825ade96f69e6746700f",
-      "original_copy_sha256": "be64a8a2d353846f177dbc6e6651a256db28db5a4a45825ade96f69e6746700f"
-    },
-    {
-      "path": "assets/portraits/nezha-premium.webp",
-      "bytes": 436408,
-      "sha256": "8fe53c940c08c650af354a4a5fe1e3199a384bfb7c79043408f8eb91d46f2d1c",
-      "original_copy_sha256": "8fe53c940c08c650af354a4a5fe1e3199a384bfb7c79043408f8eb91d46f2d1c"
-    },
-    {
-      "path": "assets/portraits/nvwa-premium.webp",
-      "bytes": 509186,
-      "sha256": "31c842d366b22ac1100fbaa611e3e529252cd3558789b3775eb2bfe4aed62b12",
-      "original_copy_sha256": "31c842d366b22ac1100fbaa611e3e529252cd3558789b3775eb2bfe4aed62b12"
-    },
-    {
-      "path": "assets/portraits/puxian-premium.webp",
-      "bytes": 472210,
-      "sha256": "0fcc672371ffef9ea76964662b38c0501d19d56212546441dfd064d93e3b6c3d",
-      "original_copy_sha256": "0fcc672371ffef9ea76964662b38c0501d19d56212546441dfd064d93e3b6c3d"
-    },
-    {
-      "path": "assets/portraits/qingxu-premium.webp",
-      "bytes": 494706,
-      "sha256": "698d0a11527e4b3b8bc88a4dc91a844dd34d2c536cd034fa5198e6eabff86af5",
-      "original_copy_sha256": "698d0a11527e4b3b8bc88a4dc91a844dd34d2c536cd034fa5198e6eabff86af5"
-    },
-    {
-      "path": "assets/portraits/qiongxiao-premium.webp",
-      "bytes": 412420,
-      "sha256": "b6f8be5eb211223e17a7d5bacb3f7359f7a758119aedf7b5b30e3ef4d3321416",
-      "original_copy_sha256": "b6f8be5eb211223e17a7d5bacb3f7359f7a758119aedf7b5b30e3ef4d3321416"
-    },
-    {
-      "path": "assets/portraits/randeng-premium.webp",
-      "bytes": 408436,
-      "sha256": "5b9a796012eae5bcbaeac6c390f7963242f93dd40ca22b743977c8814e28c014",
-      "original_copy_sha256": "5b9a796012eae5bcbaeac6c390f7963242f93dd40ca22b743977c8814e28c014"
-    },
-    {
-      "path": "assets/portraits/shengongbao-premium.webp",
-      "bytes": 456320,
-      "sha256": "682e4b26ca1d9025620fc3e89fa6f609acfb0eb985f90daa969e28e3765ef900",
-      "original_copy_sha256": "682e4b26ca1d9025620fc3e89fa6f609acfb0eb985f90daa969e28e3765ef900"
-    },
-    {
-      "path": "assets/portraits/shiji-premium.webp",
-      "bytes": 450350,
-      "sha256": "c49ce9c6ea6dbdbaa9aac75b98c7705ecbf52a9cb5ed09ed0d479d5a50ae1049",
-      "original_copy_sha256": "c49ce9c6ea6dbdbaa9aac75b98c7705ecbf52a9cb5ed09ed0d479d5a50ae1049"
-    },
-    {
-      "path": "assets/portraits/sudaji-premium.webp",
-      "bytes": 457320,
-      "sha256": "436276e1720f624909da81fbed6f581fea8512da7db3873d9ba4be974f2087ae",
-      "original_copy_sha256": "436276e1720f624909da81fbed6f581fea8512da7db3873d9ba4be974f2087ae"
-    },
-    {
-      "path": "assets/portraits/taishang-premium.webp",
-      "bytes": 471338,
-      "sha256": "db9c0c3d04ea24aa122e49690d50beb86cac332845e3a693f2f392eb629e6f91",
-      "original_copy_sha256": "db9c0c3d04ea24aa122e49690d50beb86cac332845e3a693f2f392eb629e6f91"
-    },
-    {
-      "path": "assets/portraits/taiyi-premium.webp",
-      "bytes": 389852,
-      "sha256": "96821869fcaf9d4f2de0d80aca9dfaffbc71e33c9dc4609ed9b4a3d54b7f3463",
-      "original_copy_sha256": "96821869fcaf9d4f2de0d80aca9dfaffbc71e33c9dc4609ed9b4a3d54b7f3463"
-    },
-    {
-      "path": "assets/portraits/tongtian-premium.webp",
-      "bytes": 399860,
-      "sha256": "a696716aec79a5ff27c6fd9dde55d1cee89d2923a2e6645c9e915b659b6a8174",
-      "original_copy_sha256": "a696716aec79a5ff27c6fd9dde55d1cee89d2923a2e6645c9e915b659b6a8174"
-    },
-    {
-      "path": "assets/portraits/tuxingsun-premium.webp",
-      "bytes": 430528,
-      "sha256": "7f700bb082978bfd1e93357bee469818becc4d4afabfb4a870b70ea764de1e66",
-      "original_copy_sha256": "7f700bb082978bfd1e93357bee469818becc4d4afabfb4a870b70ea764de1e66"
-    },
-    {
-      "path": "assets/portraits/weihu-premium.webp",
-      "bytes": 416890,
-      "sha256": "599b21c95b761e64b27e7de6b945e255e07bed191a5b8c22618de78886d47704",
-      "original_copy_sha256": "599b21c95b761e64b27e7de6b945e255e07bed191a5b8c22618de78886d47704"
-    },
-    {
-      "path": "assets/portraits/wenshu-premium.webp",
-      "bytes": 534516,
-      "sha256": "820dca197a97fbd863f47b09d22c35ed0418b880a50ad23a3fa05f155b4aa02b",
-      "original_copy_sha256": "820dca197a97fbd863f47b09d22c35ed0418b880a50ad23a3fa05f155b4aa02b"
-    },
-    {
-      "path": "assets/portraits/wenzhong-premium.webp",
-      "bytes": 468040,
-      "sha256": "84a21efd9be81fd20f196e916f13d0a8f3a8cc3c838b82660109201566b1799c",
-      "original_copy_sha256": "84a21efd9be81fd20f196e916f13d0a8f3a8cc3c838b82660109201566b1799c"
-    },
-    {
-      "path": "assets/portraits/wudang-premium.webp",
-      "bytes": 457054,
-      "sha256": "1359bbbac65e323b6683aa1a9d3b70b6a106890b54d5464562a314bcbcc5997b",
-      "original_copy_sha256": "1359bbbac65e323b6683aa1a9d3b70b6a106890b54d5464562a314bcbcc5997b"
-    },
-    {
-      "path": "assets/portraits/wuji-premium.webp",
-      "bytes": 397806,
-      "sha256": "5a36808449d03b0d9e87543b5aa57c59d0de9ae8173986d82745300b9267a7a0",
-      "original_copy_sha256": "5a36808449d03b0d9e87543b5aa57c59d0de9ae8173986d82745300b9267a7a0"
-    },
-    {
-      "path": "assets/portraits/xuandu-premium.webp",
-      "bytes": 406968,
-      "sha256": "ba5d1b660869a496069aeb28dd7baff072ed2cf8124211985d914384986a4aee",
-      "original_copy_sha256": "ba5d1b660869a496069aeb28dd7baff072ed2cf8124211985d914384986a4aee"
-    },
-    {
-      "path": "assets/portraits/yangjian-premium.webp",
-      "bytes": 430508,
-      "sha256": "8829d6468b3e7092044a4a348e4c57acf5758362bf8f46dc5438aa7180144236",
-      "original_copy_sha256": "8829d6468b3e7092044a4a348e4c57acf5758362bf8f46dc5438aa7180144236"
-    },
-    {
-      "path": "assets/portraits/yangren-premium.webp",
-      "bytes": 412736,
-      "sha256": "2215384cd6a821ab0467f23db70b75d5781f368526980db68b4d00ccbeb365e5",
-      "original_copy_sha256": "2215384cd6a821ab0467f23db70b75d5781f368526980db68b4d00ccbeb365e5"
-    },
-    {
-      "path": "assets/portraits/yuanshi-premium.webp",
-      "bytes": 416596,
-      "sha256": "65f10e59b075d7cf1767bb77eac40f86189a243f2fe3f218d64aadf137c2c334",
-      "original_copy_sha256": "65f10e59b075d7cf1767bb77eac40f86189a243f2fe3f218d64aadf137c2c334"
-    },
-    {
-      "path": "assets/portraits/yuding-premium.webp",
-      "bytes": 456016,
-      "sha256": "08b734ce783893e654d2c5981b73a6e96c751d5ef6c24a6f2266ca8812baed3c",
-      "original_copy_sha256": "08b734ce783893e654d2c5981b73a6e96c751d5ef6c24a6f2266ca8812baed3c"
-    },
-    {
-      "path": "assets/portraits/yunxiao-premium.webp",
-      "bytes": 431512,
-      "sha256": "ce2b0d9955adea4f18162289aa507f726e5095f99ff3bea33bc227062a09b04e",
-      "original_copy_sha256": "ce2b0d9955adea4f18162289aa507f726e5095f99ff3bea33bc227062a09b04e"
-    },
-    {
-      "path": "assets/portraits/zhaogongming-premium.webp",
-      "bytes": 440474,
-      "sha256": "524eccd602a29ae960b5b194542940c3d3aed026f1abd3bf9f41c1a501b589d4",
-      "original_copy_sha256": "524eccd602a29ae960b5b194542940c3d3aed026f1abd3bf9f41c1a501b589d4"
-    },
-    {
-      "path": "assets/portraits/zhenglun-premium.webp",
-      "bytes": 435170,
-      "sha256": "c7d6b6d287910070d1ec4b826b70bbdcd94eb1c6460802dde40f96f847da2f32",
-      "original_copy_sha256": "c7d6b6d287910070d1ec4b826b70bbdcd94eb1c6460802dde40f96f847da2f32"
-    },
-    {
-      "path": "assets/portraits/zhouwang-premium.webp",
-      "bytes": 433112,
-      "sha256": "08b0e16af11d9fd4f7f7eda38e2194ee7d65beadfbc9922ca71f22bdd53273c7",
-      "original_copy_sha256": "08b0e16af11d9fd4f7f7eda38e2194ee7d65beadfbc9922ca71f22bdd53273c7"
-    },
-    {
-      "path": "assets/portraits/zhunti-premium.webp",
-      "bytes": 464588,
-      "sha256": "8407d9e255cbd0ef77b3989f10da078e9e146e0807bf670d79b891e53a662ad3",
-      "original_copy_sha256": "8407d9e255cbd0ef77b3989f10da078e9e146e0807bf670d79b891e53a662ad3"
-    },
-    {
-      "path": "assets/progression-v08/manifestations-lotus.svg",
-      "bytes": 660,
-      "sha256": "660a5cbec319f4192b581c8ef1213cab57cb46a1cb499a65dd1ac24b2d6dc87a",
-      "original_copy_sha256": "660a5cbec319f4192b581c8ef1213cab57cb46a1cb499a65dd1ac24b2d6dc87a"
-    },
-    {
-      "path": "assets/progression-v08/manifestations-mountain.svg",
-      "bytes": 558,
-      "sha256": "cf687592679490399b410c6267fa6c8928bfb804fa4c41e012d616bc1da47da0",
-      "original_copy_sha256": "cf687592679490399b410c6267fa6c8928bfb804fa4c41e012d616bc1da47da0"
-    },
-    {
-      "path": "assets/progression-v08/manifestations-sun.svg",
-      "bytes": 615,
-      "sha256": "712b77550819077cbc33b1d8c18543d866a4f2ba509b057a9ba5738358090fc7",
-      "original_copy_sha256": "712b77550819077cbc33b1d8c18543d866a4f2ba509b057a9ba5738358090fc7"
-    },
-    {
-      "path": "assets/progression-v08/mounts-boat.svg",
-      "bytes": 692,
-      "sha256": "31b0a6bc28e69a12cf7f2e73f0be5bfa67fe20e36561df89274ada932d924f6b",
-      "original_copy_sha256": "31b0a6bc28e69a12cf7f2e73f0be5bfa67fe20e36561df89274ada932d924f6b"
-    },
-    {
-      "path": "assets/progression-v08/mounts-cloud.svg",
-      "bytes": 642,
-      "sha256": "37d73aaa6d2a206a2c61a4dede90572ead3e2abfec462d8321d94fb3c83c2f7f",
-      "original_copy_sha256": "37d73aaa6d2a206a2c61a4dede90572ead3e2abfec462d8321d94fb3c83c2f7f"
-    },
-    {
-      "path": "assets/progression-v08/mounts-lotus.svg",
-      "bytes": 638,
-      "sha256": "3635d7c964891bd42e679e74db18a704a4908364cd5c25d1699daabe228c9b33",
-      "original_copy_sha256": "3635d7c964891bd42e679e74db18a704a4908364cd5c25d1699daabe228c9b33"
-    },
-    {
-      "path": "assets/summon-remotion/ambience.ogg",
-      "bytes": 113849,
-      "sha256": "5f0af6e1392be2505f1068d36a718fdae6fd707b5bea66d80c7639462bf5c832",
-      "original_copy_sha256": "5f0af6e1392be2505f1068d36a718fdae6fd707b5bea66d80c7639462bf5c832"
-    },
-    {
-      "path": "assets/summon-remotion/first.png",
-      "bytes": 1105513,
-      "sha256": "756c18b22883e48070c196aabbaf81e901b6945eed71f3b36011e452e518be77",
-      "original_copy_sha256": "756c18b22883e48070c196aabbaf81e901b6945eed71f3b36011e452e518be77"
-    },
-    {
-      "path": "assets/summon-remotion/last.png",
-      "bytes": 1092043,
-      "sha256": "7fb24ff321bc2387144c416e5d07b52a5e3a3a8129c0e9355a7d66de89cca3f0",
-      "original_copy_sha256": "7fb24ff321bc2387144c416e5d07b52a5e3a3a8129c0e9355a7d66de89cca3f0"
-    },
-    {
-      "path": "assets/summon-remotion/neutral.ogv",
-      "bytes": 9698846,
-      "sha256": "16274a3ca0dd371000545ebfc3102ac99534ce61fa68357dd600145854853e5c",
-      "original_copy_sha256": "16274a3ca0dd371000545ebfc3102ac99534ce61fa68357dd600145854853e5c"
-    },
-    {
-      "path": "assets/summon-remotion/neutral.ogv.uid",
-      "bytes": 19,
-      "sha256": "9567f4bc5b9e1a4c7296b85798813e879ed47bc7975af06fca242cf3e7dd2d40",
-      "original_copy_sha256": "9567f4bc5b9e1a4c7296b85798813e879ed47bc7975af06fca242cf3e7dd2d40"
-    },
-    {
-      "path": "assets/summon-remotion/portal.gdshader",
-      "bytes": 6701,
-      "sha256": "94dc1cdb30e52b92ebb30caef69b293e2bc2b4a6f6caf7c4df554c69cfab4c49",
-      "original_copy_sha256": "94dc1cdb30e52b92ebb30caef69b293e2bc2b4a6f6caf7c4df554c69cfab4c49"
-    },
-    {
-      "path": "assets/summon-remotion/portal.gdshader.uid",
-      "bytes": 19,
-      "sha256": "7a7a3a119c9987529f73b07a1ba80d977ae5367e61f261d766b2127e074b6a93",
-      "original_copy_sha256": "7a7a3a119c9987529f73b07a1ba80d977ae5367e61f261d766b2127e074b6a93"
-    },
-    {
-      "path": "assets/summon-remotion/portrait.gdshader",
-      "bytes": 315,
-      "sha256": "ddc1028e4b3b33999286672a1c081fef2511c0119a6b16deb8538101c1e0401d",
-      "original_copy_sha256": "ddc1028e4b3b33999286672a1c081fef2511c0119a6b16deb8538101c1e0401d"
-    },
-    {
-      "path": "assets/summon-remotion/portrait.gdshader.uid",
-      "bytes": 19,
-      "sha256": "2263dd649cd7c0eee2d1589cbd15646cfb0b76bbec94ea7b056caec9a05ce11c",
-      "original_copy_sha256": "2263dd649cd7c0eee2d1589cbd15646cfb0b76bbec94ea7b056caec9a05ce11c"
-    },
-    {
-      "path": "assets/summon-v05/summon-gate.png",
-      "bytes": 2817738,
-      "sha256": "ec11f7994c5f3f38e523af3f1d1be2eed7d15b5ac047ba0e4ce537b330a11c84",
-      "original_copy_sha256": "ec11f7994c5f3f38e523af3f1d1be2eed7d15b5ac047ba0e4ce537b330a11c84"
-    },
-    {
-      "path": "assets/summon-v06/celestial_sky.gdshader",
-      "bytes": 2373,
-      "sha256": "e78f55601564ed928b31f1984b069bbef07caf490509fa85fe082c0b4f0e27d9",
-      "original_copy_sha256": "e78f55601564ed928b31f1984b069bbef07caf490509fa85fe082c0b4f0e27d9"
-    },
-    {
-      "path": "assets/summon-v06/celestial_sky.gdshader.uid",
-      "bytes": 20,
-      "sha256": "98debfa0cdbb701115ab0d3804c5cf5d9970165349f915d15a82a2eac44c313a",
-      "original_copy_sha256": "98debfa0cdbb701115ab0d3804c5cf5d9970165349f915d15a82a2eac44c313a"
-    },
-    {
-      "path": "assets/summon-v09/courtyard.png",
-      "bytes": 2450982,
-      "sha256": "cf521226d7fb6b8599ac5a5fba1f643b741f7b48b55057ae49028ac96e0392f0",
-      "original_copy_sha256": "cf521226d7fb6b8599ac5a5fba1f643b741f7b48b55057ae49028ac96e0392f0"
-    },
-    {
-      "path": "assets/summon-video/ambience.ogg",
-      "bytes": 90362,
-      "sha256": "e8614d775d63e4a889eb46e228a2b12280bdf9dbb0a4f7f287a8d14ecfe6cba4",
-      "original_copy_sha256": "e8614d775d63e4a889eb46e228a2b12280bdf9dbb0a4f7f287a8d14ecfe6cba4"
-    },
-    {
-      "path": "assets/summon-video/first.png",
-      "bytes": 1517605,
-      "sha256": "6c7040982dcaf3441518507f4ddf92a65871e561ad7a1ef3ff5965da1f804721",
-      "original_copy_sha256": "6c7040982dcaf3441518507f4ddf92a65871e561ad7a1ef3ff5965da1f804721"
-    },
-    {
-      "path": "assets/summon-video/last.png",
-      "bytes": 1629638,
-      "sha256": "42a7200fe760a796e2f65db0475a17301f00025ae1a50e3b24be5db2183cb04a",
-      "original_copy_sha256": "42a7200fe760a796e2f65db0475a17301f00025ae1a50e3b24be5db2183cb04a"
-    },
-    {
-      "path": "assets/summon-video/neutral.ogv",
-      "bytes": 6265699,
-      "sha256": "9c79642e7cdc6815a90f22fe597225fce0c1c074cf307d292437da42e7153b2b",
-      "original_copy_sha256": "9c79642e7cdc6815a90f22fe597225fce0c1c074cf307d292437da42e7153b2b"
-    },
-    {
-      "path": "assets/summon-video/neutral.ogv.uid",
-      "bytes": 20,
-      "sha256": "3a7d0b71d650db1a9581981301d1aae15b1ed287453e507be0097b35deb4bc5f",
-      "original_copy_sha256": "3a7d0b71d650db1a9581981301d1aae15b1ed287453e507be0097b35deb4bc5f"
-    },
-    {
-      "path": "assets/summon-video/portal.gdshader",
-      "bytes": 1353,
-      "sha256": "e5c3e9751cfe61f47a78fb4e734e6943c1a8a080cf5ef51eaa5b84fbc4773a1f",
-      "original_copy_sha256": "e5c3e9751cfe61f47a78fb4e734e6943c1a8a080cf5ef51eaa5b84fbc4773a1f"
-    },
-    {
-      "path": "assets/summon-video/portal.gdshader.uid",
-      "bytes": 20,
-      "sha256": "044112c0ce3e5855ba7a4516201ac43bf3135f6f9c00a42e78e461c1838e7705",
-      "original_copy_sha256": "044112c0ce3e5855ba7a4516201ac43bf3135f6f9c00a42e78e461c1838e7705"
-    },
-    {
-      "path": "assets/terrain/distant-cloud-mountains.png",
-      "bytes": 1680816,
-      "sha256": "9eebc60e095634750eb4d2bbfc4b8b77f62f8cc05f70bad15e466657c440695e",
-      "original_copy_sha256": "9eebc60e095634750eb4d2bbfc4b8b77f62f8cc05f70bad15e466657c440695e"
-    },
-    {
-      "path": "assets/terrain/estate_tiles.svg",
-      "bytes": 1265,
-      "sha256": "408395716091411f53328ded050e62ea5793edffd8ace6956ce01fbb8e3f8474",
-      "original_copy_sha256": "408395716091411f53328ded050e62ea5793edffd8ace6956ce01fbb8e3f8474"
-    },
-    {
-      "path": "assets/terrain/extra-building-visuals.json",
-      "bytes": 2294,
-      "sha256": "ef2d245d5b75f1da240b5a2e9eb2e6bd72466ca35e9e7c4b82deb35d9f02acbb",
-      "original_copy_sha256": "ef2d245d5b75f1da240b5a2e9eb2e6bd72466ca35e9e7c4b82deb35d9f02acbb"
-    },
-    {
-      "path": "assets/terrain/meadow-diffuse.png",
-      "bytes": 3116581,
-      "sha256": "f3f0841781c5d9d5b37df48fb69fe7150e59ddcf94638233e59a481ce6af0597",
-      "original_copy_sha256": "f3f0841781c5d9d5b37df48fb69fe7150e59ddcf94638233e59a481ce6af0597"
-    },
-    {
-      "path": "assets/terrain/mine-native.svg",
-      "bytes": 3720,
-      "sha256": "d48a0662c5a9f9afff52189a217e2dc627dc6143eaaae108ef274ca9b55ce810",
-      "original_copy_sha256": "d48a0662c5a9f9afff52189a217e2dc627dc6143eaaae108ef274ca9b55ce810"
-    },
-    {
-      "path": "assets/terrain/relicworkshop-native.svg",
-      "bytes": 3707,
-      "sha256": "f7d913461c7653b232a0bb15c5c8a5135d2e632f99306aa3ff3a874bd961a4ff",
-      "original_copy_sha256": "f7d913461c7653b232a0bb15c5c8a5135d2e632f99306aa3ff3a874bd961a4ff"
-    },
-    {
-      "path": "assets/terrain/stone-diffuse.png",
-      "bytes": 3028767,
-      "sha256": "8f0796a5cc74cb1ff1f941e269c6dd62c60f16e7641a893bb95ec240f2b371d5",
-      "original_copy_sha256": "8f0796a5cc74cb1ff1f941e269c6dd62c60f16e7641a893bb95ec240f2b371d5"
-    },
-    {
-      "path": "assets/terrain/warehouse-native.svg",
-      "bytes": 4890,
-      "sha256": "b8f4587261ef3b17ac6833f7a5e70769d7b523da6ffb82b5b15d865053e9a00f",
-      "original_copy_sha256": "b8f4587261ef3b17ac6833f7a5e70769d7b523da6ffb82b5b15d865053e9a00f"
-    },
-    {
-      "path": "assets/terrain/generated-facilities/mine-premium-v04.webp",
-      "bytes": 374172,
-      "sha256": "c8a30401704da857f99712f17437c738626aedf84d42c317e0ac3adc6b516975",
-      "original_copy_sha256": "c8a30401704da857f99712f17437c738626aedf84d42c317e0ac3adc6b516975"
-    },
-    {
-      "path": "assets/terrain/generated-facilities/relicworkshop-premium-v04.webp",
-      "bytes": 409568,
-      "sha256": "7fc8797763da65cfe87755afb2f45f4357a5753cb3db4cd1f20253822ec9d695",
-      "original_copy_sha256": "7fc8797763da65cfe87755afb2f45f4357a5753cb3db4cd1f20253822ec9d695"
-    },
-    {
-      "path": "assets/terrain/generated-facilities/warehouse-premium-v04.webp",
-      "bytes": 341976,
-      "sha256": "ddffa947fd6ccae3b3e14504cd4999723394d6c4b49309fa0e9e224baf0a12bf",
-      "original_copy_sha256": "ddffa947fd6ccae3b3e14504cd4999723394d6c4b49309fa0e9e224baf0a12bf"
-    },
-    {
-      "path": "assets/ui/affairs.svg",
-      "bytes": 1183,
-      "sha256": "caad8f17bbd2310713865e17fee7353a059aed129dffb386ec6eff5a049cf1af",
-      "original_copy_sha256": "caad8f17bbd2310713865e17fee7353a059aed129dffb386ec6eff5a049cf1af"
-    },
-    {
-      "path": "assets/ui/checkin.svg",
-      "bytes": 1171,
-      "sha256": "18204f00ddd44bf6eda56ff9d2b25ad53a56e2c62b796fb30a92bda90acc2887",
-      "original_copy_sha256": "18204f00ddd44bf6eda56ff9d2b25ad53a56e2c62b796fb30a92bda90acc2887"
-    },
-    {
-      "path": "assets/ui/circlet.svg",
-      "bytes": 1218,
-      "sha256": "9a7025bf129355601c777903df42c5b8a6872344057a5ef391697ee8a58d1103",
-      "original_copy_sha256": "9a7025bf129355601c777903df42c5b8a6872344057a5ef391697ee8a58d1103"
-    },
-    {
-      "path": "assets/ui/cloud.svg",
-      "bytes": 1060,
-      "sha256": "e1ef29cfc8851d12ce8a106ed738c44b8a8f2829e78b6eb2b1a742b957839d5b",
-      "original_copy_sha256": "e1ef29cfc8851d12ce8a106ed738c44b8a8f2829e78b6eb2b1a742b957839d5b"
-    },
-    {
-      "path": "assets/ui/estate.svg",
-      "bytes": 1199,
-      "sha256": "2f280cbfb9f35ad0f362afe7507dabc560d2b73eab58f6d1f173da0fa553bc1a",
-      "original_copy_sha256": "2f280cbfb9f35ad0f362afe7507dabc560d2b73eab58f6d1f173da0fa553bc1a"
-    },
-    {
-      "path": "assets/ui/fate.svg",
-      "bytes": 1235,
-      "sha256": "bd4289d9559cca5b5365969b477740bc3e03db660b135225abb82ec883fe4812",
-      "original_copy_sha256": "bd4289d9559cca5b5365969b477740bc3e03db660b135225abb82ec883fe4812"
-    },
-    {
-      "path": "assets/ui/feather.svg",
-      "bytes": 1105,
-      "sha256": "fba702d03133f3838f5c59991c45a085346ad0c21db54d4fbeaf7eaf937cd3e7",
-      "original_copy_sha256": "fba702d03133f3838f5c59991c45a085346ad0c21db54d4fbeaf7eaf937cd3e7"
-    },
-    {
-      "path": "assets/ui/flower.svg",
-      "bytes": 1212,
-      "sha256": "208059946a2b2ec38293664eee171d4d1cdde27d75112228f9b6b7d5580c1b69",
-      "original_copy_sha256": "208059946a2b2ec38293664eee171d4d1cdde27d75112228f9b6b7d5580c1b69"
-    },
-    {
-      "path": "assets/ui/gear.svg",
-      "bytes": 1175,
-      "sha256": "3edfa11c92da39e6519d7cc77ed08f7ccc6cffaff6b84b36b5abdc29ff68a299",
-      "original_copy_sha256": "3edfa11c92da39e6519d7cc77ed08f7ccc6cffaff6b84b36b5abdc29ff68a299"
-    },
-    {
-      "path": "assets/ui/goblet.svg",
-      "bytes": 1143,
-      "sha256": "f61132743cfd3a2f8721fcd1c8ecaaba63ab9ca76143f2457dda11dffa9ed6df",
-      "original_copy_sha256": "f61132743cfd3a2f8721fcd1c8ecaaba63ab9ca76143f2457dda11dffa9ed6df"
-    },
-    {
-      "path": "assets/ui/guild.svg",
-      "bytes": 1111,
-      "sha256": "84be3052cfb76b453d4b6bfedf0159bb9adb80a878bc821d4b422e9e020d9595",
-      "original_copy_sha256": "84be3052cfb76b453d4b6bfedf0159bb9adb80a878bc821d4b422e9e020d9595"
-    },
-    {
-      "path": "assets/ui/herb.svg",
-      "bytes": 1190,
-      "sha256": "8f1f40c0d92051e5b4c18fba784f1c289f4004904c15cab77f3aeb53c6d997ab",
-      "original_copy_sha256": "8f1f40c0d92051e5b4c18fba784f1c289f4004904c15cab77f3aeb53c6d997ab"
-    },
-    {
-      "path": "assets/ui/mail.svg",
-      "bytes": 1085,
-      "sha256": "9c557c768afa1275b3cac577596144cb0488951bd7601f8e8cb827b199618941",
-      "original_copy_sha256": "9c557c768afa1275b3cac577596144cb0488951bd7601f8e8cb827b199618941"
-    },
-    {
-      "path": "assets/ui/material.svg",
-      "bytes": 1188,
-      "sha256": "b1495b5b932889fcc2ff1b84dd5811d33fcfd5f19bb4aa5409a8a85b15733b35",
-      "original_copy_sha256": "b1495b5b932889fcc2ff1b84dd5811d33fcfd5f19bb4aa5409a8a85b15733b35"
-    },
-    {
-      "path": "assets/ui/panel-frame.svg",
-      "bytes": 461,
-      "sha256": "a10e59333b2c3c679e52cc10543542b60e3928217cda58a1598fd13a9fdb49ab",
-      "original_copy_sha256": "a10e59333b2c3c679e52cc10543542b60e3928217cda58a1598fd13a9fdb49ab"
-    },
-    {
-      "path": "assets/ui/rank.svg",
-      "bytes": 1074,
-      "sha256": "c4057913641ca77f16629463496f02f475c3e89238716abc64487ecefc0249eb",
-      "original_copy_sha256": "c4057913641ca77f16629463496f02f475c3e89238716abc64487ecefc0249eb"
-    },
-    {
-      "path": "assets/ui/roster.svg",
-      "bytes": 1279,
-      "sha256": "0584e62b2a784af0048f914528e0f215f496bfe59163d12a3fbebcc226bcff06",
-      "original_copy_sha256": "0584e62b2a784af0048f914528e0f215f496bfe59163d12a3fbebcc226bcff06"
-    },
-    {
-      "path": "assets/ui/sands.svg",
-      "bytes": 1211,
-      "sha256": "0c668665760aff9755eafb7d934600ba87aec477bfe19d4f7c429212db4cbb0a",
-      "original_copy_sha256": "0c668665760aff9755eafb7d934600ba87aec477bfe19d4f7c429212db4cbb0a"
-    },
-    {
-      "path": "assets/ui/settings.svg",
-      "bytes": 1288,
-      "sha256": "22467de6bb00b039f9ba7209dbb391a4a7c36b9c66ea07f55875e7c267cb249d",
-      "original_copy_sha256": "22467de6bb00b039f9ba7209dbb391a4a7c36b9c66ea07f55875e7c267cb249d"
-    },
-    {
-      "path": "assets/ui/stages.svg",
-      "bytes": 1379,
-      "sha256": "49a2f087792c82237f1cd42ec56156b562b199d2e57d8ba51e123049d299b4c1",
-      "original_copy_sha256": "49a2f087792c82237f1cd42ec56156b562b199d2e57d8ba51e123049d299b4c1"
-    },
-    {
-      "path": "assets/ui/stone.svg",
-      "bytes": 1087,
-      "sha256": "fcd3944908a9c5c0b88c61e817b7096d75e6da1d5bc88a3ddc78f4282c4f2542",
-      "original_copy_sha256": "fcd3944908a9c5c0b88c61e817b7096d75e6da1d5bc88a3ddc78f4282c4f2542"
-    },
-    {
-      "path": "assets/ui/summon.svg",
-      "bytes": 1255,
-      "sha256": "1d7e5b72be7b1ec978a0a2c08d5fa81ebdbc82f0cee52930bf569ba9ee81698a",
-      "original_copy_sha256": "1d7e5b72be7b1ec978a0a2c08d5fa81ebdbc82f0cee52930bf569ba9ee81698a"
-    },
-    {
-      "path": "assets/ui/ticket.svg",
-      "bytes": 1255,
-      "sha256": "1d7e5b72be7b1ec978a0a2c08d5fa81ebdbc82f0cee52930bf569ba9ee81698a",
-      "original_copy_sha256": "1d7e5b72be7b1ec978a0a2c08d5fa81ebdbc82f0cee52930bf569ba9ee81698a"
-    },
-    {
-      "path": "assets/ui/xp.svg",
-      "bytes": 1152,
-      "sha256": "7cc5bc70aefc4211a9ebcc7d3664ceacedd12230f0ed752a0063ec049c825a8e",
-      "original_copy_sha256": "7cc5bc70aefc4211a9ebcc7d3664ceacedd12230f0ed752a0063ec049c825a8e"
-    },
-    {
-      "path": "assets/ui-foundation/background.png",
-      "bytes": 2460314,
-      "sha256": "a9148c74439618256fa481cc9384a2f14605f16ce29b223ccbfe3935bbc7d5ca",
-      "original_copy_sha256": "a9148c74439618256fa481cc9384a2f14605f16ce29b223ccbfe3935bbc7d5ca"
-    },
-    {
-      "path": "assets/ui-foundation/disabled.svg",
-      "bytes": 739,
-      "sha256": "c6c96d8b62486b71515d6a97bb4dbd920e3cbb8e97398adf066f1794f009802a",
-      "original_copy_sha256": "c6c96d8b62486b71515d6a97bb4dbd920e3cbb8e97398adf066f1794f009802a"
-    },
-    {
-      "path": "assets/ui-foundation/forge-subject.png",
-      "bytes": 1855979,
-      "sha256": "7909d36a7976e5a803a70d0a42016ca1133278138c1bec4c785715453e431a51",
-      "original_copy_sha256": "7909d36a7976e5a803a70d0a42016ca1133278138c1bec4c785715453e431a51"
-    },
-    {
-      "path": "assets/ui-foundation/foundation.tres",
-      "bytes": 6458,
-      "sha256": "3dbacdb7c3761f73b09a730c8e86c2fb726ec4da581583eeac0d4422a31aa60d",
-      "original_copy_sha256": "3dbacdb7c3761f73b09a730c8e86c2fb726ec4da581583eeac0d4422a31aa60d"
-    },
-    {
-      "path": "assets/ui-foundation/gold.svg",
-      "bytes": 739,
-      "sha256": "3afc6aa58afe498b1683b71f966a441b4e60e3818d4e55164c109140627a7bfc",
-      "original_copy_sha256": "3afc6aa58afe498b1683b71f966a441b4e60e3818d4e55164c109140627a7bfc"
-    },
-    {
-      "path": "assets/ui-foundation/icons.png",
-      "bytes": 1766864,
-      "sha256": "287aa21df98a73dd595f0dc4e89fbdd0e61ea02c38eee287e130c977ba6214ad",
-      "original_copy_sha256": "287aa21df98a73dd595f0dc4e89fbdd0e61ea02c38eee287e130c977ba6214ad"
-    },
-    {
-      "path": "assets/ui-foundation/iron-sword.png",
-      "bytes": 574753,
-      "sha256": "191e2d96e8e2070f4e46cdee312bd04155e14136cd51e76e7cd43836d4478701",
-      "original_copy_sha256": "191e2d96e8e2070f4e46cdee312bd04155e14136cd51e76e7cd43836d4478701"
-    },
-    {
-      "path": "assets/ui-foundation/jade-sword.png",
-      "bytes": 634090,
-      "sha256": "8e437830f985dc04fd30a1dbf548c59b93755a33ae03e840fa226146734c1328",
-      "original_copy_sha256": "8e437830f985dc04fd30a1dbf548c59b93755a33ae03e840fa226146734c1328"
-    },
-    {
-      "path": "assets/ui-foundation/jade.svg",
-      "bytes": 739,
-      "sha256": "2670f7fbfa15c7f329ee1727a872362e034d41797fea44016a8db1b7ef90f1c1",
-      "original_copy_sha256": "2670f7fbfa15c7f329ee1727a872362e034d41797fea44016a8db1b7ef90f1c1"
-    },
-    {
-      "path": "assets/ui-foundation/nav.svg",
-      "bytes": 739,
-      "sha256": "35451eab1e633e9e02925aa733ed79a67703547f7a0362bdeace25fa58b30c9b",
-      "original_copy_sha256": "35451eab1e633e9e02925aa733ed79a67703547f7a0362bdeace25fa58b30c9b"
-    },
-    {
-      "path": "assets/ui-foundation/new.svg",
-      "bytes": 739,
-      "sha256": "3dbee4d9868e46bb24c7d9705ced504d000989fc3a005042bd4e62f89520556f",
-      "original_copy_sha256": "3dbee4d9868e46bb24c7d9705ced504d000989fc3a005042bd4e62f89520556f"
-    },
-    {
-      "path": "assets/ui-foundation/old.svg",
-      "bytes": 739,
-      "sha256": "ae8779c498a8f49ba3a2557883d31a559156989458ca1ad6b27d1df28e0a0820",
-      "original_copy_sha256": "ae8779c498a8f49ba3a2557883d31a559156989458ca1ad6b27d1df28e0a0820"
-    },
-    {
-      "path": "assets/ui-foundation/paper.svg",
-      "bytes": 739,
-      "sha256": "39894e1fc0fffabc9133a5c7682d52af9d50c9d2ddefed87fdbf561cd3af16f4",
-      "original_copy_sha256": "39894e1fc0fffabc9133a5c7682d52af9d50c9d2ddefed87fdbf561cd3af16f4"
-    },
-    {
-      "path": "assets/ui-foundation/pressed.svg",
-      "bytes": 739,
-      "sha256": "91cc0f8bfc77807fc3e958f8c5b0fa9acefda6586f747e371892a809417eca81",
-      "original_copy_sha256": "91cc0f8bfc77807fc3e958f8c5b0fa9acefda6586f747e371892a809417eca81"
-    },
-    {
-      "path": "assets/ui-foundation/secondary.svg",
-      "bytes": 739,
-      "sha256": "4cc143ea594d03ed59dec684c205e4b5c39de9eff65138691f44b6d926f47ae3",
-      "original_copy_sha256": "4cc143ea594d03ed59dec684c205e4b5c39de9eff65138691f44b6d926f47ae3"
-    },
-    {
-      "path": "assets/ui-foundation/skins.png",
-      "bytes": 2221242,
-      "sha256": "3b831eef9ea4a718cb1b98aeea4edfdfdbf27e71d9c46dc442e0471990cdf4e9",
-      "original_copy_sha256": "3b831eef9ea4a718cb1b98aeea4edfdfdbf27e71d9c46dc442e0471990cdf4e9"
-    },
-    {
-      "path": "assets/ui-v06/button-gold.svg",
-      "bytes": 651,
-      "sha256": "31e873c746eff196e1369997b534f058024ce21942a51f01f95e9b8722596f6d",
-      "original_copy_sha256": "31e873c746eff196e1369997b534f058024ce21942a51f01f95e9b8722596f6d"
-    },
-    {
-      "path": "assets/ui-v06/button-jade.svg",
-      "bytes": 651,
-      "sha256": "667c3a7b426b760f996a1efeca494116c80524f84bbc837f224d06c41b287c90",
-      "original_copy_sha256": "667c3a7b426b760f996a1efeca494116c80524f84bbc837f224d06c41b287c90"
-    },
-    {
-      "path": "assets/ui-v06/button.svg",
-      "bytes": 651,
-      "sha256": "0ea742e3c80d5332b3208585fa4c93d2e38e65f8e7e7b11ad15e62d26ddcfcd4",
-      "original_copy_sha256": "0ea742e3c80d5332b3208585fa4c93d2e38e65f8e7e7b11ad15e62d26ddcfcd4"
-    },
-    {
-      "path": "assets/ui-v06/jade-panel.svg",
-      "bytes": 957,
-      "sha256": "cfe33e3118c3e8f11d85ee409e71b9146f19bc573608f70d2f03f3c15d29aa35",
-      "original_copy_sha256": "cfe33e3118c3e8f11d85ee409e71b9146f19bc573608f70d2f03f3c15d29aa35"
-    },
-    {
-      "path": "assets/ui-v06/nav-glow.svg",
-      "bytes": 438,
-      "sha256": "325cdbada6642ce71061567c43765ec6606aafe36fc1158838df52c27d421a04",
-      "original_copy_sha256": "325cdbada6642ce71061567c43765ec6606aafe36fc1158838df52c27d421a04"
-    },
-    {
-      "path": "assets/ui-v06/panel.svg",
-      "bytes": 957,
-      "sha256": "e4b3dd11adfb31021d96e68e36e8e08dc3f5f447fdaba76ff73ee28141e4cc8a",
-      "original_copy_sha256": "e4b3dd11adfb31021d96e68e36e8e08dc3f5f447fdaba76ff73ee28141e4cc8a"
-    },
-    {
-      "path": "assets/ui-v07/button-gold.png",
-      "bytes": 15738,
-      "sha256": "80279f3aab30079f344ef9524c54473d3cb6caf31d69d20cc3a6a51d97c0e14d",
-      "original_copy_sha256": "80279f3aab30079f344ef9524c54473d3cb6caf31d69d20cc3a6a51d97c0e14d"
-    },
-    {
-      "path": "assets/ui-v07/button-jade.png",
-      "bytes": 18391,
-      "sha256": "913b7ff787cf69b2881839918cc1ea72ba57b7d801a031b93fd1a4a551f57254",
-      "original_copy_sha256": "913b7ff787cf69b2881839918cc1ea72ba57b7d801a031b93fd1a4a551f57254"
-    },
-    {
-      "path": "assets/ui-v07/icon-affairs.png",
-      "bytes": 377288,
-      "sha256": "5dd6c7dd58196f2eae8c501ef877c2a25b7b144525a05d5bc2fff7cb0abc5a35",
-      "original_copy_sha256": "5dd6c7dd58196f2eae8c501ef877c2a25b7b144525a05d5bc2fff7cb0abc5a35"
-    },
-    {
-      "path": "assets/ui-v07/icon-checkin.png",
-      "bytes": 361518,
-      "sha256": "320c9dc9c21f82873b7fef63abb2081a41d306cb461416e27140ad66c9a80ef8",
-      "original_copy_sha256": "320c9dc9c21f82873b7fef63abb2081a41d306cb461416e27140ad66c9a80ef8"
-    },
-    {
-      "path": "assets/ui-v07/icon-circlet.png",
-      "bytes": 320484,
-      "sha256": "6cf22819b66eacbefec083432c0804931c10d5018169dbbefc870315b09681e4",
-      "original_copy_sha256": "6cf22819b66eacbefec083432c0804931c10d5018169dbbefc870315b09681e4"
-    },
-    {
-      "path": "assets/ui-v07/icon-cloud.png",
-      "bytes": 272937,
-      "sha256": "bcf54abdaa7e9bf31ac6689a0da7091d702c773c388915df4184b5e3d384f272",
-      "original_copy_sha256": "bcf54abdaa7e9bf31ac6689a0da7091d702c773c388915df4184b5e3d384f272"
-    },
-    {
-      "path": "assets/ui-v07/icon-fate.png",
-      "bytes": 170820,
-      "sha256": "b2e78e2c7d71324344fc0aadc09cfebbf6a6b8f45a26937ccc0d4f9cbd6a79f4",
-      "original_copy_sha256": "b2e78e2c7d71324344fc0aadc09cfebbf6a6b8f45a26937ccc0d4f9cbd6a79f4"
-    },
-    {
-      "path": "assets/ui-v07/icon-feather.png",
-      "bytes": 209051,
-      "sha256": "d86a115b90e0215cdd8c73b0256b18aaff8fc888773f6cafed729319a516983b",
-      "original_copy_sha256": "d86a115b90e0215cdd8c73b0256b18aaff8fc888773f6cafed729319a516983b"
-    },
-    {
-      "path": "assets/ui-v07/icon-flower.png",
-      "bytes": 281000,
-      "sha256": "c40a71ff32caf8d50e0f03d79a6cf4ed7ed2ec8d3614253a06f558bb03dbec61",
-      "original_copy_sha256": "c40a71ff32caf8d50e0f03d79a6cf4ed7ed2ec8d3614253a06f558bb03dbec61"
-    },
-    {
-      "path": "assets/ui-v07/icon-goblet.png",
-      "bytes": 362377,
-      "sha256": "7664313e362cca5e11ba778f4285cf2548a8040e2f60660d16189e1c665026cb",
-      "original_copy_sha256": "7664313e362cca5e11ba778f4285cf2548a8040e2f60660d16189e1c665026cb"
-    },
-    {
-      "path": "assets/ui-v07/icon-guild.png",
-      "bytes": 309677,
-      "sha256": "616ec5a116f2bcaef37aaa9c84212e486b4522dc23e433a2b1bc4530697f6fa2",
-      "original_copy_sha256": "616ec5a116f2bcaef37aaa9c84212e486b4522dc23e433a2b1bc4530697f6fa2"
-    },
-    {
-      "path": "assets/ui-v07/icon-rank.png",
-      "bytes": 273564,
-      "sha256": "c778970f135bb9c912154cf096ebec3e104d9fdae457ba4fbf28792187459e08",
-      "original_copy_sha256": "c778970f135bb9c912154cf096ebec3e104d9fdae457ba4fbf28792187459e08"
-    },
-    {
-      "path": "assets/ui-v07/icon-roster.png",
-      "bytes": 264461,
-      "sha256": "032f245fe1d2e6c5596eacf1b156fc4840cf8fbc7dfad21b48c5f2373b777490",
-      "original_copy_sha256": "032f245fe1d2e6c5596eacf1b156fc4840cf8fbc7dfad21b48c5f2373b777490"
-    },
-    {
-      "path": "assets/ui-v07/icon-sands.png",
-      "bytes": 304886,
-      "sha256": "60bd71f3ce2ecf07aab15743ad3ba1d7f24f066ab9f7931d3d281ace05a2c67c",
-      "original_copy_sha256": "60bd71f3ce2ecf07aab15743ad3ba1d7f24f066ab9f7931d3d281ace05a2c67c"
-    },
-    {
-      "path": "assets/ui-v07/icon-stages.png",
-      "bytes": 235950,
-      "sha256": "cba8e4a1ccc070bbbb16d6aaf2893c30d8bea4a93ca24a5c6167362fd64bb34f",
-      "original_copy_sha256": "cba8e4a1ccc070bbbb16d6aaf2893c30d8bea4a93ca24a5c6167362fd64bb34f"
-    },
-    {
-      "path": "assets/ui-v07/icon-stone.png",
-      "bytes": 344429,
-      "sha256": "34573e3f857bf897bc32ae569fb7ffa7fb7976bc0792d8703b29f2f704ec2046",
-      "original_copy_sha256": "34573e3f857bf897bc32ae569fb7ffa7fb7976bc0792d8703b29f2f704ec2046"
-    },
-    {
-      "path": "assets/ui-v07/icon-summon.png",
-      "bytes": 390414,
-      "sha256": "89babc4f67719e4e6076caec857e3268bb539be68cf0704680f4814745baff45",
-      "original_copy_sha256": "89babc4f67719e4e6076caec857e3268bb539be68cf0704680f4814745baff45"
-    },
-    {
-      "path": "assets/ui-v07/icon-xp.png",
-      "bytes": 347654,
-      "sha256": "ef581431ce032cb602131000baa929383efbaeccc9bc3bc4e4c96b6ed76976fd",
-      "original_copy_sha256": "ef581431ce032cb602131000baa929383efbaeccc9bc3bc4e4c96b6ed76976fd"
-    },
-    {
-      "path": "assets/ui-v07/panel-jade.png",
-      "bytes": 115322,
-      "sha256": "e88530561d039336a30be895b04ca4e8c3dfc108436ae35783760c3cc2d28133",
-      "original_copy_sha256": "e88530561d039336a30be895b04ca4e8c3dfc108436ae35783760c3cc2d28133"
-    },
-    {
-      "path": "assets/ui-v07/panel-paper.png",
-      "bytes": 122525,
-      "sha256": "3daf2499fddd13fb9c62c35af8ab72d266a0e3ab76206f2013b45952770c6245",
-      "original_copy_sha256": "3daf2499fddd13fb9c62c35af8ab72d266a0e3ab76206f2013b45952770c6245"
-    },
-    {
-      "path": "assets/ui-v07/prompts.json",
-      "bytes": 4381,
-      "sha256": "2c187ffcce2f4004960cfb877f5d979c8856956d43e4457925c9e7d87c4a5270",
-      "original_copy_sha256": "2c187ffcce2f4004960cfb877f5d979c8856956d43e4457925c9e7d87c4a5270"
-    },
-    {
-      "path": "assets/ui-v07/source-manifest.json",
-      "bytes": 3313,
-      "sha256": "0262e2ce17e50f75ac6f1007e79e4c71ed5e7eaf2dd6da3750ccd4b2411cb7c7",
-      "original_copy_sha256": "0262e2ce17e50f75ac6f1007e79e4c71ed5e7eaf2dd6da3750ccd4b2411cb7c7"
-    },
-    {
-      "path": "assets/ui-v08/button-gold.svg",
-      "bytes": 487,
-      "sha256": "e778b3414e1ee42f624ee8597ddc8e9b7700b7d51d23aa43dcf993ecb6d933e1",
-      "original_copy_sha256": "e778b3414e1ee42f624ee8597ddc8e9b7700b7d51d23aa43dcf993ecb6d933e1"
-    },
-    {
-      "path": "assets/ui-v08/button-jade.svg",
-      "bytes": 447,
-      "sha256": "2872bdcf7eab864b0e69819c99220a62e6490eb5e828f0b1c9640835697a107f",
-      "original_copy_sha256": "2872bdcf7eab864b0e69819c99220a62e6490eb5e828f0b1c9640835697a107f"
-    },
-    {
-      "path": "assets/ui-v08/home-immortal.png",
-      "bytes": 3143251,
-      "sha256": "9ae42e22db239cb3454c598d15ba719fd3806b6d9eed2bfc55d93a079ff909d9",
-      "original_copy_sha256": "9ae42e22db239cb3454c598d15ba719fd3806b6d9eed2bfc55d93a079ff909d9"
-    },
-    {
-      "path": "assets/ui-v08/icon-bounds.json",
-      "bytes": 2023,
-      "sha256": "a9f8edd10a864e58e489009b828115da280d3df99d8902e6a7bab727b17cc081",
-      "original_copy_sha256": "a9f8edd10a864e58e489009b828115da280d3df99d8902e6a7bab727b17cc081"
-    },
-    {
-      "path": "assets/ui-v08/illustrated-icons.png",
-      "bytes": 3101575,
-      "sha256": "8b91b89592192875309344dc43b88a5fb9d9d5c14086c1ed1eb9b8453d3edf1d",
-      "original_copy_sha256": "8b91b89592192875309344dc43b88a5fb9d9d5c14086c1ed1eb9b8453d3edf1d"
-    },
-    {
-      "path": "assets/ui-v08/panel-jade.svg",
-      "bytes": 662,
-      "sha256": "a88d4a4ba0adf36e4a21dc228e92a11cc9687dba4c5c0cac82341cf944df8ae5",
-      "original_copy_sha256": "a88d4a4ba0adf36e4a21dc228e92a11cc9687dba4c5c0cac82341cf944df8ae5"
-    },
-    {
-      "path": "assets/ui-v08/panel-paper.svg",
-      "bytes": 657,
-      "sha256": "9cb22432447c447d2f08da9f381a7d97e637eb41419c020d608a8694528de2a6",
-      "original_copy_sha256": "9cb22432447c447d2f08da9f381a7d97e637eb41419c020d608a8694528de2a6"
-    },
-    {
-      "path": "assets/ui-v08/README.md",
-      "bytes": 2044,
-      "sha256": "3b21f42ae455182f6522ae1e951c91a74e48e7b544885ecca2b230c7f260bf8d",
-      "original_copy_sha256": "3b21f42ae455182f6522ae1e951c91a74e48e7b544885ecca2b230c7f260bf8d"
-    },
-    {
       "path": "tests/audit_audio.gd",
       "bytes": 2923,
       "sha256": "9bac6e70b52f4241cba95585d6e086b7d19c964572b8ba4ff0197493e0fa8e9c",
@@ -3013,6 +3122,42 @@
       "bytes": 11306,
       "sha256": "8f727c33c54960c69758f271f85dcb7d794919676a5d8166dd9c9c1cbdacb022",
       "original_copy_sha256": "8f727c33c54960c69758f271f85dcb7d794919676a5d8166dd9c9c1cbdacb022"
+    },
+    {
+      "path": "tests/fixtures/combat-reference.json",
+      "bytes": 17363193,
+      "sha256": "6e4b3658b526f98b47abe571ce11b91830ea8b09e27af7ed23ba710490c8175c",
+      "original_copy_sha256": "6e4b3658b526f98b47abe571ce11b91830ea8b09e27af7ed23ba710490c8175c"
+    },
+    {
+      "path": "tests/fixtures/estate-polish-phase.txt",
+      "bytes": 6,
+      "sha256": "7b9a72466d3960eb2aacccfc848939453490db0678bd4725def3f789b891c919",
+      "original_copy_sha256": "7b9a72466d3960eb2aacccfc848939453490db0678bd4725def3f789b891c919"
+    },
+    {
+      "path": "tests/fixtures/estate-polish-state.json",
+      "bytes": 33318,
+      "sha256": "d696a2c8e63ca4748a5a479e3ddaaca0ab6d0beee03aca651ec934ba9cab9523",
+      "original_copy_sha256": "d696a2c8e63ca4748a5a479e3ddaaca0ab6d0beee03aca651ec934ba9cab9523"
+    },
+    {
+      "path": "tests/fixtures/legacy-saves.json",
+      "bytes": 56032,
+      "sha256": "c00368abe6f5e35d9d7ef090aad5cdc8f4e07ace9b105cde890c61d211c40b7d",
+      "original_copy_sha256": "c00368abe6f5e35d9d7ef090aad5cdc8f4e07ace9b105cde890c61d211c40b7d"
+    },
+    {
+      "path": "tests/fixtures/video-decoder-test.ogv",
+      "bytes": 39453,
+      "sha256": "df4d6c4f332817d2f660c1120ad8e6538d26ced4aa2651f1e90bea449111c053",
+      "original_copy_sha256": "df4d6c4f332817d2f660c1120ad8e6538d26ced4aa2651f1e90bea449111c053"
+    },
+    {
+      "path": "tests/fixtures/video-decoder-test.ogv.uid",
+      "bytes": 20,
+      "sha256": "b8ce23a4dbd98e10d60091f7897ae863e633bb08c20f2a12e0e55d2292c58b39",
+      "original_copy_sha256": "b8ce23a4dbd98e10d60091f7897ae863e633bb08c20f2a12e0e55d2292c58b39"
     },
     {
       "path": "tests/focus_resume_visual.gd",
@@ -3811,108 +3956,6 @@
       "bytes": 19,
       "sha256": "5fef4d82d031fa44e849a8903201505c61d6419b9e9c6776d5f2681deab58027",
       "original_copy_sha256": "5fef4d82d031fa44e849a8903201505c61d6419b9e9c6776d5f2681deab58027"
-    },
-    {
-      "path": "tests/fixtures/combat-reference.json",
-      "bytes": 17363193,
-      "sha256": "6e4b3658b526f98b47abe571ce11b91830ea8b09e27af7ed23ba710490c8175c",
-      "original_copy_sha256": "6e4b3658b526f98b47abe571ce11b91830ea8b09e27af7ed23ba710490c8175c"
-    },
-    {
-      "path": "tests/fixtures/estate-polish-phase.txt",
-      "bytes": 6,
-      "sha256": "7b9a72466d3960eb2aacccfc848939453490db0678bd4725def3f789b891c919",
-      "original_copy_sha256": "7b9a72466d3960eb2aacccfc848939453490db0678bd4725def3f789b891c919"
-    },
-    {
-      "path": "tests/fixtures/estate-polish-state.json",
-      "bytes": 33318,
-      "sha256": "d696a2c8e63ca4748a5a479e3ddaaca0ab6d0beee03aca651ec934ba9cab9523",
-      "original_copy_sha256": "d696a2c8e63ca4748a5a479e3ddaaca0ab6d0beee03aca651ec934ba9cab9523"
-    },
-    {
-      "path": "tests/fixtures/legacy-saves.json",
-      "bytes": 56032,
-      "sha256": "c00368abe6f5e35d9d7ef090aad5cdc8f4e07ace9b105cde890c61d211c40b7d",
-      "original_copy_sha256": "c00368abe6f5e35d9d7ef090aad5cdc8f4e07ace9b105cde890c61d211c40b7d"
-    },
-    {
-      "path": "tests/fixtures/video-decoder-test.ogv",
-      "bytes": 39453,
-      "sha256": "df4d6c4f332817d2f660c1120ad8e6538d26ced4aa2651f1e90bea449111c053",
-      "original_copy_sha256": "df4d6c4f332817d2f660c1120ad8e6538d26ced4aa2651f1e90bea449111c053"
-    },
-    {
-      "path": "tests/fixtures/video-decoder-test.ogv.uid",
-      "bytes": 20,
-      "sha256": "b8ce23a4dbd98e10d60091f7897ae863e633bb08c20f2a12e0e55d2292c58b39",
-      "original_copy_sha256": "b8ce23a4dbd98e10d60091f7897ae863e633bb08c20f2a12e0e55d2292c58b39"
-    },
-    {
-      "path": "project.godot",
-      "bytes": 686,
-      "sha256": "640d5f56ea1abe5e9294c59cee9d352a049691278d9c1ec8433509bb459ad421",
-      "original_copy_sha256": "640d5f56ea1abe5e9294c59cee9d352a049691278d9c1ec8433509bb459ad421"
-    },
-    {
-      "path": "export_presets.cfg",
-      "bytes": 2300,
-      "sha256": "f5e808a7ba92342027548e95551eafcacbd585794b4545ab8f0f37f27cfcab5c",
-      "original_copy_sha256": "f5e808a7ba92342027548e95551eafcacbd585794b4545ab8f0f37f27cfcab5c"
-    },
-    {
-      "path": "docs/Godot存档与恢复.md",
-      "bytes": 5974,
-      "sha256": "d6cb9a2b759fa05ea610fd680fd774ea1b59fe51ec409b8d1998a55b502addf4",
-      "original_copy_sha256": "d6cb9a2b759fa05ea610fd680fd774ea1b59fe51ec409b8d1998a55b502addf4"
-    },
-    {
-      "path": "docs/Godot-economy.md",
-      "bytes": 7403,
-      "sha256": "96c05aa000dba7b2eec289065eee4632451bd68e7636320990e476410eaf42ef",
-      "original_copy_sha256": "96c05aa000dba7b2eec289065eee4632451bd68e7636320990e476410eaf42ef"
-    },
-    {
-      "path": "docs/Godot-equipment.md",
-      "bytes": 9370,
-      "sha256": "304d1148ef19bbe39cecd42ba9cbc6136ed5902c7ec357c48c5f886b3d14a2d5",
-      "original_copy_sha256": "304d1148ef19bbe39cecd42ba9cbc6136ed5902c7ec357c48c5f886b3d14a2d5"
-    },
-    {
-      "path": "docs/LOCAL_MOCK_SERVICES.md",
-      "bytes": 4447,
-      "sha256": "54d5f83f24a8d2bc8fab2ed7bbae5044d5a7130e8b5fc996187e82b1f3d2bab7",
-      "original_copy_sha256": "54d5f83f24a8d2bc8fab2ed7bbae5044d5a7130e8b5fc996187e82b1f3d2bab7"
-    },
-    {
-      "path": "docs/V0.10-试玩指南.md",
-      "bytes": 3922,
-      "sha256": "691969d073924c80142258141491852540bf8ed0ad5e66efb58b8a1bffd7f343",
-      "original_copy_sha256": "691969d073924c80142258141491852540bf8ed0ad5e66efb58b8a1bffd7f343"
-    },
-    {
-      "path": "docs/V0.10-框架重制与验收.md",
-      "bytes": 7534,
-      "sha256": "1a655853bdd97faf341297f957971ba7962f289c94b6bf6f00a28b63b712fd00",
-      "original_copy_sha256": "1a655853bdd97faf341297f957971ba7962f289c94b6bf6f00a28b63b712fd00"
-    },
-    {
-      "path": "docs/roster-art-manifest.json",
-      "bytes": 68437,
-      "sha256": "d4b93f4f552311bd3bead899f48cd5d842d3d1d15fa0cb29ffb4c3fcfe9caf51",
-      "original_copy_sha256": "d4b93f4f552311bd3bead899f48cd5d842d3d1d15fa0cb29ffb4c3fcfe9caf51"
-    },
-    {
-      "path": "docs/facility-art-manifest.json",
-      "bytes": 12569,
-      "sha256": "741e7ffa7818a723dc25b8205b011b0e0e38574ec8ae78b389703274cb48c89c",
-      "original_copy_sha256": "741e7ffa7818a723dc25b8205b011b0e0e38574ec8ae78b389703274cb48c89c"
-    },
-    {
-      "path": "docs/chapter-art-manifest.json",
-      "bytes": 1618,
-      "sha256": "e2ba45587fc103ea71e357de11714d4fd1b4fc8741bd9e59677ebc9b3eb91601",
-      "original_copy_sha256": "e2ba45587fc103ea71e357de11714d4fd1b4fc8741bd9e59677ebc9b3eb91601"
     }
   ]
 }
